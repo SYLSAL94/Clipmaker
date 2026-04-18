@@ -167,24 +167,64 @@ def render_tab_config(
     def load_match_config():
         name = st.session_state.get("ui_sel_match_config", "")
         if name:
-            path = os.path.join(MATCH_CONFIG_DIR, name)
-            if os.path.exists(path):
-                with open(path, "r", encoding="utf-8") as f:
-                    config = json.load(f)
-                for k, v in config.items():
-                    st.session_state[k] = v
-                st.session_state["ui_match_config_name"] = name.replace(".json", "")
-                st.session_state.opta_processed = False
-                st.session_state.opta_df = None
+            try:
+                load_dotenv('/home/datafoot/.env')
+                DB_PWD = os.getenv('POSTGRES_PWD')
+                db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+                engine = create_engine(db_url)
+                with engine.connect() as conn:
+                    query = text("SELECT r2_video_key, r2_data_key, ui_config FROM match_configs WHERE match_name = :n")
+                    row = conn.execute(query, {"n": name}).fetchone()
+                    
+                    if row:
+                        video_path, csv_path, ui_config_raw = row
+                        
+                        # Si ui_config_raw est une string (JSON), on le parse. SQLAlchemy le gère souvent auto.
+                        import json
+                        if isinstance(ui_config_raw, str):
+                            ui_config = json.loads(ui_config_raw)
+                        else:
+                            ui_config = ui_config_raw
+                        
+                        # Synchronisation Session State
+                        st.session_state["video_path"] = video_path
+                        st.session_state["csv_path"] = csv_path
+                        
+                        # On injecte les valeurs de ui_config dans le session_state
+                        if ui_config:
+                            for k, v in ui_config.items():
+                                # On évite de polluer avec des clés internes
+                                if k not in ["r2_video_key", "r2_data_key"]:
+                                    st.session_state[k] = v
+                                    # Correction spécifique pour les périodes
+                                    if k == "periods" and isinstance(v, dict):
+                                        for p_key, p_val in v.items():
+                                            st.session_state[f"ui_{p_key}"] = p_val
+
+                        st.session_state["ui_match_config_name"] = name
+                        st.session_state.opta_processed = False
+                        st.session_state.opta_df = None
+                        st.success(f"✅ Match '{name}' chargé depuis PostgreSQL.")
+            except Exception as e:
+                st.error(f"❌ Erreur Load DB : {e}")
 
     def delete_match_config():
         name = st.session_state.get("ui_sel_match_config", "")
         if name:
-            path = os.path.join(MATCH_CONFIG_DIR, name)
-            if os.path.exists(path):
-                os.remove(path)
+            try:
+                load_dotenv('/home/datafoot/.env')
+                DB_PWD = os.getenv('POSTGRES_PWD')
+                db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+                engine = create_engine(db_url)
+                with engine.connect() as conn:
+                    query = text("DELETE FROM match_configs WHERE match_name = :n")
+                    conn.execute(query, {"n": name})
+                    conn.commit()
                 st.session_state.ui_sel_match_config = ""
-                st.success(f"Configuration '{name}' supprimée.")
+                st.success(f"🗑️ Configuration '{name}' supprimée de PostgreSQL.")
+                st.rerun()
+            except Exception as e:
+                st.error(f"❌ Erreur Delete DB : {e}")
 
     def reset_match_config():
         for k in ["ui_match_config_name", "ui_sel_match_config", "video_path", "video2_path", "csv_path"]:

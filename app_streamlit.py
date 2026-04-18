@@ -330,14 +330,22 @@ def main():
     st.session_state["match_config_dir"] = MATCH_CONFIG_DIR
     os.makedirs(MATCH_CONFIG_DIR, exist_ok=True)
 
+    # ---- 3. Cloud-Native Match Discovery (PostgreSQL) ----
     available_match_configs = []
-    if os.path.exists(MATCH_CONFIG_DIR):
-        for root, dirs, files in os.walk(MATCH_CONFIG_DIR):
-            for f in files:
-                if f.endswith(".json"):
-                    rel_path = os.path.relpath(os.path.join(root, f), MATCH_CONFIG_DIR)
-                    available_match_configs.append(rel_path.replace("\\", "/"))
-    available_match_configs = sorted(available_match_configs)
+    try:
+        load_dotenv('/home/datafoot/.env')
+        DB_PWD = os.getenv('POSTGRES_PWD')
+        # On utilise SQLAlchemy (déjà installé pour tab_config) ou psycopg2
+        from sqlalchemy import create_engine, text
+        db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+        engine = create_engine(db_url)
+        with engine.connect() as conn:
+            query = text("SELECT match_name FROM match_configs ORDER BY updated_at DESC")
+            result = conn.execute(query)
+            available_match_configs = [row[0] for row in result]
+    except Exception as e:
+        st.sidebar.error(f"⚠️ Erreur Sync DB : {e}")
+        available_match_configs = []
 
     # Initialise les profils disponibles
     available_profiles = sorted([f for f in os.listdir(PROFILE_DIR) if f.endswith(".json")])
