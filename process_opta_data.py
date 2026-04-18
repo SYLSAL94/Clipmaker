@@ -2,9 +2,10 @@ import pandas as pd
 import numpy as np
 import datetime
 import math
-import os
 import json
 from typing import List, Dict, Any, Optional
+from sqlalchemy import create_engine, text
+from dotenv import load_dotenv
 
 class OptaProcessor:
     def __init__(self):
@@ -484,6 +485,55 @@ class OptaProcessor:
                 curr['adv_GAP_DETECTED'] = False
 
         return all_events
+
+    def ingest_to_db(self, all_events: List[Dict], log_callback=None):
+        """
+        ZERO-DISK : Ingeste les événements traités directement dans PostgreSQL (datafoot_db).
+        Utilise SQLAlchemy pour la performance et la sécurité.
+        """
+        def log(msg):
+            if log_callback: log_callback(msg)
+            else: print(msg)
+
+        if not all_events:
+            log("⚠️ Aucun événement à ingérer.")
+            return False
+
+        try:
+            # 1. Préparation des identifiants
+            load_dotenv('/home/datafoot/.env')
+            DB_PWD = os.getenv('POSTGRES_PWD')
+            if not DB_PWD:
+                log("❌ POSTGRES_PWD manquante dans le .env")
+                return False
+
+            # 2. Conversion en DataFrame
+            df = pd.DataFrame(all_events)
+            
+            # Sérialisation des dictionnaires complexes (qualifiers) en JSON pour SQL
+            if 'qualifiers' in df.columns:
+                df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(x) if isinstance(x, dict) else x)
+
+            # 3. Connexion et Ingestion
+            db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+            engine = create_engine(db_url)
+            
+            match_name = all_events[0].get('matchName', 'Unknown Match')
+            
+            with engine.begin() as conn:
+                # Nettoyage des anciennes données pour ce match (Évite les doublons)
+                log(f"🧹 Nettoyage des anciens événements pour : {match_name}")
+                conn.execute(text("DELETE FROM opta_events WHERE \"matchName\" = :m"), {"m": match_name})
+                
+                # Ingestion massive via to_sql
+                log(f"🚀 Ingestion SQL de {len(df)} événements...")
+                df.to_sql('opta_events', con=conn, if_exists='append', index=False, method='multi', chunksize=1000)
+            
+            log("✅ Ingestion PostgreSQL terminée avec succès.")
+            return True
+        except Exception as e:
+            log(f"❌ Erreur lors de l'ingestion SQL : {e}")
+            return False
 
     def process_file(self, file_path: str, log_callback=None) -> List[Dict]:
         """Compatibilité descendante pour les appels par chemin de fichier."""

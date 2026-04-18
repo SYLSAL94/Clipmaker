@@ -153,6 +153,16 @@ def render_tab_config(
                 }
             }
             if save_match_config_to_db(m_name, v1, data_key, ui_cfg):
+                # Mission : Ingestion des événements Opta dans PostgreSQL (Zéro-Disque)
+                from process_opta_data import OptaProcessor
+                try:
+                    processor = OptaProcessor()
+                    opta_buffer.seek(0) # On rembobine pour la lecture
+                    events = processor.process_file_stream(opta_buffer, opta.name)
+                    processor.ingest_to_db(events)
+                except Exception as e:
+                    st.warning(f"⚠️ Match associé mais erreur d'ingestion des événements : {e}")
+
                 # ICI on peut modifier session_state car on est en mode CALLBACK
                 st.session_state.video_path = v1
                 st.session_state.video2_path = v2 if split else ""
