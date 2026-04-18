@@ -355,33 +355,50 @@ def render_tab_config(
     video_path = st.session_state.get("video_path", "")
     video2_path = st.session_state.get("video2_path", "")
     csv_path = st.session_state.get("csv_path", "")
-    split_video = st.session_state.get("ui_split_video", False)
-
+    
     match_name = st.text_input("Nom du Match (ex: Alaves_vs_Levante)", key="new_match_name")
+    split_video = st.checkbox("Le match est fractionné en 2 vidéos (Mi-temps 1 & 2)", key="ui_split_video")
 
     col1, col2 = st.columns(2)
     with col1:
-        video_file = st.file_uploader("🎬 Vidéo (.mp4)", type=["mp4", "mkv", "ts"])
+        video_file = st.file_uploader("🎬 Vidéo 1 (ou Match Complet)", type=["mp4", "mkv", "ts"], key="v_up_1")
+        video_file_h2 = None
+        if split_video:
+            video_file_h2 = st.file_uploader("🎬 Vidéo 2 (2ème Mi-temps)", type=["mp4", "mkv", "ts"], key="v_up_2")
     with col2:
-        opta_file = st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"])
+        opta_file = st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"], key="d_up_1")
 
-    if st.button("🚀 Uploader et Sauvegarder", type="primary") and video_file and opta_file and match_name:
+    # On vérifie si tout est prêt selon le mode (simple ou fractionné)
+    can_upload = video_file and opta_file and match_name
+    if split_video:
+        can_upload = can_upload and video_file_h2
+
+    if st.button("🚀 Uploader et Sauvegarder", type="primary", disabled=not can_upload):
         with st.spinner("Transfert vers Cloudflare R2..."):
-            # Les "clés" sont les chemins virtuels dans ton bucket theanalyste-clips
-            video_key = f"videos/{match_name}.mp4"
+            # Les "clés" sont les chemins virtuels dans ton bucket
+            video_key = f"videos/{match_name}_H1.mp4" if split_video else f"videos/{match_name}.mp4"
+            video_key_h2 = f"videos/{match_name}_H2.mp4" if split_video else None
             data_key = f"data/{match_name}.xlsx"
             
-            # Envoi en streaming (RAM -> R2)
-            success_v = upload_stream_to_r2(video_file, video_key)
-            # Pas besoin de seek(0) si upload_stream_to_r2 le fait déjà, mais par sécu :
-            video_file.seek(0) 
+            # Envoi Vidéo 1
+            success_v1 = upload_stream_to_r2(video_file, video_key)
+            video_file.seek(0)
             
+            # Envoi Vidéo 2 (si split)
+            success_v2 = True
+            if split_video and video_file_h2:
+                success_v2 = upload_stream_to_r2(video_file_h2, video_key_h2)
+                video_file_h2.seek(0)
+            
+            # Envoi Données
             success_d = upload_stream_to_r2(opta_file, data_key)
             opta_file.seek(0) 
 
-            if success_v and success_d:
-                # Injection dans PostgreSQL de la config UI (les réglages)
+            if success_v1 and success_v2 and success_d:
+                # Injection dans PostgreSQL de la config UI
                 ui_config_dict = {
+                    "split_video": split_video,
+                    "r2_video_key_h2": video_key_h2,
                     "use_crop": st.session_state.get("ui_use_crop", False),
                     "crop_params": st.session_state.get("ui_crop_params", {}),
                     "periods": {
