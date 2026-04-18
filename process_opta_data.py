@@ -52,7 +52,7 @@ class OptaProcessor:
         # String comparison
         if str(v) == str(value):
             return True
-              def process_file_stream(self, file_stream, file_name: str, log_callback=None) -> List[Dict]:
+    def process_file_stream(self, file_stream, file_name: str, log_callback=None) -> List[Dict]:
         """ZERO-DISK : Lit directement le flux binaire de Streamlit via openpyxl ou pandas"""
         def log(msg):
             if log_callback: log_callback(msg)
@@ -484,6 +484,11 @@ class OptaProcessor:
                 curr['adv_GAP_DETECTED'] = False
 
         return all_events
+
+    def process_file(self, file_path: str, log_callback=None) -> List[Dict]:
+        """Compatibilité descendante pour les appels par chemin de fichier."""
+        with open(file_path, 'rb') as f:
+            return self.process_file_stream(f, os.path.basename(file_path), log_callback)
 
     def assign_receivers(self, all_events):
         for i, event in enumerate(all_events):

@@ -77,6 +77,15 @@ def render_tab_config(
             "ui_half_filter": st.session_state.get("ui_half_filter", "Both halves"),
         }
 
+    def save_match_config():
+        """Sauvegarde via le nouveau système SQL (Redirection)"""
+        st.warning("Utilisez le bouton '🚀 Uploader et Sauvegarder' en bas pour le Zero-Disk.")
+
+    def update_match_config():
+        """Mise à jour via le nouveau système SQL (Redirection)"""
+        # On pourrait ici implémenter une logique de mise à jour SQL simplifiée
+        st.info("La mise à jour se fait désormais par l'interface Cloud en bas.")
+
     def save_match_config_to_db(match_name, video_key, data_key, ui_config):
         """Enregistre la configuration du match directement dans PostgreSQL"""
         # SÉCURITÉ : Chargement silencieux des variables d'environnement
@@ -341,6 +350,13 @@ def render_tab_config(
     # SOURCE FILES (ZERO-DISK CLOUD INGESTION)
     # =========================================================================
     st.subheader("☁️ Ingestion Cloud (Zéro-Disque)")
+    
+    # Initialisation des variables locales pour éviter les NameError
+    video_path = st.session_state.get("video_path", "")
+    video2_path = st.session_state.get("video2_path", "")
+    csv_path = st.session_state.get("csv_path", "")
+    split_video = st.session_state.get("ui_split_video", False)
+
     match_name = st.text_input("Nom du Match (ex: Alaves_vs_Levante)", key="new_match_name")
 
     col1, col2 = st.columns(2)
