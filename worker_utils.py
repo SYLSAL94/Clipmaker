@@ -69,43 +69,45 @@ def process_task(args):
 
 def load_match_data_task(args):
     """
-    Worker function to load (or process if needed) a single match's data.
-    Must be top-level for ProcessPoolExecutor.
-    args = (config_name, match_config_dir)
+    ZERO-DISK : Recharge les données Opta depuis PostgreSQL (Control Plane).
+    Récupère les événements et aplatit le JSONB qualifiers pour le front-end.
     """
-    config_name, match_config_dir = args
+    match_name, match_config_dir = args
     try:
         import os
         import json
         import pandas as pd
-        from process_opta_data import OptaProcessor
+        from sqlalchemy import create_engine, text
+        from dotenv import load_dotenv
         
-        path = os.path.join(match_config_dir, config_name)
-        with open(path, "r", encoding="utf-8") as f:
-            c_data = json.load(f)
+        # 1. Connexion SQL
+        load_dotenv('/home/datafoot/.env')
+        DB_PWD = os.getenv('POSTGRES_PWD')
+        db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+        engine = create_engine(db_url)
         
-        source_path = c_data.get("csv_path", "").strip().strip("\"'")
-        if not source_path or not os.path.exists(source_path):
+        # 2. Lecture des données
+        with engine.connect() as conn:
+            query = text("SELECT * FROM opta_events WHERE \"matchName\" = :m")
+            m_df = pd.read_sql(query, conn, params={"m": match_name})
+            
+        if m_df.empty:
             return None
-        
-        clean_cache_path = get_opta_cache_path(source_path)
-        
-        m_df = None
-        if os.path.exists(clean_cache_path):
-            m_df = pd.read_csv(clean_cache_path)
-            # Check validity (need one_two_score marker)
-            if 'one_two_score' not in m_df.columns:
-                m_df = None
-        
-        if m_df is None:
-            processor = OptaProcessor()
-            processed_events = processor.process_file(source_path)
-            m_df = pd.DataFrame(processed_events)
-            m_df.to_csv(clean_cache_path, index=False)
-        
-        m_df["_source_config_file"] = config_name
+            
+        # 3. Mission 4 : Aplatissage des Qualifiers (JSONB -> Colonnes)
+        if 'qualifiers' in m_df.columns:
+            # Conversion JSON (string/dict -> dict)
+            m_df['qualifiers'] = m_df['qualifiers'].apply(lambda x: json.loads(x) if isinstance(x, str) else x)
+            # Expansion des clés JSON en colonnes DataFrame
+            q_flat = pd.json_normalize(m_df['qualifiers'])
+            # Merge avec le DF principal et suppression de l'original
+            m_df = pd.concat([m_df.drop(columns=['qualifiers']), q_flat], axis=1)
+            
+        # 4. Métadonnées de compatibilité
+        m_df["_source_config_file"] = match_name
         m_df["_source_config_dir"] = match_config_dir
+        
         return m_df
     except Exception as e:
-        print(f"Erreur fusion sur {config_name}: {e}")
+        print(f"❌ Erreur SQL Load sur {match_name}: {e}")
         return None
