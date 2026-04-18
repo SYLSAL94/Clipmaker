@@ -355,6 +355,7 @@ def render_tab_config(
     video_path = st.session_state.get("video_path", "")
     video2_path = st.session_state.get("video2_path", "")
     csv_path = st.session_state.get("csv_path", "")
+    split_video = st.session_state.get("ui_split_video", False)
 
     # 1. Le Menu Déroulant (Scan en direct de R2)
     # On met en cache la liste pour éviter de spammer R2 à chaque frappe au clavier
