@@ -15,7 +15,7 @@ import streamlit as st
 import re
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
-from r2_manager import upload_stream_to_r2
+from r2_manager import upload_stream_to_r2, get_available_videos_from_r2
 
 from ui_match_utils import (
     extract_match_keywords_from_filenames,
@@ -347,73 +347,80 @@ def render_tab_config(
                 st.info("Sélectionnez un match pour voir le diagnostic.")
 
     # =========================================================================
-    # SOURCE FILES (ZERO-DISK CLOUD INGESTION)
+    # SOURCE FILES (HYBRIDE R2 + SQL)
     # =========================================================================
-    st.subheader("☁️ Ingestion Cloud (Zéro-Disque)")
+    st.subheader("☁️ Association Cloud (Vidéo R2 + Data Opta)")
     
     # Initialisation des variables locales pour éviter les NameError
     video_path = st.session_state.get("video_path", "")
     video2_path = st.session_state.get("video2_path", "")
     csv_path = st.session_state.get("csv_path", "")
+
+    # 1. Le Menu Déroulant (Scan en direct de R2)
+    # On met en cache la liste pour éviter de spammer R2 à chaque frappe au clavier
+    if "r2_available_videos" not in st.session_state:
+        st.session_state.r2_available_videos = get_available_videos_from_r2()
     
-    match_name = st.text_input("Nom du Match (ex: Alaves_vs_Levante)", key="new_match_name")
-    split_video = st.checkbox("Le match est fractionné en 2 vidéos (Mi-temps 1 & 2)", key="ui_split_video")
+    if st.button("🔄 Actualiser les vidéos Cloud (R2)", key="refresh_r2_btn"):
+        st.session_state.r2_available_videos = get_available_videos_from_r2()
+        st.rerun()
 
-    col1, col2 = st.columns(2)
-    with col1:
-        video_file = st.file_uploader("🎬 Vidéo 1 (ou Match Complet)", type=["mp4", "mkv", "ts"], key="v_up_1")
-        video_file_h2 = None
+    available_v = st.session_state.r2_available_videos
+    
+    selected_video_key = ""
+    selected_video_key_h2 = ""
+    
+    if not available_v:
+        st.warning("⚠️ Aucune vidéo trouvée sur Cloudflare R2. Uploadez vos fichiers dans le dossier 'videos/' via Cyberduck ou R2 Web UI.")
+    else:
+        split_video = st.checkbox("Le match est fractionné en 2 vidéos (Mi-temps 1 & 2)", key="ui_split_video_h")
+        
+        c_v1, c_v2 = st.columns(2)
+        with c_v1:
+            selected_video_key = st.selectbox("🎬 Vidéo 1 (ou Match complet)", [""] + available_v, key="sel_r2_v1")
+        with c_v2:
+            if split_video:
+                selected_video_key_h2 = st.selectbox("🎬 Vidéo 2 (2ème mi-temps)", [""] + available_v, key="sel_r2_v2")
+
+        # 2. L'upload du fichier Excel (Très léger pour la RAM)
+        st.divider()
+        col_d1, col_d2 = st.columns(2)
+        with col_d1:
+            match_name = st.text_input("Nom du Match (ex: LALIGA_Alaves_Levante)", key="new_match_name_h")
+        with col_d2:
+            opta_file = st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"], key="d_up_h")
+
+        can_associate = selected_video_key and opta_file and match_name
         if split_video:
-            video_file_h2 = st.file_uploader("🎬 Vidéo 2 (2ème Mi-temps)", type=["mp4", "mkv", "ts"], key="v_up_2")
-    with col2:
-        opta_file = st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"], key="d_up_1")
+            can_associate = can_associate and selected_video_key_h2
 
-    # On vérifie si tout est prêt selon le mode (simple ou fractionné)
-    can_upload = video_file and opta_file and match_name
-    if split_video:
-        can_upload = can_upload and video_file_h2
-
-    if st.button("🚀 Uploader et Sauvegarder", type="primary", disabled=not can_upload):
-        with st.spinner("Transfert vers Cloudflare R2..."):
-            # Les "clés" sont les chemins virtuels dans ton bucket
-            video_key = f"videos/{match_name}_H1.mp4" if split_video else f"videos/{match_name}.mp4"
-            video_key_h2 = f"videos/{match_name}_H2.mp4" if split_video else None
-            data_key = f"data/{match_name}.xlsx"
-            
-            # Envoi Vidéo 1
-            success_v1 = upload_stream_to_r2(video_file, video_key)
-            video_file.seek(0)
-            
-            # Envoi Vidéo 2 (si split)
-            success_v2 = True
-            if split_video and video_file_h2:
-                success_v2 = upload_stream_to_r2(video_file_h2, video_key_h2)
-                video_file_h2.seek(0)
-            
-            # Envoi Données
-            success_d = upload_stream_to_r2(opta_file, data_key)
-            opta_file.seek(0) 
-
-            if success_v1 and success_v2 and success_d:
-                # Injection dans PostgreSQL de la config UI
-                ui_config_dict = {
-                    "split_video": split_video,
-                    "r2_video_key_h2": video_key_h2,
-                    "use_crop": st.session_state.get("ui_use_crop", False),
-                    "crop_params": st.session_state.get("ui_crop_params", {}),
-                    "periods": {
-                        "half1": st.session_state.get("ui_half1", ""),
-                        "half2": st.session_state.get("ui_half2", ""),
-                        "half3": st.session_state.get("ui_half3", ""),
-                        "half4": st.session_state.get("ui_half4", "")
-                    }
-                }
+        if st.button("🚀 Associer et Sauvegarder", type="primary", disabled=not can_associate):
+            with st.spinner("Lien Vidéo 🔗 Données Opta..."):
+                data_key = f"data/{match_name}.xlsx"
                 
-                if save_match_config_to_db(match_name, video_key, data_key, ui_config_dict):
-                    st.success("✅ Match synchronisé avec succès sur le Cloud et PostgreSQL !")
-                    st.balloons()
-            else:
-                st.error("Erreur lors de l'upload vers Cloudflare R2.")
+                # Envoi uniquement de l'Excel vers R2 (la vidéo y est déjà !)
+                if upload_stream_to_r2(opta_file, data_key):
+                    opta_file.seek(0)
+                    
+                    # Injection SQL avec les clés R2
+                    ui_config_dict = {
+                        "split_video": split_video,
+                        "r2_video_key_h2": selected_video_key_h2,
+                        "use_crop": st.session_state.get("ui_use_crop", False),
+                        "crop_params": st.session_state.get("ui_crop_params", {}),
+                        "periods": {
+                            "half1": st.session_state.get("ui_half1", ""),
+                            "half2": st.session_state.get("ui_half2", ""),
+                            "half3": st.session_state.get("ui_half3", ""),
+                            "half4": st.session_state.get("ui_half4", "")
+                        }
+                    }
+                    
+                    if save_match_config_to_db(match_name, selected_video_key, data_key, ui_config_dict):
+                        st.success(f"✅ Match '{match_name}' synchronisé ! Vidéo et Excel liés dans PostgreSQL.")
+                        st.balloons()
+                else:
+                    st.error("Erreur lors de l'upload des données Opta vers R2.")
 
     # Opta Processing
     clean_csv_path = csv_path.strip().strip("\"'")

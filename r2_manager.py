@@ -31,3 +31,28 @@ def upload_stream_to_r2(file_stream, r2_key):
     except Exception as e:
         print(f"Erreur Upload R2 : {e}")
         return False
+
+def get_available_videos_from_r2():
+    """Scan le bucket R2 et retourne la liste des vidéos disponibles"""
+    # SÉCURITÉ : Chargement silencieux des variables d'environnement (chemin VPS)
+    if os.path.exists('/home/datafoot/.env'):
+        load_dotenv('/home/datafoot/.env')
+    else:
+        load_dotenv()
+    
+    client = get_r2_client()
+    bucket_name = os.getenv('R2_BUCKET_NAME')
+    
+    try:
+        # On liste les objets dans le dossier "videos/" du bucket
+        response = client.list_objects_v2(Bucket=bucket_name, Prefix='videos/')
+        if 'Contents' in response:
+            # On extrait uniquement les clés (chemins) des fichiers .mp4, .mkv, .ts
+            videos = [item['Key'] for item in response['Contents'] 
+                      if item['Key'].lower().endswith(('.mp4', '.mkv', '.ts', '.mov'))]
+            # On trie pour l'affichage
+            return sorted(videos)
+        return []
+    except Exception as e:
+        print(f"❌ Erreur lors du scan R2 : {e}")
+        return []
