@@ -129,7 +129,8 @@ def render_tab_config(
             return
 
         data_key = f"data/{m_name}.xlsx"
-        if upload_stream_to_r2(opta, data_key):
+        success_r2, err_r2 = upload_stream_to_r2(opta, data_key)
+        if success_r2:
             ui_cfg = {
                 "split_video": split,
                 "r2_video_key_h2": v2 if split else None,
@@ -150,9 +151,9 @@ def render_tab_config(
                 st.session_state.ui_sel_match_config = m_name
                 st.session_state.assoc_success = True
             else:
-                st.session_state.last_assoc_error = "Erreur SQL."
+                st.session_state.last_assoc_error = "Erreur SQL lors de l'enregistrement."
         else:
-            st.session_state.last_assoc_error = "Erreur R2."
+            st.session_state.last_assoc_error = err_r2
 
     def load_match_config():
         name = st.session_state.get("ui_sel_match_config", "")
