@@ -133,12 +133,17 @@ def render_tab_config(
             st.session_state.last_assoc_error = "Veuillez remplir tous les champs."
             return
 
-        # Mission 2 : Protection du Buffer (Zéro-Disque / RAM Stability)
+        # Mission : RAM Isolation (Évite 'closed file' error)
         import io
-        opta_buffer = io.BytesIO(opta.getvalue())
+        opta_raw_bytes = opta.getvalue()
+        r2_buffer = io.BytesIO(opta_raw_bytes)
+        db_buffer = io.BytesIO(opta_raw_bytes)
         
         data_key = f"data/{m_name}.xlsx"
-        success_r2, err_r2 = upload_stream_to_r2(opta_buffer, data_key)
+        
+        # 1. Pipeline Cloudflare R2
+        success_r2, err_r2 = upload_stream_to_r2(r2_buffer, data_key)
+        
         if success_r2:
             ui_cfg = {
                 "split_video": split,
@@ -152,18 +157,19 @@ def render_tab_config(
                     "half4": st.session_state.get("ui_half4", "")
                 }
             }
+            # 2. Pipeline PostgreSQL (Config)
             if save_match_config_to_db(m_name, v1, data_key, ui_cfg):
-                # Mission : Ingestion des événements Opta dans PostgreSQL (Zéro-Disque)
+                # 3. Pipeline PostgreSQL (Events Ingestion) - Zéro-Disque
                 from process_opta_data import OptaProcessor
                 try:
                     processor = OptaProcessor()
-                    opta_buffer.seek(0) # On rembobine pour la lecture
-                    events = processor.process_file_stream(opta_buffer, opta.name)
+                    # On utilise le buffer DB dédié pour éviter les collisions
+                    events = processor.process_file_stream(db_buffer, opta.name)
                     processor.ingest_to_db(events)
                 except Exception as e:
                     st.warning(f"⚠️ Match associé mais erreur d'ingestion des événements : {e}")
 
-                # ICI on peut modifier session_state car on est en mode CALLBACK
+                # Sync Session State
                 st.session_state.video_path = v1
                 st.session_state.video2_path = v2 if split else ""
                 st.session_state.csv_path = data_key
