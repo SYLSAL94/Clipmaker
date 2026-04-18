@@ -401,7 +401,6 @@ def render_tab_config(
                 
                 # Envoi uniquement de l'Excel vers R2 (la vidéo y est déjà !)
                 if upload_stream_to_r2(opta_file, data_key):
-                    opta_file.seek(0)
                     
                     # Injection SQL avec les clés R2
                     ui_config_dict = {
