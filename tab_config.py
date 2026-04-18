@@ -91,11 +91,11 @@ def render_tab_config(
         load_dotenv('/home/datafoot/.env')
         DB_PWD = os.getenv('POSTGRES_PWD')
         
-        # Connexion à ton conteneur Docker
+        # Mission 1 : Architecture Sécurisée (analyst_admin @ datafoot_db)
         try:
-            engine = create_engine(f"postgresql://postgres:{DB_PWD}@localhost:5432/postgres")
+            db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+            engine = create_engine(db_url)
             with engine.connect() as conn:
-                # On utilise JSONB pour ui_config
                 import json
                 ui_config_json = json.dumps(ui_config)
                 
@@ -133,8 +133,12 @@ def render_tab_config(
             st.session_state.last_assoc_error = "Veuillez remplir tous les champs."
             return
 
+        # Mission 2 : Protection du Buffer (Zéro-Disque / RAM Stability)
+        import io
+        opta_buffer = io.BytesIO(opta.getvalue())
+        
         data_key = f"data/{m_name}.xlsx"
-        success_r2, err_r2 = upload_stream_to_r2(opta, data_key)
+        success_r2, err_r2 = upload_stream_to_r2(opta_buffer, data_key)
         if success_r2:
             ui_cfg = {
                 "split_video": split,
