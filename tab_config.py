@@ -15,7 +15,7 @@ import streamlit as st
 import re
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
-from r2_manager import upload_stream_to_r2, get_available_videos_from_r2
+from r2_manager import upload_stream_to_r2, get_available_videos_from_r2, get_r2_presigned_url
 
 from ui_match_utils import (
     extract_match_keywords_from_filenames,
@@ -532,8 +532,17 @@ def render_tab_config(
     else:
         st.caption("Type exactly what your video player shows — MM:SS or HH:MM:SS")
 
-    test_video1 = st.session_state.video_path or video_path
-    test_video2 = st.session_state.video2_path or video2_path
+    test_video1 = st.session_state.get("sel_r2_v1") or st.session_state.get("video_path", "") or video_path
+    test_video2 = st.session_state.get("sel_r2_v2") or st.session_state.get("video2_path", "") or video2_path
+
+    # Transformation en URL signée si c'est une clé R2 (pour le lecteur Streamlit et FFmpeg)
+    if test_video1 and not os.path.exists(test_video1):
+        url1 = get_r2_presigned_url(test_video1)
+        if url1: test_video1 = url1
+        
+    if test_video2 and not os.path.exists(test_video2):
+        url2 = get_r2_presigned_url(test_video2)
+        if url2: test_video2 = url2
 
     tc1, tc2 = st.columns(2)
     with tc1:
@@ -615,7 +624,10 @@ def render_tab_config(
                 if st.session_state.ui_show_img_h2 and os.path.exists("h2_capture.jpg"):
                     st.image("h2_capture.jpg", caption=f"Capture 2ème MT à {half2}")
             else:
-                st.info("Vidéo 2 manquante")
+                if split_video:
+                    st.info("⚠️ Vidéo 2 manquante (2ème mi-temps)")
+                else:
+                    st.info("⚠️ Sélectionnez d'abord une vidéo en haut")
 
         half4 = st.text_input("ET 2nd Half (optional)", placeholder="leave blank", key="ui_half4", on_change=update_match_config)
 

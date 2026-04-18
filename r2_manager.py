@@ -53,6 +53,18 @@ def get_available_videos_from_r2():
             # On trie pour l'affichage
             return sorted(videos)
         return []
+def get_r2_presigned_url(r2_key, expiration=3600):
+    """Génère une URL signée temporaire pour visionner la vidéo dans le navigateur"""
+    client = get_r2_client()
+    bucket_name = os.getenv('R2_BUCKET_NAME')
+    
+    try:
+        url = client.generate_presigned_url(
+            'get_object',
+            Params={'Bucket': bucket_name, 'Key': r2_key},
+            ExpiresIn=expiration
+        )
+        return url
     except Exception as e:
-        print(f"❌ Erreur lors du scan R2 : {e}")
-        return []
+        print(f"❌ Erreur URL signée R2 : {e}")
+        return None
