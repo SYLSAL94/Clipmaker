@@ -343,7 +343,7 @@ class OptaProcessor:
             })
 
             base = {
-                'id': f"{os.path.basename(file_path)}-{row.get('id', i+1)}",
+                'id': f"{os.path.basename(file_name)}-{row.get('id', i+1)}",
                 'eventId': row.get('eventId'),
                 'matchName': match_name,
                 'teamName': team,
