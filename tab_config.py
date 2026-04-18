@@ -374,7 +374,7 @@ def render_tab_config(
     if not available_v:
         st.warning("⚠️ Aucune vidéo trouvée sur Cloudflare R2. Uploadez vos fichiers dans le dossier 'videos/' via Cyberduck ou R2 Web UI.")
     else:
-        split_video = st.checkbox("Le match est fractionné en 2 vidéos (Mi-temps 1 & 2)", key="ui_split_video_h")
+        split_video = st.checkbox("Le match est fractionné en 2 fichiers (Mi-temps 1 & 2)", key="ui_split_video")
         
         c_v1, c_v2 = st.columns(2)
         with c_v1:
@@ -417,6 +417,12 @@ def render_tab_config(
                     }
                     
                     if save_match_config_to_db(match_name, selected_video_key, data_key, ui_config_dict):
+                        # Mise à jour immédiate du session_state pour permettre les tests de timestamps/vidéos
+                        st.session_state.video_path = selected_video_key
+                        st.session_state.video2_path = selected_video_key_h2 if selected_video_key_h2 else ""
+                        st.session_state.csv_path = data_key
+                        st.session_state.ui_sel_match_config = match_name # On sélectionne le match
+                        
                         st.success(f"✅ Match '{match_name}' synchronisé ! Vidéo et Excel liés dans PostgreSQL.")
                         st.balloons()
                 else:
