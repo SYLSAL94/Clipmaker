@@ -330,6 +330,17 @@ class OptaProcessor:
                         opposition_player_name = related_info['playerName']
                         is_duel = True
 
+            # Mission DevOps : On pack l'enrichissement dans 'qualifiers' pour ne rien perdre en SQL
+            qualifiers.update({
+                'xT': float(row['xT']) if pd.notna(row.get('xT')) else 0.0,
+                'prog_pass': float(row['prog_pass']) if pd.notna(row.get('prog_pass')) else 0.0,
+                'prog_carry': float(row['prog_carry']) if pd.notna(row.get('prog_carry')) else 0.0,
+                'carry_distance': float(row.get('carry_distance', 0)),
+                'assist': int(row['assist']) if pd.notna(row.get('assist')) else 0,
+                'secondAssist': int(row.get('second_assist', 0)) if pd.notna(row.get('second_assist')) else int(row.get('secondAssist', 0)) if pd.notna(row.get('secondAssist')) else 0,
+                'isBigChanceCreated': False  # Sera mis à jour plus bas
+            })
+
             base = {
                 'id': f"{os.path.basename(file_path)}-{row.get('id', i+1)}",
                 'eventId': row.get('eventId'),
@@ -353,27 +364,13 @@ class OptaProcessor:
                 'y': float(row.get('y', 0)),
                 'endX': float(row['endX']) if pd.notna(row.get('endX')) else None,
                 'endY': float(row['endY']) if pd.notna(row.get('endY')) else None,
-                'assist': int(row['assist']) if pd.notna(row.get('assist')) else 0,
-                'secondAssist': int(row.get('second_assist', 0)) if pd.notna(row.get('second_assist')) else int(row.get('secondAssist', 0)) if pd.notna(row.get('secondAssist')) else 0,
-                'oneTwoStatus': None,
-                'isBigChanceCreated': False,
                 'timeStamp': row.get('timeStamp'),
                 'h_a': row.get('h_a'),
                 'oppositionPlayerName': opposition_player_name,
                 'oppositionTeamName': opposition_team,
                 'possession_id': float(row['possession_id']) if pd.notna(row.get('possession_id')) else None,
                 'possession_team': row.get('possession_team', team),
-                'formation_name': row.get('formation_name'),
-                'qualifiers': qualifiers,
-                'value_OppositeRelatedEvent': val_opp,
-                'xT': float(row['xT']) if pd.notna(row.get('xT')) else None,
-                'receiver': None,
-                'value_Length': float(row['value_Length']) if pd.notna(row.get('value_Length')) else None,
-                'prog_pass': float(row['prog_pass']) if pd.notna(row.get('prog_pass')) else None,
-                'prog_carry': float(row['prog_carry']) if pd.notna(row.get('prog_carry')) else None,
-                'value_Goal mouth y coordinate': float(row['value_Goal mouth y coordinate']) if pd.notna(row.get('value_Goal mouth y coordinate')) else None,
-                'value_Goal mouth z coordinate': float(row['value_Goal mouth z coordinate']) if pd.notna(row.get('value_Goal mouth z coordinate')) else None,
-                'xA_approx': 0.0,
+                'qualifiers': qualifiers,  # Contient maintenant l'enrichissement !
             }
 
             if base['type'] in self.unsuccessful_types:
@@ -484,6 +481,21 @@ class OptaProcessor:
                 curr['time_gap'] = 0
                 curr['adv_GAP_DETECTED'] = False
 
+        # --- FINAL SYNC TO QUALIFIERS (DevOps Strategy) ---
+        # On s'assure que les colonnes enrichies sont sauvegardées dans le JSONB pour PostgreSQL
+        # Cela permet de garder une table SQL propre (8 colonnes) sans perdre d'information.
+        enriched_keys = [
+            'xT', 'prog_pass', 'prog_carry', 'carry_distance', 'carrySpeed_kmh',
+            'isBigChanceCreated', 'oneTwoStatus', 'one_two_score', 'receiver', 'sender',
+            'possession_id', 'sub_sequence_id', 'action_danger_score', 'time_gap',
+            'adv_GAP_DETECTED', 'adv_PRECEDES_REPLAY'
+        ]
+        for e in all_events:
+            if 'qualifiers' not in e: e['qualifiers'] = {}
+            for k in enriched_keys:
+                if k in e and e[k] is not None:
+                    e['qualifiers'][k] = e[k]
+
         return all_events
 
     def ingest_to_db(self, all_events: List[Dict], log_callback=None):
@@ -507,12 +519,22 @@ class OptaProcessor:
                 log("❌ POSTGRES_PWD manquante dans le .env")
                 return False
 
-            # 2. Conversion en DataFrame
+            # 2. Conversion et Filtrage Strict (Architecture DevOps)
             df = pd.DataFrame(all_events)
+            
+            target_cols = ['id', 'matchName', 'teamName', 'playerName', 'minute', 'second', 'type', 'qualifiers']
+            
+            # Sécurité : Si une colonne manque, on la crée vide
+            for col in target_cols:
+                if col not in df.columns:
+                    df[col] = None
             
             # Sérialisation des dictionnaires complexes (qualifiers) en JSON pour SQL
             if 'qualifiers' in df.columns:
                 df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(x) if isinstance(x, dict) else x)
+
+            # Application du masque de colonnes (On ignore le surplus pour PostgreSQL)
+            df = df[target_cols]
 
             # 3. Connexion et Ingestion
             db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
