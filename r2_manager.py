@@ -53,6 +53,10 @@ def get_available_videos_from_r2():
             # On trie pour l'affichage
             return sorted(videos)
         return []
+    except Exception as e:
+        print(f"❌ Erreur lors du scan R2 : {e}")
+        return []
+
 def get_r2_presigned_url(r2_key, expiration=3600):
     """Génère une URL signée temporaire pour visionner la vidéo dans le navigateur"""
     client = get_r2_client()
