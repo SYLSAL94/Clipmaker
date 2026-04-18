@@ -35,8 +35,9 @@ def upload_stream_to_r2(file_stream, r2_key):
     try:
         client = get_r2_client()
         bucket_name = os.getenv('R2_BUCKET_NAME')
-        # On remet le curseur au début au cas où
-        file_stream.seek(0)
+        # On remet le curseur au début si l'objet le permet
+        if hasattr(file_stream, 'seek'):
+            file_stream.seek(0)
         client.upload_fileobj(file_stream, bucket_name, r2_key)
         return True, None
     except Exception as e:

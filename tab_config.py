@@ -124,6 +124,11 @@ def render_tab_config(
         opta = st.session_state.get("d_up_h")
         split = st.session_state.get("ui_split_video_h", False)
         
+        # Sécurité anti-DeletedFile
+        if not opta or (hasattr(opta, "__class__") and opta.__class__.__name__ == "DeletedFile"):
+            st.session_state.last_assoc_error = "Le fichier Excel a été perdu. Veuillez le resélectionner."
+            return
+        
         if not (m_name and v1 and opta):
             st.session_state.last_assoc_error = "Veuillez remplir tous les champs."
             return
