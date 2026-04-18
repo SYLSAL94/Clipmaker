@@ -1,0 +1,2204 @@
+{
+    "Ligue_1_J10_Le_Havre_vs_Brest-2025-10-29.json": {
+        "mtime": 1775491327.6477582,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Brest",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J10_Lorient_vs_Paris_Saint-Germain-2025-10-29.json": {
+        "mtime": 1775491327.6558304,
+        "teams": [
+            "Lorient",
+            "Paris Saint-Germain FC",
+            "FC Lorient",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J10_Metz_vs_Lens-2025-10-29.json": {
+        "mtime": 1775491327.6577835,
+        "teams": [
+            "Racing Club de Lens",
+            "FC Metz",
+            "Lens",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J10_Nantes_vs_Monaco-2025-10-29.json": {
+        "mtime": 1775491327.6589196,
+        "teams": [
+            "AS Monaco FC",
+            "Nantes",
+            "FC Nantes",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J10_Nice_vs_Lille-2025-10-29.json": {
+        "mtime": 1775491327.659924,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J10_Olympique_Marseille_vs_Angers_SCO-2025-10-29.json": {
+        "mtime": 1775491327.6612554,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Olympique de Marseille",
+            "Angers SCO",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J10_Paris_FC_vs_Olympique_Lyonnais-2025-10-29.json": {
+        "mtime": 1775491327.6622767,
+        "teams": [
+            "Olympique Lyonnais",
+            "Paris FC"
+        ]
+    },
+    "Ligue_1_J10_Strasbourg_vs_Auxerre-2025-10-29.json": {
+        "mtime": 1775491327.6635685,
+        "teams": [
+            "Strasbourg",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J10_Toulouse_vs_Rennes-2025-10-29.json": {
+        "mtime": 1775491327.6645827,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J11_Auxerre_vs_Olympique_Marseille-2025-11-01.json": {
+        "mtime": 1775491327.6655834,
+        "teams": [
+            "Olympique de Marseille",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J11_Brest_vs_Olympique_Lyonnais-2025-11-02.json": {
+        "mtime": 1775491327.666584,
+        "teams": [
+            "Olympique Lyonnais",
+            "Brest",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J11_Lens_vs_Lorient-2025-11-02.json": {
+        "mtime": 1775491327.6675832,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J11_Lille_vs_Angers_SCO-2025-11-02.json": {
+        "mtime": 1775491327.6685834,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J11_Monaco_vs_Paris_FC-2025-11-01.json": {
+        "mtime": 1775491327.6705894,
+        "teams": [
+            "Paris FC",
+            "AS Monaco FC",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J11_Nantes_vs_Metz-2025-11-02.json": {
+        "mtime": 1775491327.6738908,
+        "teams": [
+            "Nantes",
+            "FC Nantes",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J11_Paris_Saint-Germain_vs_Nice-2025-11-01.json": {
+        "mtime": 1775491327.6749077,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J11_Rennes_vs_Strasbourg-2025-11-02.json": {
+        "mtime": 1775491327.6759083,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J11_Toulouse_vs_Le_Havre-2025-11-02.json": {
+        "mtime": 1775491327.677864,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J12_Angers_SCO_vs_Auxerre-2025-11-09.json": {
+        "mtime": 1775491327.6788642,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J12_Le_Havre_vs_Nantes-2025-11-08.json": {
+        "mtime": 1775491327.679863,
+        "teams": [
+            "Le Havre AC",
+            "Nantes",
+            "FC Nantes",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J12_Lorient_vs_Toulouse-2025-11-09.json": {
+        "mtime": 1775491327.6808627,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J12_Metz_vs_Nice-2025-11-09.json": {
+        "mtime": 1775491327.6818626,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J12_Monaco_vs_Lens-2025-11-08.json": {
+        "mtime": 1775491327.682864,
+        "teams": [
+            "AS Monaco FC",
+            "Racing Club de Lens",
+            "Lens",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J12_Olympique_Lyonnais_vs_Paris_Saint-Germain-2025-11-09.json": {
+        "mtime": 1775491327.7147381,
+        "teams": [
+            "Olympique Lyonnais",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J12_Olympique_Marseille_vs_Brest-2025-11-08.json": {
+        "mtime": 1775491327.715726,
+        "teams": [
+            "Brest",
+            "Olympique de Marseille",
+            "Stade Brestois 29",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J12_Paris_FC_vs_Rennes-2025-11-07.json": {
+        "mtime": 1775491327.7167246,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Paris FC"
+        ]
+    },
+    "Ligue_1_J12_Strasbourg_vs_Lille-2025-11-09.json": {
+        "mtime": 1775491327.7187238,
+        "teams": [
+            "Lille",
+            "Strasbourg",
+            "Lille OSC",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J13_Auxerre_vs_Olympique_Lyonnais-2025-11-23.json": {
+        "mtime": 1775491327.7197268,
+        "teams": [
+            "Olympique Lyonnais",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J13_Brest_vs_Metz-2025-11-23.json": {
+        "mtime": 1775491327.7207236,
+        "teams": [
+            "Stade Brestois 29",
+            "Brest",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J13_Lens_vs_Strasbourg-2025-11-22.json": {
+        "mtime": 1775491327.7217233,
+        "teams": [
+            "Strasbourg",
+            "Lens",
+            "Racing Club de Lens",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J13_Lille_vs_Paris_FC-2025-11-23.json": {
+        "mtime": 1775491327.7235005,
+        "teams": [
+            "Paris FC",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J13_Nantes_vs_Lorient-2025-11-23.json": {
+        "mtime": 1775491327.724517,
+        "teams": [
+            "Lorient",
+            "Nantes",
+            "FC Lorient",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J13_Nice_vs_Olympique_Marseille-2025-11-21.json": {
+        "mtime": 1775491327.7256222,
+        "teams": [
+            "Nice",
+            "Olympique de Marseille",
+            "OGC Nice C\u00f4te d'Azur",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J13_Paris_Saint-Germain_vs_Le_Havre-2025-11-22.json": {
+        "mtime": 1775491327.733861,
+        "teams": [
+            "Le Havre AC",
+            "Paris Saint-Germain FC",
+            "Le Havre",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J13_Rennes_vs_Monaco-2025-11-22.json": {
+        "mtime": 1775491327.7362342,
+        "teams": [
+            "Stade Rennais FC",
+            "AS Monaco FC",
+            "Rennes",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J13_Toulouse_vs_Angers_SCO-2025-11-23.json": {
+        "mtime": 1775491327.7382348,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J14_Angers_SCO_vs_Lens-2025-11-30.json": {
+        "mtime": 1775491327.7392364,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J14_Le_Havre_vs_Lille-2025-11-30.json": {
+        "mtime": 1775491327.7402368,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J14_Lorient_vs_Nice-2025-11-30.json": {
+        "mtime": 1775491327.7412374,
+        "teams": [
+            "Lorient",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "FC Lorient"
+        ]
+    },
+    "Ligue_1_J14_Metz_vs_Rennes-2025-11-28.json": {
+        "mtime": 1775491327.7422361,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J14_Monaco_vs_Paris_Saint-Germain-2025-11-29.json": {
+        "mtime": 1775491327.7432358,
+        "teams": [
+            "Monaco",
+            "AS Monaco FC",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J14_Olympique_Lyonnais_vs_Nantes-2025-11-30.json": {
+        "mtime": 1775491327.744236,
+        "teams": [
+            "Olympique Lyonnais",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J14_Olympique_Marseille_vs_Toulouse-2025-11-29.json": {
+        "mtime": 1775491327.7457051,
+        "teams": [
+            "Toulouse",
+            "Olympique de Marseille",
+            "Olympique Marseille",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J14_Paris_FC_vs_Auxerre-2025-11-29.json": {
+        "mtime": 1775491327.7471151,
+        "teams": [
+            "Paris FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J14_Strasbourg_vs_Brest-2025-11-30.json": {
+        "mtime": 1775491327.7481327,
+        "teams": [
+            "Brest",
+            "Strasbourg",
+            "Stade Brestois 29",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J15_Auxerre_vs_Metz-2025-12-07.json": {
+        "mtime": 1775491327.751343,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J15_Brest_vs_Monaco-2025-12-05.json": {
+        "mtime": 1775491327.7523613,
+        "teams": [
+            "Brest",
+            "AS Monaco FC",
+            "Stade Brestois 29",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J15_Le_Havre_vs_Paris_FC-2025-12-07.json": {
+        "mtime": 1775491327.7563584,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Paris FC"
+        ]
+    },
+    "Ligue_1_J15_Lille_vs_Olympique_Marseille-2025-12-05.json": {
+        "mtime": 1775491327.757359,
+        "teams": [
+            "Olympique de Marseille",
+            "Lille",
+            "Lille OSC",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J15_Lorient_vs_Olympique_Lyonnais-2025-12-07.json": {
+        "mtime": 1775491327.7584865,
+        "teams": [
+            "Olympique Lyonnais",
+            "Lorient",
+            "FC Lorient"
+        ]
+    },
+    "Ligue_1_J15_Nantes_vs_Lens-2025-12-06.json": {
+        "mtime": 1775491327.7594886,
+        "teams": [
+            "Racing Club de Lens",
+            "Nantes",
+            "FC Nantes",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J15_Nice_vs_Angers_SCO-2025-12-07.json": {
+        "mtime": 1775491327.7994323,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J15_Paris_Saint-Germain_vs_Rennes-2025-12-06.json": {
+        "mtime": 1775491327.801432,
+        "teams": [
+            "Stade Rennais FC",
+            "Paris Saint-Germain FC",
+            "Rennes",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J15_Toulouse_vs_Strasbourg-2025-12-06.json": {
+        "mtime": 1775491327.8024323,
+        "teams": [
+            "Toulouse FC",
+            "Strasbourg",
+            "Toulouse",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J16_Angers_SCO_vs_Nantes-2025-12-12.json": {
+        "mtime": 1775491327.8035133,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J16_Auxerre_vs_Lille-2025-12-14.json": {
+        "mtime": 1775491327.8040323,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J16_Lens_vs_Nice-2025-12-14.json": {
+        "mtime": 1775491327.8050327,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J16_Metz_vs_Paris_Saint-Germain-2025-12-13.json": {
+        "mtime": 1775491327.8139007,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "FC Metz",
+            "Paris Saint-Germain",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J16_Olympique_Lyonnais_vs_Le_Havre-2025-12-14.json": {
+        "mtime": 1775491327.8155558,
+        "teams": [
+            "Olympique Lyonnais",
+            "Le Havre AC",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J16_Olympique_Marseille_vs_Monaco-2025-12-14.json": {
+        "mtime": 1775491327.8165712,
+        "teams": [
+            "Olympique de Marseille",
+            "AS Monaco FC",
+            "Olympique Marseille",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J16_Paris_FC_vs_Toulouse-2025-12-13.json": {
+        "mtime": 1775491327.8179817,
+        "teams": [
+            "Paris FC",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J16_Rennes_vs_Brest-2025-12-13.json": {
+        "mtime": 1775491327.8189952,
+        "teams": [
+            "Stade Rennais FC",
+            "Brest",
+            "Rennes",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J16_Strasbourg_vs_Lorient-2025-12-14.json": {
+        "mtime": 1775491327.8199959,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J17_Brest_vs_Auxerre-2026-01-04.json": {
+        "mtime": 1775491327.8210008,
+        "teams": [
+            "Brest",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J17_Le_Havre_vs_Angers_SCO-2026-01-04.json": {
+        "mtime": 1775491327.8219967,
+        "teams": [
+            "Le Havre AC",
+            "Angers SCO",
+            "Le Havre",
+            "Angers Sporting Club de l'Ouest"
+        ]
+    },
+    "Ligue_1_J17_Lille_vs_Rennes-2026-01-03.json": {
+        "mtime": 1775491327.8229969,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J17_Lorient_vs_Metz-2026-01-04.json": {
+        "mtime": 1775491327.8239954,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J17_Monaco_vs_Olympique_Lyonnais-2026-01-03.json": {
+        "mtime": 1775491327.824995,
+        "teams": [
+            "Olympique Lyonnais",
+            "AS Monaco FC",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J17_Nice_vs_Strasbourg-2026-01-03.json": {
+        "mtime": 1775491327.8273816,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J17_Olympique_Marseille_vs_Nantes-2026-01-04.json": {
+        "mtime": 1775491327.8301594,
+        "teams": [
+            "Olympique de Marseille",
+            "Nantes",
+            "FC Nantes",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J17_Paris_Saint-Germain_vs_Paris_FC-2026-01-04.json": {
+        "mtime": 1775491327.838058,
+        "teams": [
+            "Paris FC",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J17_Toulouse_vs_Lens-2026-01-02.json": {
+        "mtime": 1775491327.839058,
+        "teams": [
+            "Toulouse",
+            "Lens",
+            "Racing Club de Lens",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J18_Angers_SCO_vs_Olympique_Marseille-2026-01-17.json": {
+        "mtime": 1775491327.840743,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Olympique de Marseille",
+            "Angers SCO",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J18_Lens_vs_Auxerre-2026-01-17.json": {
+        "mtime": 1775491327.8417563,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Racing Club de Lens",
+            "Lens",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J18_Monaco_vs_Lorient-2026-01-16.json": {
+        "mtime": 1775491327.8455548,
+        "teams": [
+            "Lorient",
+            "AS Monaco FC",
+            "FC Lorient",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J18_Nantes_vs_Paris_FC-2026-01-18.json": {
+        "mtime": 1775491327.8465638,
+        "teams": [
+            "Paris FC",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J18_Olympique_Lyonnais_vs_Brest-2026-01-18.json": {
+        "mtime": 1775491327.8475654,
+        "teams": [
+            "Olympique Lyonnais",
+            "Brest",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J18_Paris_Saint-Germain_vs_Lille-2026-01-16.json": {
+        "mtime": 1775491327.8557928,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Lille OSC",
+            "Lille",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J18_Rennes_vs_Le_Havre-2026-01-18.json": {
+        "mtime": 1775491327.8578088,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Le Havre AC",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J18_Strasbourg_vs_Metz-2026-01-18.json": {
+        "mtime": 1775491327.8589406,
+        "teams": [
+            "Strasbourg",
+            "FC Metz",
+            "RC Strasbourg Alsace",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J18_Toulouse_vs_Nice-2026-01-17.json": {
+        "mtime": 1775491327.8611078,
+        "teams": [
+            "Toulouse",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J19_Auxerre_vs_Paris_Saint-Germain-2026-01-23.json": {
+        "mtime": 1775491327.869147,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J19_Brest_vs_Toulouse-2026-01-25.json": {
+        "mtime": 1775491327.869147,
+        "teams": [
+            "Brest",
+            "Toulouse",
+            "Stade Brestois 29",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J19_Le_Havre_vs_Monaco-2026-01-24.json": {
+        "mtime": 1775491327.869147,
+        "teams": [
+            "Le Havre AC",
+            "AS Monaco FC",
+            "Le Havre",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J19_Lille_vs_Strasbourg-2026-01-25.json": {
+        "mtime": 1775491327.869147,
+        "teams": [
+            "Lille",
+            "Strasbourg",
+            "Lille OSC",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J19_Metz_vs_Olympique_Lyonnais-2026-01-25.json": {
+        "mtime": 1775491327.869147,
+        "teams": [
+            "Olympique Lyonnais",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J19_Nantes_vs_Nice-2026-01-25.json": {
+        "mtime": 1775491327.878467,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J19_Olympique_Marseille_vs_Lens-2026-01-24.json": {
+        "mtime": 1775491327.8794663,
+        "teams": [
+            "Olympique de Marseille",
+            "Racing Club de Lens",
+            "Olympique Marseille",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J19_Paris_FC_vs_Angers_SCO-2026-01-25.json": {
+        "mtime": 1775491327.8804786,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Paris FC"
+        ]
+    },
+    "Ligue_1_J19_Rennes_vs_Lorient-2026-01-24.json": {
+        "mtime": 1775491327.8814647,
+        "teams": [
+            "Stade Rennais FC",
+            "Lorient",
+            "FC Lorient",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J1_Angers_SCO_vs_Paris_FC-2025-08-17.json": {
+        "mtime": 1775491327.8824646,
+        "teams": [
+            "Paris FC",
+            "Angers SCO",
+            "Angers Sporting Club de l'Ouest"
+        ]
+    },
+    "Ligue_1_J1_Auxerre_vs_Lorient-2025-08-17.json": {
+        "mtime": 1775491327.8841658,
+        "teams": [
+            "Lorient",
+            "Association Jeunesse Auxerroise",
+            "FC Lorient",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J1_Brest_vs_Lille-2025-08-17.json": {
+        "mtime": 1775491327.8851802,
+        "teams": [
+            "Stade Brestois 29",
+            "Brest",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J1_Lens_vs_Olympique_Lyonnais-2025-08-16.json": {
+        "mtime": 1775491327.8863018,
+        "teams": [
+            "Olympique Lyonnais",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J1_Metz_vs_Strasbourg-2025-08-17.json": {
+        "mtime": 1775491327.887504,
+        "teams": [
+            "Strasbourg",
+            "FC Metz",
+            "RC Strasbourg Alsace",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J1_Monaco_vs_Le_Havre-2025-08-16.json": {
+        "mtime": 1775491327.8887794,
+        "teams": [
+            "Le Havre AC",
+            "AS Monaco FC",
+            "Le Havre",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J1_Nantes_vs_PSG-2025-08-17.json": {
+        "mtime": 1775491327.8897939,
+        "teams": [
+            "PSG",
+            "Paris Saint-Germain FC",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J1_Nice_vs_Toulouse-2025-08-16.json": {
+        "mtime": 1775491327.8926194,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J1_Rennes_vs_Olympique_Marseille-2025-08-15.json": {
+        "mtime": 1775491327.893619,
+        "teams": [
+            "Stade Rennais FC",
+            "Olympique de Marseille",
+            "Rennes",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J20_Angers_SCO_vs_Metz-2026-02-01.json": {
+        "mtime": 1775491327.8957658,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J20_Lens_vs_Le_Havre-2026-01-30.json": {
+        "mtime": 1775491327.8967266,
+        "teams": [
+            "Le Havre AC",
+            "Racing Club de Lens",
+            "Le Havre",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J20_Lorient_vs_Nantes-2026-01-31.json": {
+        "mtime": 1775491327.8977263,
+        "teams": [
+            "Lorient",
+            "Nantes",
+            "FC Lorient",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J20_Monaco_vs_Rennes-2026-01-31.json": {
+        "mtime": 1775491327.8987274,
+        "teams": [
+            "Stade Rennais FC",
+            "AS Monaco FC",
+            "Rennes",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J20_Nice_vs_Brest-2026-02-01.json": {
+        "mtime": 1775491327.8997276,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Stade Brestois 29",
+            "Brest"
+        ]
+    },
+    "Ligue_1_J20_Olympique_Lyonnais_vs_Lille-2026-02-01.json": {
+        "mtime": 1775491327.9007266,
+        "teams": [
+            "Olympique Lyonnais",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J20_Paris_FC_vs_Olympique_Marseille-2026-01-31.json": {
+        "mtime": 1775491327.9017262,
+        "teams": [
+            "Paris FC",
+            "Olympique de Marseille",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J20_Strasbourg_vs_Paris_Saint-Germain-2026-02-01.json": {
+        "mtime": 1775491327.927787,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Strasbourg",
+            "RC Strasbourg Alsace",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J20_Toulouse_vs_Auxerre-2026-02-01.json": {
+        "mtime": 1775491327.929788,
+        "teams": [
+            "Toulouse",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J21_Angers_SCO_vs_Toulouse-2026-02-08.json": {
+        "mtime": 1775491327.931333,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J21_Auxerre_vs_Paris_FC-2026-02-08.json": {
+        "mtime": 1775491327.931881,
+        "teams": [
+            "Paris FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J21_Brest_vs_Lorient-2026-02-07.json": {
+        "mtime": 1775491327.9328492,
+        "teams": [
+            "Brest",
+            "Lorient",
+            "FC Lorient",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J21_Le_Havre_vs_Strasbourg-2026-02-08.json": {
+        "mtime": 1775491327.9362824,
+        "teams": [
+            "Le Havre AC",
+            "Strasbourg",
+            "Le Havre",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J21_Lens_vs_Rennes-2026-02-07.json": {
+        "mtime": 1775491327.9342828,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J21_Metz_vs_Lille-2026-02-06.json": {
+        "mtime": 1775491327.9372826,
+        "teams": [
+            "FC Metz",
+            "Lille OSC",
+            "Lille",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J21_Nantes_vs_Olympique_Lyonnais-2026-02-07.json": {
+        "mtime": 1775491327.94046,
+        "teams": [
+            "Olympique Lyonnais",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J21_Nice_vs_Monaco-2026-02-08.json": {
+        "mtime": 1775491327.9414594,
+        "teams": [
+            "Nice",
+            "AS Monaco FC",
+            "OGC Nice C\u00f4te d'Azur",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J21_Paris_Saint-Germain_vs_Olympique_Marseille-2026-02-08.json": {
+        "mtime": 1775491327.949486,
+        "teams": [
+            "Olympique de Marseille",
+            "Olympique Marseille",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J22_Le_Havre_vs_Toulouse-2026-02-15.json": {
+        "mtime": 1775491327.9512665,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J22_Lille_vs_Brest-2026-02-14.json": {
+        "mtime": 1775491327.9522803,
+        "teams": [
+            "Stade Brestois 29",
+            "Brest",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J22_Lorient_vs_Angers_SCO-2026-02-15.json": {
+        "mtime": 1775491327.9558177,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Lorient",
+            "FC Lorient",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J22_Metz_vs_Auxerre-2026-02-15.json": {
+        "mtime": 1775491327.9568183,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J22_Monaco_vs_Nantes-2026-02-13.json": {
+        "mtime": 1775491327.9578187,
+        "teams": [
+            "AS Monaco FC",
+            "Nantes",
+            "FC Nantes",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J22_Olympique_Lyonnais_vs_Nice-2026-02-15.json": {
+        "mtime": 1775491327.958938,
+        "teams": [
+            "Olympique Lyonnais",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur"
+        ]
+    },
+    "Ligue_1_J22_Olympique_Marseille_vs_Strasbourg-2026-02-14.json": {
+        "mtime": 1775491327.959938,
+        "teams": [
+            "Olympique de Marseille",
+            "Strasbourg",
+            "Olympique Marseille",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J22_Paris_FC_vs_Lens-2026-02-14.json": {
+        "mtime": 1775491327.9620275,
+        "teams": [
+            "Paris FC",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J23_Angers_SCO_vs_Lille-2026-02-22.json": {
+        "mtime": 1775491327.9640267,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J23_Auxerre_vs_Rennes-2026-02-22.json": {
+        "mtime": 1775491327.9650269,
+        "teams": [
+            "Stade Rennais FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J23_Brest_vs_Olympique_Marseille-2026-02-20.json": {
+        "mtime": 1775491327.9660268,
+        "teams": [
+            "Brest",
+            "Olympique de Marseille",
+            "Stade Brestois 29",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J23_Lens_vs_Monaco-2026-02-21.json": {
+        "mtime": 1775491327.967029,
+        "teams": [
+            "AS Monaco FC",
+            "Racing Club de Lens",
+            "Lens",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J23_Nantes_vs_Le_Havre-2026-02-22.json": {
+        "mtime": 1775491327.9710271,
+        "teams": [
+            "Le Havre AC",
+            "Nantes",
+            "FC Nantes",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J23_Nice_vs_Lorient-2026-02-22.json": {
+        "mtime": 1775491327.9720285,
+        "teams": [
+            "Nice",
+            "Lorient",
+            "OGC Nice C\u00f4te d'Azur",
+            "FC Lorient"
+        ]
+    },
+    "Ligue_1_J23_Paris_Saint-Germain_vs_Metz-2026-02-21.json": {
+        "mtime": 1775491327.9800534,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "FC Metz",
+            "Paris Saint-Germain",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J23_Strasbourg_vs_Olympique_Lyonnais-2026-02-22.json": {
+        "mtime": 1775491327.9817507,
+        "teams": [
+            "Olympique Lyonnais",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J23_Toulouse_vs_Paris_FC-2026-02-21.json": {
+        "mtime": 1775491327.9827654,
+        "teams": [
+            "Paris FC",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J24_Le_Havre_vs_Paris_Saint-Germain-2026-02-28.json": {
+        "mtime": 1775491327.9910786,
+        "teams": [
+            "Le Havre AC",
+            "Paris Saint-Germain FC",
+            "Le Havre",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J24_Lille_vs_Nantes-2026-03-01.json": {
+        "mtime": 1775491327.9924953,
+        "teams": [
+            "Nantes",
+            "FC Nantes",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J24_Lorient_vs_Auxerre-2026-03-01.json": {
+        "mtime": 1775491327.9935083,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J24_Metz_vs_Brest-2026-03-01.json": {
+        "mtime": 1775491327.994509,
+        "teams": [
+            "Stade Brestois 29",
+            "Brest",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J24_Monaco_vs_Angers_SCO-2026-02-28.json": {
+        "mtime": 1775491327.995986,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "AS Monaco FC",
+            "Angers SCO",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J24_Olympique_Marseille_vs_Olympique_Lyonnais-2026-03-01.json": {
+        "mtime": 1775491327.9970016,
+        "teams": [
+            "Olympique Lyonnais",
+            "Olympique de Marseille",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J24_Paris_FC_vs_Nice-2026-03-01.json": {
+        "mtime": 1775491327.998001,
+        "teams": [
+            "Paris FC",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur"
+        ]
+    },
+    "Ligue_1_J24_Rennes_vs_Toulouse-2026-02-28.json": {
+        "mtime": 1775491328.0010235,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J24_Strasbourg_vs_Lens-2026-02-27.json": {
+        "mtime": 1775491328.0030265,
+        "teams": [
+            "Strasbourg",
+            "Lens",
+            "Racing Club de Lens",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J25_Auxerre_vs_Strasbourg-2026-03-07.json": {
+        "mtime": 1775491328.0040221,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Strasbourg",
+            "RC Strasbourg Alsace",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J25_Brest_vs_Le_Havre-2026-03-08.json": {
+        "mtime": 1775491328.0050218,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Brest",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J25_Lens_vs_Metz-2026-03-08.json": {
+        "mtime": 1775491328.0060215,
+        "teams": [
+            "Racing Club de Lens",
+            "FC Metz",
+            "Lens",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J25_Lille_vs_Lorient-2026-03-08.json": {
+        "mtime": 1775491328.0070212,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J25_Nantes_vs_Angers_SCO-2026-03-07.json": {
+        "mtime": 1775491328.0080216,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J25_Nice_vs_Rennes-2026-03-08.json": {
+        "mtime": 1775491328.0092032,
+        "teams": [
+            "Stade Rennais FC",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J25_Olympique_Lyonnais_vs_Paris_FC-2026-03-08.json": {
+        "mtime": 1775491328.0112486,
+        "teams": [
+            "Paris FC",
+            "Olympique Lyonnais"
+        ]
+    },
+    "Ligue_1_J25_Paris_Saint-Germain_vs_Monaco-2026-03-06.json": {
+        "mtime": 1775491328.0190356,
+        "teams": [
+            "AS Monaco FC",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J25_Toulouse_vs_Olympique_Marseille-2026-03-07.json": {
+        "mtime": 1775491328.0210223,
+        "teams": [
+            "Toulouse",
+            "Olympique de Marseille",
+            "Olympique Marseille",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J26_Angers_SCO_vs_Nice-2026-03-14.json": {
+        "mtime": 1775491328.0222523,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J26_Le_Havre_vs_Olympique_Lyonnais-2026-03-15.json": {
+        "mtime": 1775491328.023265,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "Olympique Lyonnais"
+        ]
+    },
+    "Ligue_1_J26_Lorient_vs_Lens-2026-03-14.json": {
+        "mtime": 1775491328.0242674,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J26_Metz_vs_Toulouse-2026-03-15.json": {
+        "mtime": 1775491328.0252657,
+        "teams": [
+            "Toulouse",
+            "FC Metz",
+            "Toulouse FC",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J26_Monaco_vs_Brest-2026-03-14.json": {
+        "mtime": 1775491328.03616,
+        "teams": [
+            "Brest",
+            "AS Monaco FC",
+            "Stade Brestois 29",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J26_Olympique_Marseille_vs_Auxerre-2026-03-13.json": {
+        "mtime": 1775491328.0371609,
+        "teams": [
+            "Olympique de Marseille",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J26_Rennes_vs_Lille-2026-03-15.json": {
+        "mtime": 1775491328.0387845,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J26_Strasbourg_vs_Paris_FC-2026-03-15.json": {
+        "mtime": 1775491328.0397997,
+        "teams": [
+            "Paris FC",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J27_Auxerre_vs_Brest-2026-03-21.json": {
+        "mtime": 1775491328.04143,
+        "teams": [
+            "Brest",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J27_Lens_vs_Angers_SCO-2026-03-20.json": {
+        "mtime": 1775491328.0424476,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J27_Nice_vs_Paris_Saint-Germain-2026-03-21.json": {
+        "mtime": 1775491328.0506065,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J27_Toulouse_vs_Lorient-2026-03-21.json": {
+        "mtime": 1775491328.0525935,
+        "teams": [
+            "Toulouse",
+            "Lorient",
+            "FC Lorient",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J2_Le_Havre_vs_Lens-2025-08-24.json": {
+        "mtime": 1775491333.714839,
+        "teams": [
+            "Le Havre AC",
+            "Racing Club de Lens",
+            "Le Havre",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J2_Lille_vs_Monaco-2025-08-24.json": {
+        "mtime": 1775491333.7166336,
+        "teams": [
+            "AS Monaco FC",
+            "Lille OSC",
+            "Lille",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J2_Lorient_vs_Rennes-2025-08-24.json": {
+        "mtime": 1775491333.7176516,
+        "teams": [
+            "Stade Rennais FC",
+            "Lorient",
+            "FC Lorient",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J2_Nice_vs_Auxerre-2025-08-23.json": {
+        "mtime": 1775491333.7186472,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J2_Nice_vs_Auxerre-2025-08-30.json": {
+        "mtime": 1775346826.4498105,
+        "teams": [
+            "Nice",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J2_Olympique_Lyonnais_vs_Metz-2025-08-23.json": {
+        "mtime": 1775491333.727754,
+        "teams": [
+            "Olympique Lyonnais",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J2_Olympique_Marseille_vs_Paris_FC-2025-08-23.json": {
+        "mtime": 1775491333.728754,
+        "teams": [
+            "Paris FC",
+            "Olympique de Marseille",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J2_PSG_vs_Angers_SCO-2025-08-22.json": {
+        "mtime": 1775491333.7320156,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Paris Saint-Germain FC",
+            "PSG",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J2_Strasbourg_vs_Nantes-2025-08-24.json": {
+        "mtime": 1775491333.7330163,
+        "teams": [
+            "Strasbourg",
+            "Nantes",
+            "FC Nantes",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J2_Toulouse_vs_Brest-2025-08-24.json": {
+        "mtime": 1775491333.7345653,
+        "teams": [
+            "Toulouse",
+            "Brest",
+            "Stade Brestois 29",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J3_Angers_SCO_vs_Rennes-2025-08-31.json": {
+        "mtime": 1775491333.7355788,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Stade Rennais FC",
+            "Rennes",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J3_Le_Havre_vs_Nice-2025-08-31.json": {
+        "mtime": 1775491333.7378025,
+        "teams": [
+            "Le Havre AC",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J3_Lens_vs_Brest-2025-08-29.json": {
+        "mtime": 1775491333.7366848,
+        "teams": [
+            "Brest",
+            "Racing Club de Lens",
+            "Stade Brestois 29",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J3_Lorient_vs_Lille-2025-08-30.json": {
+        "mtime": 1775491333.73903,
+        "teams": [
+            "Lorient",
+            "FC Lorient",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J3_Monaco_vs_Strasbourg-2025-08-31.json": {
+        "mtime": 1775491333.740044,
+        "teams": [
+            "AS Monaco FC",
+            "Strasbourg",
+            "RC Strasbourg Alsace",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J3_Nantes_vs_Auxerre-2025-08-30.json": {
+        "mtime": 1775491333.7410421,
+        "teams": [
+            "Nantes",
+            "Association Jeunesse Auxerroise",
+            "FC Nantes",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J3_Olympique_Lyonnais_vs_Olympique_Marseille-2025-08-31.json": {
+        "mtime": 1775491333.742042,
+        "teams": [
+            "Olympique Lyonnais",
+            "Olympique de Marseille",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J3_Paris_FC_vs_Metz-2025-08-31.json": {
+        "mtime": 1775491333.7430446,
+        "teams": [
+            "Paris FC",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J3_Toulouse_vs_PSG-2025-08-30.json": {
+        "mtime": 1775491333.744044,
+        "teams": [
+            "Toulouse",
+            "Paris Saint-Germain FC",
+            "PSG",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J4_Auxerre_vs_Monaco-2025-09-13.json": {
+        "mtime": 1775491333.747042,
+        "teams": [
+            "AS Monaco FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J4_Brest_vs_Paris_FC-2025-09-14.json": {
+        "mtime": 1775491333.7480426,
+        "teams": [
+            "Paris FC",
+            "Brest",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J4_Lille_vs_Toulouse-2025-09-14.json": {
+        "mtime": 1775491333.7500417,
+        "teams": [
+            "Toulouse",
+            "Lille",
+            "Lille OSC",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J4_Metz_vs_Angers_SCO-2025-09-14.json": {
+        "mtime": 1775491333.751043,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J4_Nice_vs_Nantes-2025-09-13.json": {
+        "mtime": 1775491333.752043,
+        "teams": [
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J4_Olympique_Marseille_vs_Lorient-2025-09-12.json": {
+        "mtime": 1775491333.7530427,
+        "teams": [
+            "Lorient",
+            "Olympique de Marseille",
+            "FC Lorient",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J4_PSG_vs_Lens-2025-09-14.json": {
+        "mtime": 1775491333.7613077,
+        "teams": [
+            "PSG",
+            "Paris Saint-Germain FC",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J4_Rennes_vs_Olympique_Lyonnais-2025-09-14.json": {
+        "mtime": 1775491333.7634933,
+        "teams": [
+            "Olympique Lyonnais",
+            "Stade Rennais FC",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J4_Strasbourg_vs_Le_Havre-2025-09-14.json": {
+        "mtime": 1775491333.764688,
+        "teams": [
+            "Le Havre AC",
+            "Strasbourg",
+            "Le Havre",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J5_Auxerre_vs_Toulouse-2025-09-21.json": {
+        "mtime": 1775491333.7667015,
+        "teams": [
+            "Toulouse",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J5_Brest_vs_Nice-2025-09-20.json": {
+        "mtime": 1775491333.7677007,
+        "teams": [
+            "Brest",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J5_Le_Havre_vs_Lorient-2025-09-21.json": {
+        "mtime": 1775491333.7698636,
+        "teams": [
+            "Le Havre AC",
+            "Lorient",
+            "FC Lorient",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J5_Lens_vs_Lille-2025-09-20.json": {
+        "mtime": 1775491333.7688498,
+        "teams": [
+            "Lens",
+            "Racing Club de Lens",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J5_Monaco_vs_Metz-2025-09-21.json": {
+        "mtime": 1775491333.7708633,
+        "teams": [
+            "AS Monaco FC",
+            "FC Metz",
+            "Monaco",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J5_Nantes_vs_Rennes-2025-09-20.json": {
+        "mtime": 1775491333.7718642,
+        "teams": [
+            "Stade Rennais FC",
+            "Nantes",
+            "FC Nantes",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J5_Olympique_Lyonnais_vs_Angers_SCO-2025-09-19.json": {
+        "mtime": 1775491333.772863,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Angers SCO",
+            "Olympique Lyonnais"
+        ]
+    },
+    "Ligue_1_J5_Olympique_Marseille_vs_PSG-2025-09-22.json": {
+        "mtime": 1775491333.781821,
+        "teams": [
+            "PSG",
+            "Olympique de Marseille",
+            "Paris Saint-Germain FC",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J5_Paris_FC_vs_Strasbourg-2025-09-21.json": {
+        "mtime": 1775491333.7828224,
+        "teams": [
+            "Paris FC",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J6_Angers_SCO_vs_Brest-2025-09-28.json": {
+        "mtime": 1775491333.783989,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Brest",
+            "Angers SCO",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J6_Lille_vs_Olympique_Lyonnais-2025-09-28.json": {
+        "mtime": 1775491333.7849903,
+        "teams": [
+            "Olympique Lyonnais",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J6_Lorient_vs_Monaco-2025-09-27.json": {
+        "mtime": 1775491333.7864335,
+        "teams": [
+            "Lorient",
+            "AS Monaco FC",
+            "FC Lorient",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J6_Metz_vs_Le_Havre-2025-09-28.json": {
+        "mtime": 1775491333.7875564,
+        "teams": [
+            "Le Havre AC",
+            "Le Havre",
+            "FC Metz",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J6_Nice_vs_Paris_FC-2025-09-28.json": {
+        "mtime": 1775491333.7885692,
+        "teams": [
+            "Paris FC",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur"
+        ]
+    },
+    "Ligue_1_J6_PSG_vs_Auxerre-2025-09-27.json": {
+        "mtime": 1775491333.7965958,
+        "teams": [
+            "PSG",
+            "Paris Saint-Germain FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J6_Rennes_vs_Lens-2025-09-28.json": {
+        "mtime": 1775491333.7975955,
+        "teams": [
+            "Stade Rennais FC",
+            "Rennes",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J6_Strasbourg_vs_Olympique_Marseille-2025-09-26.json": {
+        "mtime": 1775491333.798596,
+        "teams": [
+            "Olympique de Marseille",
+            "Strasbourg",
+            "Olympique Marseille",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J6_Toulouse_vs_Nantes-2025-09-27.json": {
+        "mtime": 1775491333.7995965,
+        "teams": [
+            "Toulouse",
+            "Nantes",
+            "FC Nantes",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J7_Auxerre_vs_Lens-2025-10-04.json": {
+        "mtime": 1775491333.800595,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Racing Club de Lens",
+            "Lens",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J7_Brest_vs_Nantes-2025-10-04.json": {
+        "mtime": 1775491333.8021996,
+        "teams": [
+            "Brest",
+            "Nantes",
+            "FC Nantes",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J7_Le_Havre_vs_Rennes-2025-10-05.json": {
+        "mtime": 1775491333.8032126,
+        "teams": [
+            "Le Havre AC",
+            "Stade Rennais FC",
+            "Rennes",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J7_Lille_vs_PSG-2025-10-05.json": {
+        "mtime": 1775491333.8115659,
+        "teams": [
+            "PSG",
+            "Paris Saint-Germain FC",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J7_Metz_vs_Olympique_Marseille-2025-10-04.json": {
+        "mtime": 1775491333.8125653,
+        "teams": [
+            "Olympique de Marseille",
+            "FC Metz",
+            "Olympique Marseille",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J7_Monaco_vs_Nice-2025-10-05.json": {
+        "mtime": 1775491333.813565,
+        "teams": [
+            "Nice",
+            "AS Monaco FC",
+            "OGC Nice C\u00f4te d'Azur",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J7_Olympique_Lyonnais_vs_Toulouse-2025-10-05.json": {
+        "mtime": 1775491333.8155653,
+        "teams": [
+            "Olympique Lyonnais",
+            "Toulouse",
+            "Toulouse FC"
+        ]
+    },
+    "Ligue_1_J7_Paris_FC_vs_Lorient-2025-10-03.json": {
+        "mtime": 1775491333.816564,
+        "teams": [
+            "Paris FC",
+            "Lorient",
+            "FC Lorient"
+        ]
+    },
+    "Ligue_1_J7_Strasbourg_vs_Angers_SCO-2025-10-05.json": {
+        "mtime": 1775491333.8175647,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Strasbourg",
+            "Angers SCO",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J8_Angers_SCO_vs_Monaco-2025-10-18.json": {
+        "mtime": 1775491333.818759,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "AS Monaco FC",
+            "Angers SCO",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J8_Lens_vs_Paris_FC-2025-10-19.json": {
+        "mtime": 1775491333.8197765,
+        "teams": [
+            "Paris FC",
+            "Racing Club de Lens",
+            "Lens"
+        ]
+    },
+    "Ligue_1_J8_Lorient_vs_Brest-2025-10-19.json": {
+        "mtime": 1775491333.82078,
+        "teams": [
+            "Lorient",
+            "Brest",
+            "FC Lorient",
+            "Stade Brestois 29"
+        ]
+    },
+    "Ligue_1_J8_Nantes_vs_Lille-2025-10-19.json": {
+        "mtime": 1775491333.821774,
+        "teams": [
+            "Nantes",
+            "FC Nantes",
+            "Lille OSC",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J8_Nice_vs_Olympique_Lyonnais-2025-10-18.json": {
+        "mtime": 1775491333.8247721,
+        "teams": [
+            "Olympique Lyonnais",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur"
+        ]
+    },
+    "Ligue_1_J8_Olympique_Marseille_vs_Le_Havre-2025-10-18.json": {
+        "mtime": 1775491333.8257723,
+        "teams": [
+            "Le Havre AC",
+            "Olympique de Marseille",
+            "Le Havre",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J8_Paris_Saint-Germain_vs_Strasbourg-2025-10-17.json": {
+        "mtime": 1775491333.8274302,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Strasbourg",
+            "RC Strasbourg Alsace",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J8_Rennes_vs_Auxerre-2025-10-19.json": {
+        "mtime": 1775491333.8284433,
+        "teams": [
+            "Stade Rennais FC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J8_Toulouse_vs_Metz-2025-10-19.json": {
+        "mtime": 1775491333.8295872,
+        "teams": [
+            "Toulouse",
+            "FC Metz",
+            "Toulouse FC",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J9_Angers_SCO_vs_Lorient-2025-10-26.json": {
+        "mtime": 1775491333.8306017,
+        "teams": [
+            "Angers Sporting Club de l'Ouest",
+            "Lorient",
+            "FC Lorient",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J9_Auxerre_vs_Le_Havre-2025-10-26.json": {
+        "mtime": 1775491333.8316011,
+        "teams": [
+            "Le Havre AC",
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J9_Brest_vs_Paris_Saint-Germain-2025-10-25.json": {
+        "mtime": 1775491333.8326044,
+        "teams": [
+            "Brest",
+            "Paris Saint-Germain FC",
+            "Stade Brestois 29",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J9_Lens_vs_Olympique_Marseille-2025-10-25.json": {
+        "mtime": 1775491333.8337567,
+        "teams": [
+            "Olympique de Marseille",
+            "Lens",
+            "Racing Club de Lens",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J9_Lille_vs_Metz-2025-10-26.json": {
+        "mtime": 1775491333.834764,
+        "teams": [
+            "Lille OSC",
+            "FC Metz",
+            "Lille",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J9_Monaco_vs_Toulouse-2025-10-25.json": {
+        "mtime": 1775491333.8368936,
+        "teams": [
+            "Toulouse",
+            "AS Monaco FC",
+            "Toulouse FC",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J9_Olympique_Lyonnais_vs_Strasbourg-2025-10-26.json": {
+        "mtime": 1775491333.8378935,
+        "teams": [
+            "Olympique Lyonnais",
+            "Strasbourg",
+            "RC Strasbourg Alsace"
+        ]
+    },
+    "Ligue_1_J9_Paris_FC_vs_Nantes-2025-10-24.json": {
+        "mtime": 1775491333.838894,
+        "teams": [
+            "Paris FC",
+            "Nantes",
+            "FC Nantes"
+        ]
+    },
+    "Ligue_1_J9_Rennes_vs_Nice-2025-10-26.json": {
+        "mtime": 1775491333.8418963,
+        "teams": [
+            "Stade Rennais FC",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J28_Paris_Saint-Germain_vs_Toulouse-2026-04-03.json": {
+        "mtime": 1775491333.7043009,
+        "teams": [
+            "Toulouse",
+            "Paris Saint-Germain FC",
+            "Toulouse FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J22_Rennes_vs_Paris_Saint-Germain-2026-02-13.json": {
+        "mtime": 1775491327.9630263,
+        "teams": [
+            "Stade Rennais FC",
+            "Paris Saint-Germain FC",
+            "Rennes",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J28_Angers_SCO_vs_Olympique_Lyonnais-2026-04-05.json": {
+        "mtime": 1775491328.0536072,
+        "teams": [
+            "Olympique Lyonnais",
+            "Angers SCO"
+        ]
+    },
+    "Ligue_1_J28_Brest_vs_Rennes-2026-04-04.json": {
+        "mtime": 1775491328.0546112,
+        "teams": [
+            "Brest",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J28_Le_Havre_vs_Auxerre-2026-04-05.json": {
+        "mtime": 1775491328.0556204,
+        "teams": [
+            "Auxerre",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J28_Lille_vs_Lens-2026-04-04.json": {
+        "mtime": 1775491328.057621,
+        "teams": [
+            "Lens",
+            "Lille"
+        ]
+    },
+    "Ligue_1_J28_Lorient_vs_Paris_FC-2026-04-05.json": {
+        "mtime": 1775491328.0587533,
+        "teams": [
+            "Lorient",
+            "Paris FC"
+        ]
+    },
+    "Ligue_1_J28_Metz_vs_Nantes-2026-04-05.json": {
+        "mtime": 1775491328.059756,
+        "teams": [
+            "Nantes",
+            "Metz"
+        ]
+    },
+    "Ligue_1_J28_Monaco_vs_Olympique_Marseille-2026-04-05.json": {
+        "mtime": 1775491328.0608728,
+        "teams": [
+            "Olympique Marseille",
+            "Monaco"
+        ]
+    },
+    "Ligue_1_J28_Strasbourg_vs_Nice-2026-04-04.json": {
+        "mtime": 1775491333.7128386,
+        "teams": [
+            "Nice",
+            "Strasbourg"
+        ]
+    },
+    "Ligue_1_J29_Auxerre_vs_Nantes-2026-04-11.json": {
+        "mtime": 1775945912.0608785,
+        "teams": [
+            "Nantes",
+            "Auxerre"
+        ]
+    },
+    "Ligue_1_J29_Olympique_Marseille_vs_Metz-2026-04-10.json": {
+        "mtime": 1775946848.1391757,
+        "teams": [
+            "Metz",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J29_Paris_FC_vs_Monaco-2026-04-10.json": {
+        "mtime": 1775946848.140186,
+        "teams": [
+            "Monaco",
+            "Paris FC"
+        ]
+    },
+    "Ligue_1_J29_Rennes_vs_Angers_SCO-2026-04-11.json": {
+        "mtime": 1775945912.3580592,
+        "teams": [
+            "Angers SCO",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J29_Nice_vs_Le_Havre-2026-04-12.json": {
+        "mtime": 1776040781.1530726,
+        "teams": [
+            "Nice",
+            "Le Havre"
+        ]
+    },
+    "Ligue_1_J29_Olympique_Lyonnais_vs_Lorient-2026-04-12.json": {
+        "mtime": 1776040781.1572008,
+        "teams": [
+            "Olympique Lyonnais",
+            "Lorient"
+        ]
+    },
+    "Ligue_1_J29_Toulouse_vs_Lille-2026-04-12.json": {
+        "mtime": 1776040781.2070837,
+        "teams": [
+            "Toulouse",
+            "Lille"
+        ]
+    }
+}

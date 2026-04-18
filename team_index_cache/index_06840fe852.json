@@ -1,0 +1,342 @@
+{
+    "Premier_League_J10_Newcastle_United_vs_Arsenal-2024-11-02.json": {
+        "mtime": 1775491325.6702335,
+        "teams": [
+            "Newcastle United FC",
+            "Arsenal FC",
+            "Newcastle United",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J11_Chelsea_vs_Arsenal-2024-11-10.json": {
+        "mtime": 1775491325.678234,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J12_Arsenal_vs_Nottingham_Forest-2024-11-23.json": {
+        "mtime": 1775491325.702462,
+        "teams": [
+            "Arsenal",
+            "Nottingham Forest",
+            "Arsenal FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J13_West_Ham_United_vs_Arsenal-2024-11-30.json": {
+        "mtime": 1775491325.7217126,
+        "teams": [
+            "Arsenal",
+            "West Ham United",
+            "West Ham United FC",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J14_Arsenal_vs_Manchester_United-2024-12-04.json": {
+        "mtime": 1775491325.74899,
+        "teams": [
+            "Arsenal",
+            "Manchester United FC",
+            "Arsenal FC",
+            "Manchester United"
+        ]
+    },
+    "Premier_League_J15_Fulham_vs_Arsenal-2024-12-08.json": {
+        "mtime": 1775491325.7575498,
+        "teams": [
+            "Fulham FC",
+            "Arsenal FC",
+            "Arsenal",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J16_Arsenal_vs_Everton-2024-12-14.json": {
+        "mtime": 1775491325.7657914,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J17_Crystal_Palace_vs_Arsenal-2024-12-21.json": {
+        "mtime": 1775491325.7872715,
+        "teams": [
+            "Arsenal",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J18_Arsenal_vs_Ipswich_Town-2024-12-27.json": {
+        "mtime": 1775491325.8065066,
+        "teams": [
+            "Arsenal",
+            "Ipswich Town FC",
+            "Arsenal FC",
+            "Ipswich Town"
+        ]
+    },
+    "Premier_League_J19_Brentford_vs_Arsenal-2025-01-01.json": {
+        "mtime": 1775491325.8148055,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J1_Arsenal_vs_Wolverhampton_Wanderers-2024-08-17.json": {
+        "mtime": 1775491325.8587732,
+        "teams": [
+            "Arsenal",
+            "Wolverhampton Wanderers",
+            "Arsenal FC",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J20_Brighton_&_Hove_Albion_vs_Arsenal-2025-01-04.json": {
+        "mtime": 1775491325.860815,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J21_Arsenal_vs_Tottenham_Hotspur-2025-01-15.json": {
+        "mtime": 1775491325.891262,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Arsenal FC",
+            "Tottenham Hotspur",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J22_Arsenal_vs_Aston_Villa-2025-01-18.json": {
+        "mtime": 1775491325.9002914,
+        "teams": [
+            "Arsenal",
+            "Aston Villa FC",
+            "Arsenal FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J23_Wolverhampton_Wanderers_vs_Arsenal-2025-01-25.json": {
+        "mtime": 1775491325.9081147,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J24_Arsenal_vs_Manchester_City-2025-02-02.json": {
+        "mtime": 1775491325.9385607,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J25_Leicester_City_vs_Arsenal-2025-02-15.json": {
+        "mtime": 1775491325.9475691,
+        "teams": [
+            "Leicester City",
+            "Leicester City FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J26_Arsenal_vs_West_Ham_United-2025-02-22.json": {
+        "mtime": 1775491325.9728136,
+        "teams": [
+            "Arsenal",
+            "West Ham United",
+            "West Ham United FC",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J27_Nottingham_Forest_vs_Arsenal-2025-02-26.json": {
+        "mtime": 1775491325.9984407,
+        "teams": [
+            "Arsenal",
+            "Nottingham Forest",
+            "Arsenal FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J28_Manchester_United_vs_Arsenal-2025-03-09.json": {
+        "mtime": 1775491326.008523,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J29_Arsenal_vs_Chelsea-2025-03-16.json": {
+        "mtime": 1775491326.0168116,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J2_Aston_Villa_vs_Arsenal-2024-08-24.json": {
+        "mtime": 1775491326.046818,
+        "teams": [
+            "Arsenal",
+            "Aston Villa FC",
+            "Arsenal FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J30_Arsenal_vs_Fulham-2025-04-01.json": {
+        "mtime": 1775491326.0553696,
+        "teams": [
+            "Fulham FC",
+            "Arsenal FC",
+            "Fulham",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J31_Everton_vs_Arsenal-2025-04-05.json": {
+        "mtime": 1775491326.06326,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J32_Arsenal_vs_Brentford-2025-04-12.json": {
+        "mtime": 1775491326.070989,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J33_Ipswich_Town_vs_Arsenal-2025-04-20.json": {
+        "mtime": 1775491326.09323,
+        "teams": [
+            "Ipswich Town",
+            "Ipswich Town FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J34_Arsenal_vs_Crystal_Palace-2025-04-23.json": {
+        "mtime": 1775491326.1023479,
+        "teams": [
+            "Arsenal",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J35_Arsenal_vs_AFC_Bournemouth-2025-05-03.json": {
+        "mtime": 1775491326.1348486,
+        "teams": [
+            "Arsenal",
+            "AFC Bournemouth",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J36_Liverpool_vs_Arsenal-2025-05-11.json": {
+        "mtime": 1775491326.1430244,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J37_Arsenal_vs_Newcastle_United-2025-05-18.json": {
+        "mtime": 1775491326.151296,
+        "teams": [
+            "Newcastle United FC",
+            "Arsenal FC",
+            "Newcastle United",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J38_Southampton_vs_Arsenal-2025-05-25.json": {
+        "mtime": 1775491326.1631963,
+        "teams": [
+            "Arsenal",
+            "Southampton FC",
+            "Arsenal FC",
+            "Southampton"
+        ]
+    },
+    "Premier_League_J3_Arsenal_vs_Brighton_&_Hove_Albion-2024-08-31.json": {
+        "mtime": 1775491326.1888504,
+        "teams": [
+            "Arsenal",
+            "Brighton & Hove Albion FC",
+            "Arsenal FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J4_Tottenham_Hotspur_vs_Arsenal-2024-09-15.json": {
+        "mtime": 1775491326.2386994,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Arsenal FC",
+            "Arsenal",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J5_Manchester_City_vs_Arsenal-2024-09-22.json": {
+        "mtime": 1775491326.2588558,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J6_Arsenal_vs_Leicester_City-2024-09-28.json": {
+        "mtime": 1775491326.278785,
+        "teams": [
+            "Arsenal",
+            "Leicester City",
+            "Leicester City FC",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J7_Arsenal_vs_Southampton-2024-10-05.json": {
+        "mtime": 1775491326.287871,
+        "teams": [
+            "Arsenal",
+            "Southampton FC",
+            "Arsenal FC",
+            "Southampton"
+        ]
+    },
+    "Premier_League_J8_AFC_Bournemouth_vs_Arsenal-2024-10-19.json": {
+        "mtime": 1775491326.308414,
+        "teams": [
+            "Arsenal",
+            "AFC Bournemouth",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J9_Arsenal_vs_Liverpool-2024-10-27.json": {
+        "mtime": 1775491326.3175428,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    }
+}

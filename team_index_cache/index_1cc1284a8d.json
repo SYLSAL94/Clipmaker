@@ -1,0 +1,312 @@
+{
+    "Ligue_1_J10_Lorient_vs_Paris_Saint-Germain-2025-10-29.json": {
+        "mtime": 1774179931.9440365,
+        "teams": [
+            "Paris Saint-Germain",
+            "Lorient"
+        ]
+    },
+    "Ligue_1_J11_Paris_Saint-Germain_vs_Nice-2025-11-01.json": {
+        "mtime": 1774179931.9450376,
+        "teams": [
+            "Paris Saint-Germain",
+            "Nice"
+        ]
+    },
+    "Ligue_1_J12_Olympique_Lyonnais_vs_Paris_Saint-Germain-2025-11-09.json": {
+        "mtime": 1774564751.8061547,
+        "teams": [
+            "Paris Saint-Germain",
+            "Olympique Lyonnais",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J13_Paris_Saint-Germain_vs_Le_Havre-2025-11-22.json": {
+        "mtime": 1774564803.6721683,
+        "teams": [
+            "Paris Saint-Germain",
+            "Le Havre AC",
+            "Le Havre",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J14_Monaco_vs_Paris_Saint-Germain-2025-11-29.json": {
+        "mtime": 1774179931.9570374,
+        "teams": [
+            "Monaco",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J15_Paris_Saint-Germain_vs_Rennes-2025-12-06.json": {
+        "mtime": 1774179931.9590375,
+        "teams": [
+            "Paris Saint-Germain",
+            "Rennes"
+        ]
+    },
+    "Ligue_1_J16_Metz_vs_Paris_Saint-Germain-2025-12-13.json": {
+        "mtime": 1774564827.9644918,
+        "teams": [
+            "Paris Saint-Germain",
+            "Metz",
+            "FC Metz",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J17_Paris_Saint-Germain_vs_Paris_FC-2026-01-04.json": {
+        "mtime": 1774564895.671387,
+        "teams": [
+            "Paris FC",
+            "Paris Saint-Germain",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J18_Paris_Saint-Germain_vs_Lille-2026-01-16.json": {
+        "mtime": 1774564927.4660404,
+        "teams": [
+            "Lille",
+            "Lille OSC",
+            "Paris Saint-Germain",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J19_Auxerre_vs_Paris_Saint-Germain-2026-01-23.json": {
+        "mtime": 1774564971.672166,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "Paris Saint-Germain",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J1_Nantes_vs_PSG-2025-08-17.json": {
+        "mtime": 1774179931.9640386,
+        "teams": [
+            "PSG",
+            "Nantes"
+        ]
+    },
+    "Ligue_1_J20_Strasbourg_vs_Paris_Saint-Germain-2026-02-01.json": {
+        "mtime": 1774565013.1849577,
+        "teams": [
+            "Strasbourg",
+            "Paris Saint-Germain",
+            "RC Strasbourg Alsace",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J21_Paris_Saint-Germain_vs_Olympique_Marseille-2026-02-08.json": {
+        "mtime": 1774179931.967036,
+        "teams": [
+            "Paris Saint-Germain",
+            "Olympique Marseille"
+        ]
+    },
+    "Ligue_1_J23_Paris_Saint-Germain_vs_Metz-2026-02-21.json": {
+        "mtime": 1774522851.4138355,
+        "teams": [
+            "Paris Saint-Germain",
+            "Metz",
+            "FC Metz",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J24_Le_Havre_vs_Paris_Saint-Germain-2026-02-28.json": {
+        "mtime": 1774565755.1188343,
+        "teams": [
+            "Paris Saint-Germain",
+            "Le Havre AC",
+            "Le Havre",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J25_Paris_Saint-Germain_vs_Monaco-2026-03-06.json": {
+        "mtime": 1774565786.6723886,
+        "teams": [
+            "Paris Saint-Germain",
+            "Monaco",
+            "AS Monaco FC",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J27_Nice_vs_Paris_Saint-Germain-2026-03-21.json": {
+        "mtime": 1774565813.9524019,
+        "teams": [
+            "Paris Saint-Germain",
+            "Nice",
+            "OGC Nice C\u00f4te d'Azur",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J2_PSG_vs_Angers_SCO-2025-08-22.json": {
+        "mtime": 1774179931.973035,
+        "teams": [
+            "Angers SCO",
+            "PSG"
+        ]
+    },
+    "Ligue_1_J3_Toulouse_vs_PSG-2025-08-30.json": {
+        "mtime": 1774179931.9841075,
+        "teams": [
+            "Toulouse",
+            "PSG"
+        ]
+    },
+    "Ligue_1_J4_PSG_vs_Lens-2025-09-14.json": {
+        "mtime": 1774565845.4779959,
+        "teams": [
+            "Racing Club de Lens",
+            "PSG",
+            "Lens",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J5_Olympique_Marseille_vs_PSG-2025-09-22.json": {
+        "mtime": 1774565878.6395757,
+        "teams": [
+            "Olympique Marseille",
+            "Olympique de Marseille",
+            "PSG",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J6_PSG_vs_Auxerre-2025-09-27.json": {
+        "mtime": 1774565944.0931475,
+        "teams": [
+            "Association Jeunesse Auxerroise",
+            "Auxerre",
+            "PSG",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J7_Lille_vs_PSG-2025-10-05.json": {
+        "mtime": 1774566006.9094906,
+        "teams": [
+            "Lille",
+            "Lille OSC",
+            "PSG",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "Ligue_1_J8_Paris_Saint-Germain_vs_Strasbourg-2025-10-17.json": {
+        "mtime": 1774179931.9881065,
+        "teams": [
+            "Strasbourg",
+            "Paris Saint-Germain"
+        ]
+    },
+    "Ligue_1_J9_Brest_vs_Paris_Saint-Germain-2025-10-25.json": {
+        "mtime": 1774179931.9891064,
+        "teams": [
+            "Brest",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J1_PSG_vs_Atalanta-2025-09-17.json": {
+        "mtime": 1774006952.0593765,
+        "teams": [
+            "Atalanta Bergamasca Calcio",
+            "PSG",
+            "Atalanta",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J2_Barcelona_vs_PSG-2025-10-01.json": {
+        "mtime": 1774006952.3331249,
+        "teams": [
+            "Barcelona",
+            "FC Barcelona",
+            "PSG",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J3_Bayer_Leverkusen_vs_Paris_Saint-Germain-2025-10-21.json": {
+        "mtime": 1774006952.6605344,
+        "teams": [
+            "Paris Saint-Germain",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J4_Paris_Saint-Germain_vs_Bayern_M\u00fcnchen-2025-11-04.json": {
+        "mtime": 1774006953.183334,
+        "teams": [
+            "FC Bayern M\u00fcnchen",
+            "Paris Saint-Germain",
+            "Bayern M\u00fcnchen",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J5_Paris_Saint-Germain_vs_Tottenham_Hotspur-2025-11-26.json": {
+        "mtime": 1774006953.4615037,
+        "teams": [
+            "Paris Saint-Germain",
+            "Tottenham Hotspur FC",
+            "Tottenham Hotspur",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J6_Athletic_Club_vs_Paris_Saint-Germain-2025-12-10.json": {
+        "mtime": 1774006953.536111,
+        "teams": [
+            "Athletic Club",
+            "Paris Saint-Germain",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J7_Sporting_CP_vs_Paris_Saint-Germain-2026-01-20.json": {
+        "mtime": 1774006954.1070063,
+        "teams": [
+            "Sporting Clube de Portugal",
+            "Sporting CP",
+            "Paris Saint-Germain",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J8_Paris_Saint-Germain_vs_Newcastle_United-2026-01-28.json": {
+        "mtime": 1774006954.269827,
+        "teams": [
+            "Paris Saint-Germain",
+            "Newcastle United",
+            "Newcastle United FC",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Chelsea_vs_Paris_Saint-Germain-2026-03-17.json": {
+        "mtime": 1774006954.5661108,
+        "teams": [
+            "Paris Saint-Germain",
+            "Chelsea FC",
+            "Chelsea",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Monaco_vs_Paris_Saint-Germain-2026-02-17.json": {
+        "mtime": 1774006954.748179,
+        "teams": [
+            "Monaco",
+            "Paris Saint-Germain",
+            "AS Monaco FC",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Paris_Saint-Germain_vs_Chelsea-2026-03-11.json": {
+        "mtime": 1774006954.8658936,
+        "teams": [
+            "Paris Saint-Germain",
+            "Chelsea FC",
+            "Chelsea",
+            "Paris Saint-Germain FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Paris_Saint-Germain_vs_Monaco-2026-02-25.json": {
+        "mtime": 1774006954.877648,
+        "teams": [
+            "Paris Saint-Germain",
+            "Monaco",
+            "AS Monaco FC",
+            "Paris Saint-Germain FC"
+        ]
+    }
+}

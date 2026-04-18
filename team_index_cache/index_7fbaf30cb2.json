@@ -1,0 +1,2769 @@
+{
+    "Serie_A_J10_Cremonese_vs_Juventus-2025-11-01.json": {
+        "mtime": 1775491342.1372886,
+        "teams": [
+            "Cremonese",
+            "Juventus",
+            "US Cremonese",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J10_Fiorentina_vs_Lecce-2025-11-02.json": {
+        "mtime": 1775491342.154716,
+        "teams": [
+            "Fiorentina",
+            "ACF Fiorentina",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J10_Hellas_Verona_vs_Internazionale-2025-11-02.json": {
+        "mtime": 1775491342.155729,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "FC Internazionale Milano",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J10_Lazio_vs_Cagliari-2025-11-03.json": {
+        "mtime": 1775491342.1567285,
+        "teams": [
+            "Cagliari",
+            "SS Lazio",
+            "Cagliari Calcio",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J10_Milan_vs_Roma-2025-11-02.json": {
+        "mtime": 1775491342.1588542,
+        "teams": [
+            "AS Roma",
+            "AC Milan",
+            "Roma",
+            "Milan"
+        ]
+    },
+    "Serie_A_J10_Napoli_vs_Como-2025-11-01.json": {
+        "mtime": 1775491342.1598532,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J10_Parma_vs_Bologna-2025-11-02.json": {
+        "mtime": 1775491342.1608522,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J10_Sassuolo_vs_Genoa-2025-11-03.json": {
+        "mtime": 1775491342.1619952,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Genoa",
+            "Genoa CFC",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J10_Torino_vs_Pisa-2025-11-02.json": {
+        "mtime": 1775491342.1629963,
+        "teams": [
+            "Pisa",
+            "Torino FC",
+            "Pisa Sporting Club",
+            "Torino"
+        ]
+    },
+    "Serie_A_J10_Udinese_vs_Atalanta-2025-11-01.json": {
+        "mtime": 1775491342.1659973,
+        "teams": [
+            "Udinese Calcio",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J11_Atalanta_vs_Sassuolo-2025-11-09.json": {
+        "mtime": 1775491342.1669977,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J11_Bologna_vs_Napoli-2025-11-09.json": {
+        "mtime": 1775491342.167997,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Napoli",
+            "SSC Napoli"
+        ]
+    },
+    "Serie_A_J11_Como_vs_Cagliari-2025-11-08.json": {
+        "mtime": 1775491342.1689968,
+        "teams": [
+            "Cagliari",
+            "Calcio Como 1907",
+            "Como",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J11_Genoa_vs_Fiorentina-2025-11-09.json": {
+        "mtime": 1775491342.170997,
+        "teams": [
+            "Genoa",
+            "Genoa CFC",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J11_Internazionale_vs_Lazio-2025-11-09.json": {
+        "mtime": 1775491342.1719997,
+        "teams": [
+            "Internazionale",
+            "SS Lazio",
+            "Lazio",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J11_Juventus_vs_Torino-2025-11-08.json": {
+        "mtime": 1775491342.172997,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Juventus",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J11_Lecce_vs_Hellas_Verona-2025-11-08.json": {
+        "mtime": 1775491342.173997,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J11_Parma_vs_Milan-2025-11-08.json": {
+        "mtime": 1775491342.1759958,
+        "teams": [
+            "AC Milan",
+            "Milan",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J11_Pisa_vs_Cremonese-2025-11-07.json": {
+        "mtime": 1775491342.1759958,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Pisa Sporting Club",
+            "Pisa"
+        ]
+    },
+    "Serie_A_J11_Roma_vs_Udinese-2025-11-09.json": {
+        "mtime": 1775491342.1782103,
+        "teams": [
+            "Udinese Calcio",
+            "AS Roma",
+            "Roma",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J12_Cagliari_vs_Genoa-2025-11-22.json": {
+        "mtime": 1775491342.1792078,
+        "teams": [
+            "Cagliari",
+            "Genoa",
+            "Genoa CFC",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J12_Cremonese_vs_Roma-2025-11-23.json": {
+        "mtime": 1775491342.1817822,
+        "teams": [
+            "Cremonese",
+            "AS Roma",
+            "US Cremonese",
+            "Roma"
+        ]
+    },
+    "Serie_A_J12_Fiorentina_vs_Juventus-2025-11-22.json": {
+        "mtime": 1775491342.1827822,
+        "teams": [
+            "Fiorentina",
+            "Juventus",
+            "ACF Fiorentina",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J12_Hellas_Verona_vs_Parma-2025-11-23.json": {
+        "mtime": 1775491342.183891,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J12_Internazionale_vs_Milan-2025-11-23.json": {
+        "mtime": 1775491342.1860216,
+        "teams": [
+            "Internazionale",
+            "AC Milan",
+            "Milan",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J12_Lazio_vs_Lecce-2025-11-23.json": {
+        "mtime": 1775491342.1871953,
+        "teams": [
+            "SS Lazio",
+            "Lazio",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J12_Napoli_vs_Atalanta-2025-11-22.json": {
+        "mtime": 1775491342.1882153,
+        "teams": [
+            "Napoli",
+            "Atalanta Bergamasca Calcio",
+            "SSC Napoli",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J12_Sassuolo_vs_Pisa-2025-11-24.json": {
+        "mtime": 1775491342.1892233,
+        "teams": [
+            "Pisa",
+            "US Sassuolo Calcio",
+            "Pisa Sporting Club",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J12_Torino_vs_Como-2025-11-24.json": {
+        "mtime": 1775491342.1902237,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J12_Udinese_vs_Bologna-2025-11-22.json": {
+        "mtime": 1775491342.1916292,
+        "teams": [
+            "Bologna FC 1909",
+            "Udinese Calcio",
+            "Bologna",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J13_Atalanta_vs_Fiorentina-2025-11-30.json": {
+        "mtime": 1775491342.1926432,
+        "teams": [
+            "Atalanta",
+            "Atalanta Bergamasca Calcio",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J13_Como_vs_Sassuolo-2025-11-28.json": {
+        "mtime": 1775491342.1936486,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Calcio Como 1907",
+            "Como",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J13_Genoa_vs_Hellas_Verona-2025-11-29.json": {
+        "mtime": 1775491342.1963403,
+        "teams": [
+            "Hellas Verona FC",
+            "Genoa",
+            "Genoa CFC",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J13_Juventus_vs_Cagliari-2025-11-29.json": {
+        "mtime": 1775491342.1983263,
+        "teams": [
+            "Cagliari",
+            "Juventus",
+            "Cagliari Calcio",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J13_Lecce_vs_Torino-2025-11-30.json": {
+        "mtime": 1775491342.1993277,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J13_Milan_vs_Lazio-2025-11-29.json": {
+        "mtime": 1775491342.2003274,
+        "teams": [
+            "SS Lazio",
+            "AC Milan",
+            "Lazio",
+            "Milan"
+        ]
+    },
+    "Serie_A_J13_Parma_vs_Udinese-2025-11-29.json": {
+        "mtime": 1775491342.2013266,
+        "teams": [
+            "Udinese Calcio",
+            "Parma Calcio 1913",
+            "Parma",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J13_Pisa_vs_Internazionale-2025-11-30.json": {
+        "mtime": 1775491342.2023275,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "FC Internazionale Milano",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J13_Roma_vs_Napoli-2025-11-30.json": {
+        "mtime": 1775491342.2033272,
+        "teams": [
+            "Napoli",
+            "AS Roma",
+            "SSC Napoli",
+            "Roma"
+        ]
+    },
+    "Serie_A_J14_Cagliari_vs_Roma-2025-12-07.json": {
+        "mtime": 1775491342.2048504,
+        "teams": [
+            "Cagliari",
+            "Roma",
+            "AS Roma",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J14_Cremonese_vs_Lecce-2025-12-07.json": {
+        "mtime": 1775491342.2058623,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J14_Hellas_Verona_vs_Atalanta-2025-12-06.json": {
+        "mtime": 1775491342.2068636,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J14_Internazionale_vs_Como-2025-12-06.json": {
+        "mtime": 1775491342.2078612,
+        "teams": [
+            "Internazionale",
+            "Como",
+            "Calcio Como 1907",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J14_Lazio_vs_Bologna-2025-12-07.json": {
+        "mtime": 1775491342.209023,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "SS Lazio",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J14_Napoli_vs_Juventus-2025-12-07.json": {
+        "mtime": 1775491342.212142,
+        "teams": [
+            "Napoli",
+            "Juventus",
+            "SSC Napoli",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J14_Pisa_vs_Parma-2025-12-08.json": {
+        "mtime": 1775491342.2131307,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J14_Sassuolo_vs_Fiorentina-2025-12-06.json": {
+        "mtime": 1775491342.21413,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J14_Torino_vs_Milan-2025-12-08.json": {
+        "mtime": 1775491342.2161298,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "AC Milan",
+            "Milan"
+        ]
+    },
+    "Serie_A_J14_Udinese_vs_Genoa-2025-12-08.json": {
+        "mtime": 1775491342.2171302,
+        "teams": [
+            "Udinese Calcio",
+            "Genoa",
+            "Genoa CFC",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J15_Atalanta_vs_Cagliari-2025-12-13.json": {
+        "mtime": 1775491342.2181308,
+        "teams": [
+            "Atalanta",
+            "Cagliari",
+            "Atalanta Bergamasca Calcio",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J15_Bologna_vs_Juventus-2025-12-14.json": {
+        "mtime": 1775491342.219133,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Juventus",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J15_Fiorentina_vs_Hellas_Verona-2025-12-14.json": {
+        "mtime": 1775491342.22113,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J15_Genoa_vs_Internazionale-2025-12-14.json": {
+        "mtime": 1775491342.229244,
+        "teams": [
+            "Internazionale",
+            "Genoa",
+            "Genoa CFC",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J15_Lecce_vs_Pisa-2025-12-12.json": {
+        "mtime": 1775491342.2301328,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J15_Milan_vs_Sassuolo-2025-12-14.json": {
+        "mtime": 1775491342.2311296,
+        "teams": [
+            "US Sassuolo Calcio",
+            "AC Milan",
+            "Milan",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J15_Parma_vs_Lazio-2025-12-13.json": {
+        "mtime": 1775491342.2321818,
+        "teams": [
+            "Lazio",
+            "SS Lazio",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J15_Roma_vs_Como-2025-12-15.json": {
+        "mtime": 1775491342.2334158,
+        "teams": [
+            "Roma",
+            "AS Roma",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J15_Torino_vs_Cremonese-2025-12-13.json": {
+        "mtime": 1775491342.2354155,
+        "teams": [
+            "Cremonese",
+            "Torino",
+            "Torino FC",
+            "US Cremonese"
+        ]
+    },
+    "Serie_A_J15_Udinese_vs_Napoli-2025-12-14.json": {
+        "mtime": 1775491342.2364974,
+        "teams": [
+            "Udinese Calcio",
+            "Napoli",
+            "SSC Napoli",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J16_Cagliari_vs_Pisa-2025-12-21.json": {
+        "mtime": 1775491342.2374992,
+        "teams": [
+            "Cagliari",
+            "Pisa",
+            "Pisa Sporting Club",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J16_Como_vs_Milan-2026-01-15.json": {
+        "mtime": 1775491342.2384992,
+        "teams": [
+            "Como",
+            "AC Milan",
+            "Calcio Como 1907",
+            "Milan"
+        ]
+    },
+    "Serie_A_J16_Fiorentina_vs_Udinese-2025-12-21.json": {
+        "mtime": 1775491342.2394996,
+        "teams": [
+            "Udinese Calcio",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J16_Genoa_vs_Atalanta-2025-12-21.json": {
+        "mtime": 1775491342.2424984,
+        "teams": [
+            "Genoa",
+            "Atalanta Bergamasca Calcio",
+            "Genoa CFC",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J16_Hellas_Verona_vs_Bologna-2026-01-15.json": {
+        "mtime": 1775491342.243499,
+        "teams": [
+            "Bologna FC 1909",
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Bologna"
+        ]
+    },
+    "Serie_A_J16_Internazionale_vs_Lecce-2026-01-14.json": {
+        "mtime": 1775491342.2622504,
+        "teams": [
+            "Internazionale",
+            "US Lecce",
+            "Lecce",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J16_Juventus_vs_Roma-2025-12-20.json": {
+        "mtime": 1775491342.2642386,
+        "teams": [
+            "AS Roma",
+            "Juventus",
+            "Roma",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J16_Lazio_vs_Cremonese-2025-12-20.json": {
+        "mtime": 1775491342.2652392,
+        "teams": [
+            "Cremonese",
+            "SS Lazio",
+            "US Cremonese",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J16_Napoli_vs_Parma-2026-01-14.json": {
+        "mtime": 1775491342.2662385,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J16_Sassuolo_vs_Torino-2025-12-21.json": {
+        "mtime": 1775491342.2672384,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Torino FC",
+            "Torino",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J17_Atalanta_vs_Internazionale-2025-12-28.json": {
+        "mtime": 1775491342.28287,
+        "teams": [
+            "Internazionale",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J17_Bologna_vs_Sassuolo-2025-12-28.json": {
+        "mtime": 1775491342.2839863,
+        "teams": [
+            "Bologna FC 1909",
+            "US Sassuolo Calcio",
+            "Bologna",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J17_Cremonese_vs_Napoli-2025-12-28.json": {
+        "mtime": 1775491342.2849886,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Napoli",
+            "SSC Napoli"
+        ]
+    },
+    "Serie_A_J17_Lecce_vs_Como-2025-12-27.json": {
+        "mtime": 1775491342.2865708,
+        "teams": [
+            "Como",
+            "Calcio Como 1907",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J17_Milan_vs_Hellas_Verona-2025-12-28.json": {
+        "mtime": 1775491342.287567,
+        "teams": [
+            "Hellas Verona FC",
+            "AC Milan",
+            "Hellas Verona",
+            "Milan"
+        ]
+    },
+    "Serie_A_J17_Parma_vs_Fiorentina-2025-12-27.json": {
+        "mtime": 1775491342.288566,
+        "teams": [
+            "ACF Fiorentina",
+            "Fiorentina",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J17_Pisa_vs_Juventus-2025-12-27.json": {
+        "mtime": 1775491342.290567,
+        "teams": [
+            "Pisa",
+            "Juventus",
+            "Pisa Sporting Club",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J17_Roma_vs_Genoa-2025-12-29.json": {
+        "mtime": 1775491342.2915673,
+        "teams": [
+            "AS Roma",
+            "Genoa",
+            "Genoa CFC",
+            "Roma"
+        ]
+    },
+    "Serie_A_J17_Torino_vs_Cagliari-2025-12-27.json": {
+        "mtime": 1775491342.294567,
+        "teams": [
+            "Cagliari",
+            "Torino",
+            "Torino FC",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J17_Udinese_vs_Lazio-2025-12-27.json": {
+        "mtime": 1775491342.296958,
+        "teams": [
+            "Udinese Calcio",
+            "SS Lazio",
+            "Lazio",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J18_Atalanta_vs_Roma-2026-01-03.json": {
+        "mtime": 1775491342.2979548,
+        "teams": [
+            "Atalanta",
+            "AS Roma",
+            "Atalanta Bergamasca Calcio",
+            "Roma"
+        ]
+    },
+    "Serie_A_J18_Cagliari_vs_Milan-2026-01-02.json": {
+        "mtime": 1775491342.2989545,
+        "teams": [
+            "Cagliari",
+            "AC Milan",
+            "Cagliari Calcio",
+            "Milan"
+        ]
+    },
+    "Serie_A_J18_Como_vs_Udinese-2026-01-03.json": {
+        "mtime": 1775491342.299955,
+        "teams": [
+            "Udinese Calcio",
+            "Calcio Como 1907",
+            "Como",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J18_Fiorentina_vs_Cremonese-2026-01-04.json": {
+        "mtime": 1775491342.3009548,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J18_Genoa_vs_Pisa-2026-01-03.json": {
+        "mtime": 1775491342.3019547,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "Genoa",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J18_Hellas_Verona_vs_Torino-2026-01-04.json": {
+        "mtime": 1775491342.3039558,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Torino FC",
+            "Torino"
+        ]
+    },
+    "Serie_A_J18_Internazionale_vs_Bologna-2026-01-04.json": {
+        "mtime": 1775491342.3127055,
+        "teams": [
+            "Bologna FC 1909",
+            "Internazionale",
+            "Bologna",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J18_Juventus_vs_Lecce-2026-01-03.json": {
+        "mtime": 1775491342.3137052,
+        "teams": [
+            "Juventus",
+            "Lecce",
+            "US Lecce",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J18_Lazio_vs_Napoli-2026-01-04.json": {
+        "mtime": 1775491342.3147085,
+        "teams": [
+            "Napoli",
+            "SS Lazio",
+            "SSC Napoli",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J18_Sassuolo_vs_Parma-2026-01-03.json": {
+        "mtime": 1775491342.3157072,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Parma Calcio 1913",
+            "Parma",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J19_Bologna_vs_Atalanta-2026-01-07.json": {
+        "mtime": 1775491342.316709,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J19_Cremonese_vs_Cagliari-2026-01-08.json": {
+        "mtime": 1775491342.318705,
+        "teams": [
+            "Cremonese",
+            "Cagliari",
+            "US Cremonese",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J19_Lazio_vs_Fiorentina-2026-01-07.json": {
+        "mtime": 1775491342.3197095,
+        "teams": [
+            "SS Lazio",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J19_Lecce_vs_Roma-2026-01-06.json": {
+        "mtime": 1775491342.3207047,
+        "teams": [
+            "AS Roma",
+            "Roma",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J19_Milan_vs_Genoa-2026-01-08.json": {
+        "mtime": 1775491342.321705,
+        "teams": [
+            "Genoa",
+            "AC Milan",
+            "Genoa CFC",
+            "Milan"
+        ]
+    },
+    "Serie_A_J19_Napoli_vs_Hellas_Verona-2026-01-07.json": {
+        "mtime": 1775491342.3247087,
+        "teams": [
+            "Hellas Verona FC",
+            "Napoli",
+            "SSC Napoli",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J19_Parma_vs_Internazionale-2026-01-07.json": {
+        "mtime": 1775491342.3339043,
+        "teams": [
+            "Parma",
+            "Internazionale",
+            "Parma Calcio 1913",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J19_Pisa_vs_Como-2026-01-06.json": {
+        "mtime": 1775491342.33491,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J19_Sassuolo_vs_Juventus-2026-01-06.json": {
+        "mtime": 1775491342.3363037,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Sassuolo",
+            "Juventus",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J19_Torino_vs_Udinese-2026-01-07.json": {
+        "mtime": 1775491342.3373196,
+        "teams": [
+            "Udinese Calcio",
+            "Torino FC",
+            "Torino",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J1_Atalanta_vs_Pisa-2025-08-24.json": {
+        "mtime": 1775491342.3403194,
+        "teams": [
+            "Pisa",
+            "Atalanta Bergamasca Calcio",
+            "Pisa Sporting Club",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J1_Cagliari_vs_Fiorentina-2025-08-24.json": {
+        "mtime": 1775491342.3413336,
+        "teams": [
+            "Cagliari",
+            "ACF Fiorentina",
+            "Fiorentina",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J1_Como_vs_Lazio-2025-08-24.json": {
+        "mtime": 1775491342.3429434,
+        "teams": [
+            "SS Lazio",
+            "Como",
+            "Calcio Como 1907",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J1_Genoa_vs_Lecce-2025-08-23.json": {
+        "mtime": 1775491342.3439558,
+        "teams": [
+            "Genoa",
+            "Genoa CFC",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J1_Internazionale_vs_Torino-2025-08-25.json": {
+        "mtime": 1775491342.344961,
+        "teams": [
+            "Internazionale",
+            "Torino FC",
+            "Torino",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J1_Juventus_vs_Parma-2025-08-24.json": {
+        "mtime": 1775491342.3455937,
+        "teams": [
+            "Juventus",
+            "Parma Calcio 1913",
+            "Parma",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J1_Milan_vs_Cremonese-2025-08-23.json": {
+        "mtime": 1775491342.3475907,
+        "teams": [
+            "Cremonese",
+            "AC Milan",
+            "US Cremonese",
+            "Milan"
+        ]
+    },
+    "Serie_A_J1_Roma_vs_Bologna-2025-08-23.json": {
+        "mtime": 1775491342.3485913,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "AS Roma",
+            "Roma"
+        ]
+    },
+    "Serie_A_J1_Sassuolo_vs_Napoli-2025-08-23.json": {
+        "mtime": 1775491342.349591,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Napoli",
+            "SSC Napoli",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J1_Udinese_vs_Hellas_Verona-2025-08-25.json": {
+        "mtime": 1775491342.350591,
+        "teams": [
+            "Udinese Calcio",
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J20_Atalanta_vs_Torino-2026-01-10.json": {
+        "mtime": 1775491342.3515904,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J20_Como_vs_Bologna-2026-01-10.json": {
+        "mtime": 1775491342.3525925,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J20_Fiorentina_vs_Milan-2026-01-11.json": {
+        "mtime": 1775491342.355606,
+        "teams": [
+            "AC Milan",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Milan"
+        ]
+    },
+    "Serie_A_J20_Genoa_vs_Cagliari-2026-01-12.json": {
+        "mtime": 1775491342.356607,
+        "teams": [
+            "Cagliari",
+            "Genoa",
+            "Genoa CFC",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J20_Hellas_Verona_vs_Lazio-2026-01-11.json": {
+        "mtime": 1775491342.3576066,
+        "teams": [
+            "Hellas Verona FC",
+            "SS Lazio",
+            "Hellas Verona",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J20_Internazionale_vs_Napoli-2026-01-11.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Internazionale",
+            "Napoli",
+            "SSC Napoli",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J20_Juventus_vs_Cremonese-2026-01-12.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Cremonese",
+            "Juventus",
+            "US Cremonese",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J20_Lecce_vs_Parma-2026-01-11.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Parma",
+            "Parma Calcio 1913",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J20_Roma_vs_Sassuolo-2026-01-10.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "US Sassuolo Calcio",
+            "AS Roma",
+            "Roma",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J20_Udinese_vs_Pisa-2026-01-10.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Pisa",
+            "Udinese Calcio",
+            "Pisa Sporting Club",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J21_Bologna_vs_Fiorentina-2026-01-18.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J21_Cagliari_vs_Juventus-2026-01-17.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Cagliari",
+            "Juventus",
+            "Cagliari Calcio",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J21_Cremonese_vs_Hellas_Verona-2026-01-19.json": {
+        "mtime": 1775491342.3609343,
+        "teams": [
+            "Cremonese",
+            "Hellas Verona FC",
+            "US Cremonese",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J21_Lazio_vs_Como-2026-01-19.json": {
+        "mtime": 1775491342.3775015,
+        "teams": [
+            "SS Lazio",
+            "Como",
+            "Calcio Como 1907",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J21_Milan_vs_Lecce-2026-01-18.json": {
+        "mtime": 1775491342.3785188,
+        "teams": [
+            "AC Milan",
+            "Milan",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J21_Napoli_vs_Sassuolo-2026-01-17.json": {
+        "mtime": 1775491342.3795187,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Napoli",
+            "SSC Napoli",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J21_Parma_vs_Genoa-2026-01-18.json": {
+        "mtime": 1775491342.3815165,
+        "teams": [
+            "Genoa",
+            "Genoa CFC",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J21_Pisa_vs_Atalanta-2026-01-16.json": {
+        "mtime": 1775491342.3825173,
+        "teams": [
+            "Pisa",
+            "Atalanta Bergamasca Calcio",
+            "Pisa Sporting Club",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J21_Torino_vs_Roma-2026-01-18.json": {
+        "mtime": 1775491342.3835168,
+        "teams": [
+            "Torino",
+            "AS Roma",
+            "Torino FC",
+            "Roma"
+        ]
+    },
+    "Serie_A_J21_Udinese_vs_Internazionale-2026-01-17.json": {
+        "mtime": 1775491342.391521,
+        "teams": [
+            "Udinese Calcio",
+            "Udinese",
+            "FC Internazionale Milano",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J22_Atalanta_vs_Parma-2026-01-25.json": {
+        "mtime": 1775491342.3935208,
+        "teams": [
+            "Atalanta",
+            "Atalanta Bergamasca Calcio",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J22_Como_vs_Torino-2026-01-24.json": {
+        "mtime": 1775491342.3945172,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J22_Fiorentina_vs_Cagliari-2026-01-24.json": {
+        "mtime": 1775491342.3953047,
+        "teams": [
+            "Cagliari",
+            "ACF Fiorentina",
+            "Fiorentina",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J22_Genoa_vs_Bologna-2026-01-25.json": {
+        "mtime": 1775491342.3962693,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Genoa",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J22_Hellas_Verona_vs_Udinese-2026-01-26.json": {
+        "mtime": 1775491342.3982692,
+        "teams": [
+            "Udinese Calcio",
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J22_Internazionale_vs_Pisa-2026-01-23.json": {
+        "mtime": 1775491342.400273,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "FC Internazionale Milano",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J22_Juventus_vs_Napoli-2026-01-25.json": {
+        "mtime": 1775491342.4012697,
+        "teams": [
+            "Napoli",
+            "Juventus",
+            "SSC Napoli",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J22_Lecce_vs_Lazio-2026-01-24.json": {
+        "mtime": 1775491342.4022708,
+        "teams": [
+            "Lazio",
+            "SS Lazio",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J22_Roma_vs_Milan-2026-01-25.json": {
+        "mtime": 1775491342.4032698,
+        "teams": [
+            "AS Roma",
+            "AC Milan",
+            "Roma",
+            "Milan"
+        ]
+    },
+    "Serie_A_J22_Sassuolo_vs_Cremonese-2026-01-25.json": {
+        "mtime": 1775491342.404272,
+        "teams": [
+            "Cremonese",
+            "US Sassuolo Calcio",
+            "US Cremonese",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J23_Bologna_vs_Milan-2026-02-03.json": {
+        "mtime": 1775491342.4052727,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "AC Milan",
+            "Milan"
+        ]
+    },
+    "Serie_A_J23_Cagliari_vs_Hellas_Verona-2026-01-31.json": {
+        "mtime": 1775491342.4082828,
+        "teams": [
+            "Cagliari",
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J23_Como_vs_Atalanta-2026-02-01.json": {
+        "mtime": 1775491342.4104872,
+        "teams": [
+            "Atalanta",
+            "Atalanta Bergamasca Calcio",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J23_Cremonese_vs_Internazionale-2026-02-01.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "Cremonese",
+            "Internazionale",
+            "US Cremonese",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J23_Lazio_vs_Genoa-2026-01-30.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "SS Lazio",
+            "Genoa",
+            "Genoa CFC",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J23_Napoli_vs_Fiorentina-2026-01-31.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J23_Parma_vs_Juventus-2026-02-01.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "Juventus",
+            "Parma Calcio 1913",
+            "Parma",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J23_Pisa_vs_Sassuolo-2026-01-31.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "Pisa",
+            "US Sassuolo Calcio",
+            "Pisa Sporting Club",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J23_Torino_vs_Lecce-2026-02-01.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J23_Udinese_vs_Roma-2026-02-02.json": {
+        "mtime": 1775491342.4165363,
+        "teams": [
+            "Udinese Calcio",
+            "AS Roma",
+            "Roma",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J24_Atalanta_vs_Cremonese-2026-02-09.json": {
+        "mtime": 1775491342.427672,
+        "teams": [
+            "Cremonese",
+            "Atalanta Bergamasca Calcio",
+            "US Cremonese",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J24_Bologna_vs_Parma-2026-02-08.json": {
+        "mtime": 1775491342.4296863,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J24_Fiorentina_vs_Torino-2026-02-07.json": {
+        "mtime": 1775491342.4306862,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J24_Genoa_vs_Napoli-2026-02-07.json": {
+        "mtime": 1775491342.431686,
+        "teams": [
+            "Napoli",
+            "Genoa",
+            "Genoa CFC",
+            "SSC Napoli"
+        ]
+    },
+    "Serie_A_J24_Hellas_Verona_vs_Pisa-2026-02-06.json": {
+        "mtime": 1775491342.4328797,
+        "teams": [
+            "Pisa",
+            "Hellas Verona FC",
+            "Pisa Sporting Club",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J24_Juventus_vs_Lazio-2026-02-08.json": {
+        "mtime": 1775491342.4339013,
+        "teams": [
+            "SS Lazio",
+            "Juventus",
+            "Lazio",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J24_Lecce_vs_Udinese-2026-02-08.json": {
+        "mtime": 1775491342.4350164,
+        "teams": [
+            "Udinese Calcio",
+            "Lecce",
+            "US Lecce",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J24_Roma_vs_Cagliari-2026-02-09.json": {
+        "mtime": 1775491342.43591,
+        "teams": [
+            "Cagliari",
+            "Roma",
+            "AS Roma",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J24_Sassuolo_vs_Internazionale-2026-02-08.json": {
+        "mtime": 1775491342.4451015,
+        "teams": [
+            "Internazionale",
+            "US Sassuolo Calcio",
+            "FC Internazionale Milano",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J25_Cagliari_vs_Lecce-2026-02-16.json": {
+        "mtime": 1775491342.4466333,
+        "teams": [
+            "Cagliari",
+            "Cagliari Calcio",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J25_Como_vs_Fiorentina-2026-02-14.json": {
+        "mtime": 1775491342.4476328,
+        "teams": [
+            "Calcio Como 1907",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Como"
+        ]
+    },
+    "Serie_A_J25_Cremonese_vs_Genoa-2026-02-15.json": {
+        "mtime": 1775491342.4486215,
+        "teams": [
+            "Cremonese",
+            "Genoa",
+            "US Cremonese",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J25_Internazionale_vs_Juventus-2026-02-14.json": {
+        "mtime": 1775491342.4577506,
+        "teams": [
+            "Internazionale",
+            "Juventus",
+            "FC Internazionale Milano",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J25_Lazio_vs_Atalanta-2026-02-14.json": {
+        "mtime": 1775491342.4588983,
+        "teams": [
+            "SS Lazio",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J25_Napoli_vs_Roma-2026-02-15.json": {
+        "mtime": 1775491342.4599135,
+        "teams": [
+            "Napoli",
+            "AS Roma",
+            "SSC Napoli",
+            "Roma"
+        ]
+    },
+    "Serie_A_J25_Parma_vs_Hellas_Verona-2026-02-15.json": {
+        "mtime": 1775491342.4609866,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J25_Pisa_vs_Milan-2026-02-13.json": {
+        "mtime": 1775491342.46299,
+        "teams": [
+            "Pisa",
+            "AC Milan",
+            "Pisa Sporting Club",
+            "Milan"
+        ]
+    },
+    "Serie_A_J25_Torino_vs_Bologna-2026-02-15.json": {
+        "mtime": 1775491342.4639883,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Torino FC",
+            "Torino"
+        ]
+    },
+    "Serie_A_J25_Udinese_vs_Sassuolo-2026-02-15.json": {
+        "mtime": 1775491342.4650009,
+        "teams": [
+            "Udinese Calcio",
+            "US Sassuolo Calcio",
+            "Udinese",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J26_Atalanta_vs_Napoli-2026-02-22.json": {
+        "mtime": 1775491342.4660013,
+        "teams": [
+            "Napoli",
+            "Atalanta Bergamasca Calcio",
+            "SSC Napoli",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J26_Bologna_vs_Udinese-2026-02-23.json": {
+        "mtime": 1775491342.466988,
+        "teams": [
+            "Bologna FC 1909",
+            "Udinese Calcio",
+            "Bologna",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J26_Cagliari_vs_Lazio-2026-02-21.json": {
+        "mtime": 1775491342.4679892,
+        "teams": [
+            "Cagliari",
+            "SS Lazio",
+            "Cagliari Calcio",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J26_Fiorentina_vs_Pisa-2026-02-23.json": {
+        "mtime": 1775491342.4690008,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J26_Genoa_vs_Torino-2026-02-22.json": {
+        "mtime": 1775491342.4709873,
+        "teams": [
+            "Torino",
+            "Genoa",
+            "Torino FC",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J26_Juventus_vs_Como-2026-02-21.json": {
+        "mtime": 1775491342.4720008,
+        "teams": [
+            "Juventus",
+            "Calcio Como 1907",
+            "Como",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J26_Lecce_vs_Internazionale-2026-02-21.json": {
+        "mtime": 1775491342.4816308,
+        "teams": [
+            "FC Internazionale Milano",
+            "Internazionale",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J26_Milan_vs_Parma-2026-02-22.json": {
+        "mtime": 1775491342.4837,
+        "teams": [
+            "AC Milan",
+            "Milan",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J26_Roma_vs_Cremonese-2026-02-22.json": {
+        "mtime": 1775491342.484714,
+        "teams": [
+            "Cremonese",
+            "AS Roma",
+            "US Cremonese",
+            "Roma"
+        ]
+    },
+    "Serie_A_J26_Sassuolo_vs_Hellas_Verona-2026-02-20.json": {
+        "mtime": 1775491342.4857006,
+        "teams": [
+            "Hellas Verona FC",
+            "US Sassuolo Calcio",
+            "Hellas Verona",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J27_Como_vs_Lecce-2026-02-28.json": {
+        "mtime": 1775491342.4887004,
+        "teams": [
+            "Como",
+            "Calcio Como 1907",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J27_Cremonese_vs_Milan-2026-03-01.json": {
+        "mtime": 1775491342.4897149,
+        "teams": [
+            "Cremonese",
+            "AC Milan",
+            "US Cremonese",
+            "Milan"
+        ]
+    },
+    "Serie_A_J27_Hellas_Verona_vs_Napoli-2026-02-28.json": {
+        "mtime": 1775491342.4907029,
+        "teams": [
+            "Hellas Verona FC",
+            "Napoli",
+            "SSC Napoli",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J27_Internazionale_vs_Genoa-2026-02-28.json": {
+        "mtime": 1775491342.4992895,
+        "teams": [
+            "Internazionale",
+            "Genoa",
+            "Genoa CFC",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J27_Parma_vs_Cagliari-2026-02-27.json": {
+        "mtime": 1775491342.5002797,
+        "teams": [
+            "Cagliari",
+            "Parma Calcio 1913",
+            "Cagliari Calcio",
+            "Parma"
+        ]
+    },
+    "Serie_A_J27_Pisa_vs_Bologna-2026-03-02.json": {
+        "mtime": 1775491342.5012918,
+        "teams": [
+            "Bologna FC 1909",
+            "Pisa",
+            "Pisa Sporting Club",
+            "Bologna"
+        ]
+    },
+    "Serie_A_J27_Roma_vs_Juventus-2026-03-01.json": {
+        "mtime": 1775491342.5042841,
+        "teams": [
+            "AS Roma",
+            "Juventus",
+            "Roma",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J27_Sassuolo_vs_Atalanta-2026-03-01.json": {
+        "mtime": 1775491342.506277,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J27_Torino_vs_Lazio-2026-03-01.json": {
+        "mtime": 1775491342.50729,
+        "teams": [
+            "Torino",
+            "SS Lazio",
+            "Torino FC",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J27_Udinese_vs_Fiorentina-2026-03-02.json": {
+        "mtime": 1775491342.5082915,
+        "teams": [
+            "Udinese Calcio",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J28_Atalanta_vs_Udinese-2026-03-07.json": {
+        "mtime": 1775491342.5096228,
+        "teams": [
+            "Udinese Calcio",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J28_Bologna_vs_Hellas_Verona-2026-03-08.json": {
+        "mtime": 1775491342.5107148,
+        "teams": [
+            "Bologna FC 1909",
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Bologna"
+        ]
+    },
+    "Serie_A_J28_Cagliari_vs_Como-2026-03-07.json": {
+        "mtime": 1775491342.5117185,
+        "teams": [
+            "Calcio Como 1907",
+            "Cagliari",
+            "Cagliari Calcio",
+            "Como"
+        ]
+    },
+    "Serie_A_J28_Fiorentina_vs_Parma-2026-03-08.json": {
+        "mtime": 1775491342.5127294,
+        "teams": [
+            "ACF Fiorentina",
+            "Fiorentina",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J28_Genoa_vs_Roma-2026-03-08.json": {
+        "mtime": 1775491342.5137162,
+        "teams": [
+            "AS Roma",
+            "Genoa",
+            "Genoa CFC",
+            "Roma"
+        ]
+    },
+    "Serie_A_J28_Juventus_vs_Pisa-2026-03-07.json": {
+        "mtime": 1775491342.5157168,
+        "teams": [
+            "Pisa",
+            "Juventus",
+            "Pisa Sporting Club",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J28_Lecce_vs_Cremonese-2026-03-08.json": {
+        "mtime": 1775491342.5167263,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J28_Milan_vs_Internazionale-2026-03-08.json": {
+        "mtime": 1775491342.5277565,
+        "teams": [
+            "Internazionale",
+            "AC Milan",
+            "Milan",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J28_Napoli_vs_Torino-2026-03-06.json": {
+        "mtime": 1775491342.528756,
+        "teams": [
+            "Torino",
+            "Napoli",
+            "Torino FC",
+            "SSC Napoli"
+        ]
+    },
+    "Serie_A_J29_Como_vs_Roma-2026-03-15.json": {
+        "mtime": 1775491342.5307598,
+        "teams": [
+            "Roma",
+            "AS Roma",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J29_Cremonese_vs_Fiorentina-2026-03-16.json": {
+        "mtime": 1775491342.5318847,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J29_Hellas_Verona_vs_Genoa-2026-03-15.json": {
+        "mtime": 1775491342.5349727,
+        "teams": [
+            "Hellas Verona FC",
+            "Genoa",
+            "Genoa CFC",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J29_Internazionale_vs_Atalanta-2026-03-14.json": {
+        "mtime": 1775491342.5370843,
+        "teams": [
+            "Internazionale",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J29_Lazio_vs_Milan-2026-03-15.json": {
+        "mtime": 1775491342.539074,
+        "teams": [
+            "SS Lazio",
+            "AC Milan",
+            "Lazio",
+            "Milan"
+        ]
+    },
+    "Serie_A_J29_Napoli_vs_Lecce-2026-03-14.json": {
+        "mtime": 1775491342.540072,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J29_Pisa_vs_Cagliari-2026-03-15.json": {
+        "mtime": 1775491342.541073,
+        "teams": [
+            "Cagliari",
+            "Pisa",
+            "Pisa Sporting Club",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J29_Sassuolo_vs_Bologna-2026-03-15.json": {
+        "mtime": 1775491342.5420718,
+        "teams": [
+            "Bologna FC 1909",
+            "US Sassuolo Calcio",
+            "Bologna",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J29_Torino_vs_Parma-2026-03-13.json": {
+        "mtime": 1775491342.543072,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J29_Udinese_vs_Juventus-2026-03-14.json": {
+        "mtime": 1775491342.545072,
+        "teams": [
+            "Udinese Calcio",
+            "Juventus",
+            "Udinese",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J2_Bologna_vs_Como-2025-08-30.json": {
+        "mtime": 1775491342.5457737,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J2_Cremonese_vs_Sassuolo-2025-08-29.json": {
+        "mtime": 1775491342.5467103,
+        "teams": [
+            "Cremonese",
+            "US Sassuolo Calcio",
+            "US Cremonese",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J2_Genoa_vs_Juventus-2025-08-31.json": {
+        "mtime": 1775491342.5486982,
+        "teams": [
+            "Genoa",
+            "Juventus",
+            "Genoa CFC",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J2_Internazionale_vs_Udinese-2025-08-31.json": {
+        "mtime": 1775491342.55171,
+        "teams": [
+            "Udinese Calcio",
+            "Udinese",
+            "FC Internazionale Milano",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J2_Lazio_vs_Hellas_Verona-2025-08-31.json": {
+        "mtime": 1775491342.5527017,
+        "teams": [
+            "Hellas Verona FC",
+            "SS Lazio",
+            "Hellas Verona",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J2_Lecce_vs_Milan-2025-08-29.json": {
+        "mtime": 1775491342.553702,
+        "teams": [
+            "AC Milan",
+            "Milan",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J2_Napoli_vs_Cagliari-2025-08-30.json": {
+        "mtime": 1775491342.5558152,
+        "teams": [
+            "Cagliari",
+            "Napoli",
+            "SSC Napoli",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J2_Parma_vs_Atalanta-2025-08-30.json": {
+        "mtime": 1775491342.556826,
+        "teams": [
+            "Atalanta",
+            "Atalanta Bergamasca Calcio",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J2_Pisa_vs_Roma-2025-08-30.json": {
+        "mtime": 1775491342.5578144,
+        "teams": [
+            "Pisa",
+            "AS Roma",
+            "Pisa Sporting Club",
+            "Roma"
+        ]
+    },
+    "Serie_A_J2_Torino_vs_Fiorentina-2025-08-31.json": {
+        "mtime": 1775491342.5589604,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J30_Atalanta_vs_Hellas_Verona-2026-03-22.json": {
+        "mtime": 1775491342.5599632,
+        "teams": [
+            "Atalanta",
+            "Hellas Verona FC",
+            "Atalanta Bergamasca Calcio",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J30_Bologna_vs_Lazio-2026-03-22.json": {
+        "mtime": 1775491342.5611475,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "SS Lazio",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J30_Cagliari_vs_Napoli-2026-03-20.json": {
+        "mtime": 1775491342.5621507,
+        "teams": [
+            "Cagliari",
+            "Napoli",
+            "SSC Napoli",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J30_Como_vs_Pisa-2026-03-22.json": {
+        "mtime": 1775491342.5631497,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J30_Fiorentina_vs_Internazionale-2026-03-22.json": {
+        "mtime": 1775491342.5721495,
+        "teams": [
+            "Internazionale",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J30_Genoa_vs_Udinese-2026-03-20.json": {
+        "mtime": 1775491342.5741508,
+        "teams": [
+            "Udinese Calcio",
+            "Genoa",
+            "Genoa CFC",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J30_Juventus_vs_Sassuolo-2026-03-21.json": {
+        "mtime": 1775491342.575149,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Sassuolo",
+            "Juventus",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J30_Milan_vs_Torino-2026-03-21.json": {
+        "mtime": 1775491342.576277,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "AC Milan",
+            "Milan"
+        ]
+    },
+    "Serie_A_J30_Parma_vs_Cremonese-2026-03-21.json": {
+        "mtime": 1775491342.5772502,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J30_Roma_vs_Lecce-2026-03-22.json": {
+        "mtime": 1775491342.5782492,
+        "teams": [
+            "AS Roma",
+            "Roma",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J3_Atalanta_vs_Lecce-2025-09-14.json": {
+        "mtime": 1775491349.6214185,
+        "teams": [
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J3_Cagliari_vs_Parma-2025-09-13.json": {
+        "mtime": 1775491349.6244226,
+        "teams": [
+            "Cagliari",
+            "Parma Calcio 1913",
+            "Cagliari Calcio",
+            "Parma"
+        ]
+    },
+    "Serie_A_J3_Como_vs_Genoa-2025-09-15.json": {
+        "mtime": 1775491349.6487002,
+        "teams": [
+            "Genoa",
+            "Genoa CFC",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J3_Fiorentina_vs_Napoli-2025-09-13.json": {
+        "mtime": 1775491349.6496522,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J3_Hellas_Verona_vs_Cremonese-2025-09-15.json": {
+        "mtime": 1775491349.6506405,
+        "teams": [
+            "Cremonese",
+            "Hellas Verona FC",
+            "US Cremonese",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J3_Juventus_vs_Internazionale-2025-09-13.json": {
+        "mtime": 1775491349.6516395,
+        "teams": [
+            "Internazionale",
+            "Juventus",
+            "FC Internazionale Milano",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J3_Milan_vs_Bologna-2025-09-14.json": {
+        "mtime": 1775491349.6536388,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "AC Milan",
+            "Milan"
+        ]
+    },
+    "Serie_A_J3_Pisa_vs_Udinese-2025-09-14.json": {
+        "mtime": 1775491349.6563358,
+        "teams": [
+            "Pisa",
+            "Udinese Calcio",
+            "Pisa Sporting Club",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J3_Roma_vs_Torino-2025-09-14.json": {
+        "mtime": 1775491349.6573358,
+        "teams": [
+            "Torino",
+            "AS Roma",
+            "Torino FC",
+            "Roma"
+        ]
+    },
+    "Serie_A_J3_Sassuolo_vs_Lazio-2025-09-14.json": {
+        "mtime": 1775491349.6583364,
+        "teams": [
+            "US Sassuolo Calcio",
+            "SS Lazio",
+            "Lazio",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J4_Cremonese_vs_Parma-2025-09-21.json": {
+        "mtime": 1775491349.66046,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J4_Fiorentina_vs_Como-2025-09-21.json": {
+        "mtime": 1775491349.6615398,
+        "teams": [
+            "Calcio Como 1907",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Como"
+        ]
+    },
+    "Serie_A_J4_Internazionale_vs_Sassuolo-2025-09-21.json": {
+        "mtime": 1775491349.6625407,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Sassuolo",
+            "FC Internazionale Milano",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J4_Lazio_vs_Roma-2025-09-21.json": {
+        "mtime": 1775491349.6635394,
+        "teams": [
+            "SS Lazio",
+            "Roma",
+            "Lazio",
+            "AS Roma"
+        ]
+    },
+    "Serie_A_J4_Lecce_vs_Cagliari-2025-09-19.json": {
+        "mtime": 1775491349.665004,
+        "teams": [
+            "Cagliari",
+            "Cagliari Calcio",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J4_Napoli_vs_Pisa-2025-09-22.json": {
+        "mtime": 1775491349.6660218,
+        "teams": [
+            "Pisa",
+            "Napoli",
+            "Pisa Sporting Club",
+            "SSC Napoli"
+        ]
+    },
+    "Serie_A_J4_Torino_vs_Atalanta-2025-09-21.json": {
+        "mtime": 1775491349.667024,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J5_Cagliari_vs_Internazionale-2025-09-27.json": {
+        "mtime": 1775491349.6680288,
+        "teams": [
+            "Cagliari",
+            "Internazionale",
+            "Cagliari Calcio",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J5_Como_vs_Cremonese-2025-09-27.json": {
+        "mtime": 1775491349.6720324,
+        "teams": [
+            "Cremonese",
+            "US Cremonese",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J5_Genoa_vs_Lazio-2025-09-29.json": {
+        "mtime": 1775491349.6730325,
+        "teams": [
+            "SS Lazio",
+            "Genoa",
+            "Genoa CFC",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J5_Juventus_vs_Atalanta-2025-09-27.json": {
+        "mtime": 1775491349.6740184,
+        "teams": [
+            "Atalanta Bergamasca Calcio",
+            "Juventus",
+            "Atalanta",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J5_Lecce_vs_Bologna-2025-09-28.json": {
+        "mtime": 1775491349.6750221,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J5_Milan_vs_Napoli-2025-09-28.json": {
+        "mtime": 1775491349.676771,
+        "teams": [
+            "Napoli",
+            "AC Milan",
+            "SSC Napoli",
+            "Milan"
+        ]
+    },
+    "Serie_A_J5_Parma_vs_Torino-2025-09-29.json": {
+        "mtime": 1775491349.6777875,
+        "teams": [
+            "Torino",
+            "Torino FC",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J5_Pisa_vs_Fiorentina-2025-09-28.json": {
+        "mtime": 1775491349.6787884,
+        "teams": [
+            "Pisa",
+            "Pisa Sporting Club",
+            "ACF Fiorentina",
+            "Fiorentina"
+        ]
+    },
+    "Serie_A_J5_Roma_vs_Hellas_Verona-2025-09-28.json": {
+        "mtime": 1775491349.6797848,
+        "teams": [
+            "Hellas Verona FC",
+            "AS Roma",
+            "Roma",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J5_Sassuolo_vs_Udinese-2025-09-28.json": {
+        "mtime": 1775491349.6807847,
+        "teams": [
+            "Udinese Calcio",
+            "US Sassuolo Calcio",
+            "Udinese",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J6_Atalanta_vs_Como-2025-10-04.json": {
+        "mtime": 1775491349.6818416,
+        "teams": [
+            "Atalanta",
+            "Atalanta Bergamasca Calcio",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J6_Bologna_vs_Pisa-2025-10-05.json": {
+        "mtime": 1775491349.683785,
+        "teams": [
+            "Bologna FC 1909",
+            "Pisa",
+            "Pisa Sporting Club",
+            "Bologna"
+        ]
+    },
+    "Serie_A_J6_Fiorentina_vs_Roma-2025-10-05.json": {
+        "mtime": 1775491349.6861117,
+        "teams": [
+            "Roma",
+            "AS Roma",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J6_Hellas_Verona_vs_Sassuolo-2025-10-03.json": {
+        "mtime": 1775491349.6861117,
+        "teams": [
+            "Hellas Verona FC",
+            "US Sassuolo Calcio",
+            "Hellas Verona",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J6_Internazionale_vs_Cremonese-2025-10-04.json": {
+        "mtime": 1775491349.6861117,
+        "teams": [
+            "Cremonese",
+            "Internazionale",
+            "US Cremonese",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J6_Juventus_vs_Milan-2025-10-05.json": {
+        "mtime": 1775491349.6861117,
+        "teams": [
+            "AC Milan",
+            "Juventus",
+            "Milan",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J6_Lazio_vs_Torino-2025-10-04.json": {
+        "mtime": 1775491349.6861117,
+        "teams": [
+            "Torino",
+            "SS Lazio",
+            "Torino FC",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J6_Napoli_vs_Genoa-2025-10-05.json": {
+        "mtime": 1775491349.6861117,
+        "teams": [
+            "Napoli",
+            "Genoa",
+            "SSC Napoli",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J6_Parma_vs_Lecce-2025-10-04.json": {
+        "mtime": 1775491349.6942194,
+        "teams": [
+            "Parma",
+            "Parma Calcio 1913",
+            "US Lecce",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J6_Udinese_vs_Cagliari-2025-10-05.json": {
+        "mtime": 1775491349.6952348,
+        "teams": [
+            "Cagliari",
+            "Udinese Calcio",
+            "Cagliari Calcio",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J7_Atalanta_vs_Lazio-2025-10-19.json": {
+        "mtime": 1775491349.6953018,
+        "teams": [
+            "SS Lazio",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Lazio"
+        ]
+    },
+    "Serie_A_J7_Cagliari_vs_Bologna-2025-10-19.json": {
+        "mtime": 1775491349.6953018,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Cagliari Calcio",
+            "Cagliari"
+        ]
+    },
+    "Serie_A_J7_Como_vs_Juventus-2025-10-19.json": {
+        "mtime": 1775491349.6983697,
+        "teams": [
+            "Juventus",
+            "Calcio Como 1907",
+            "Como",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J7_Cremonese_vs_Udinese-2025-10-20.json": {
+        "mtime": 1775491349.6983697,
+        "teams": [
+            "Cremonese",
+            "Udinese Calcio",
+            "US Cremonese",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J7_Genoa_vs_Parma-2025-10-19.json": {
+        "mtime": 1775491349.6983697,
+        "teams": [
+            "Genoa",
+            "Genoa CFC",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J7_Lecce_vs_Sassuolo-2025-10-18.json": {
+        "mtime": 1775491349.6983697,
+        "teams": [
+            "US Sassuolo Calcio",
+            "Lecce",
+            "US Lecce",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J7_Milan_vs_Fiorentina-2025-10-19.json": {
+        "mtime": 1775491349.6983697,
+        "teams": [
+            "AC Milan",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "Milan"
+        ]
+    },
+    "Serie_A_J7_Pisa_vs_Hellas_Verona-2025-10-18.json": {
+        "mtime": 1775491349.705686,
+        "teams": [
+            "Pisa",
+            "Hellas Verona FC",
+            "Pisa Sporting Club",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J7_Roma_vs_Internazionale-2025-10-18.json": {
+        "mtime": 1775491349.7070758,
+        "teams": [
+            "Internazionale",
+            "AS Roma",
+            "Roma",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J7_Torino_vs_Napoli-2025-10-18.json": {
+        "mtime": 1775491349.708089,
+        "teams": [
+            "Torino",
+            "Napoli",
+            "Torino FC",
+            "SSC Napoli"
+        ]
+    },
+    "Serie_A_J8_Cremonese_vs_Atalanta-2025-10-25.json": {
+        "mtime": 1775491349.7092392,
+        "teams": [
+            "Cremonese",
+            "Atalanta Bergamasca Calcio",
+            "US Cremonese",
+            "Atalanta"
+        ]
+    },
+    "Serie_A_J8_Fiorentina_vs_Bologna-2025-10-26.json": {
+        "mtime": 1775491349.7102435,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Fiorentina",
+            "ACF Fiorentina"
+        ]
+    },
+    "Serie_A_J8_Hellas_Verona_vs_Cagliari-2025-10-26.json": {
+        "mtime": 1775491349.711328,
+        "teams": [
+            "Cagliari",
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Cagliari Calcio"
+        ]
+    },
+    "Serie_A_J8_Lazio_vs_Juventus-2025-10-26.json": {
+        "mtime": 1775491349.7131126,
+        "teams": [
+            "SS Lazio",
+            "Juventus",
+            "Lazio",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J8_Milan_vs_Pisa-2025-10-24.json": {
+        "mtime": 1775491349.714125,
+        "teams": [
+            "Pisa",
+            "AC Milan",
+            "Pisa Sporting Club",
+            "Milan"
+        ]
+    },
+    "Serie_A_J8_Napoli_vs_Internazionale-2025-10-25.json": {
+        "mtime": 1775491349.7151246,
+        "teams": [
+            "Internazionale",
+            "Napoli",
+            "SSC Napoli",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J8_Parma_vs_Como-2025-10-25.json": {
+        "mtime": 1775491349.7161257,
+        "teams": [
+            "Parma Calcio 1913",
+            "Como",
+            "Calcio Como 1907",
+            "Parma"
+        ]
+    },
+    "Serie_A_J8_Sassuolo_vs_Roma-2025-10-26.json": {
+        "mtime": 1775491349.7171264,
+        "teams": [
+            "US Sassuolo Calcio",
+            "AS Roma",
+            "Roma",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J8_Torino_vs_Genoa-2025-10-26.json": {
+        "mtime": 1775491349.7181263,
+        "teams": [
+            "Torino",
+            "Genoa",
+            "Torino FC",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J8_Udinese_vs_Lecce-2025-10-25.json": {
+        "mtime": 1775491349.7211254,
+        "teams": [
+            "Udinese Calcio",
+            "Lecce",
+            "US Lecce",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J9_Atalanta_vs_Milan-2025-10-28.json": {
+        "mtime": 1775491349.722126,
+        "teams": [
+            "AC Milan",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Milan"
+        ]
+    },
+    "Serie_A_J9_Bologna_vs_Torino-2025-10-29.json": {
+        "mtime": 1775491349.7231257,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Torino FC",
+            "Torino"
+        ]
+    },
+    "Serie_A_J9_Como_vs_Hellas_Verona-2025-10-29.json": {
+        "mtime": 1775491349.7251265,
+        "teams": [
+            "Hellas Verona FC",
+            "Hellas Verona",
+            "Calcio Como 1907",
+            "Como"
+        ]
+    },
+    "Serie_A_J9_Genoa_vs_Cremonese-2025-10-29.json": {
+        "mtime": 1775491349.7261252,
+        "teams": [
+            "Cremonese",
+            "Genoa",
+            "US Cremonese",
+            "Genoa CFC"
+        ]
+    },
+    "Serie_A_J9_Internazionale_vs_Fiorentina-2025-10-29.json": {
+        "mtime": 1775491349.7269998,
+        "teams": [
+            "Internazionale",
+            "Fiorentina",
+            "ACF Fiorentina",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J9_Juventus_vs_Udinese-2025-10-29.json": {
+        "mtime": 1775491349.727954,
+        "teams": [
+            "Udinese Calcio",
+            "Juventus",
+            "Udinese",
+            "Juventus FC"
+        ]
+    },
+    "Serie_A_J9_Lecce_vs_Napoli-2025-10-28.json": {
+        "mtime": 1775491349.7289536,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "Lecce",
+            "US Lecce"
+        ]
+    },
+    "Serie_A_J9_Roma_vs_Parma-2025-10-29.json": {
+        "mtime": 1775491349.7299533,
+        "teams": [
+            "Roma",
+            "AS Roma",
+            "Parma Calcio 1913",
+            "Parma"
+        ]
+    },
+    "Serie_A_J31_Cremonese_vs_Bologna-2026-04-05.json": {
+        "mtime": 1775491342.5812495,
+        "teams": [
+            "Bologna FC 1909",
+            "Bologna",
+            "Cremonese",
+            "US Cremonese"
+        ]
+    },
+    "Serie_A_J31_Internazionale_vs_Roma-2026-04-05.json": {
+        "mtime": 1775491349.6102812,
+        "teams": [
+            "Internazionale",
+            "AS Roma",
+            "Roma",
+            "FC Internazionale Milano"
+        ]
+    },
+    "Serie_A_J31_Pisa_vs_Torino-2026-04-05.json": {
+        "mtime": 1775491349.6194203,
+        "teams": [
+            "Pisa",
+            "Torino FC",
+            "Pisa Sporting Club",
+            "Torino"
+        ]
+    },
+    "Serie_A_J31_Hellas_Verona_vs_Fiorentina-2026-04-04.json": {
+        "mtime": 1775491342.583439,
+        "teams": [
+            "Fiorentina",
+            "Hellas Verona"
+        ]
+    },
+    "Serie_A_J31_Lazio_vs_Parma-2026-04-04.json": {
+        "mtime": 1775491349.618405,
+        "teams": [
+            "Lazio",
+            "Parma"
+        ]
+    },
+    "Serie_A_J31_Sassuolo_vs_Cagliari-2026-04-04.json": {
+        "mtime": 1775491349.620419,
+        "teams": [
+            "Sassuolo",
+            "Cagliari"
+        ]
+    },
+    "Serie_A_J31_Juventus_vs_Genoa-2026-04-06.json": {
+        "mtime": 1775516975.7390683,
+        "teams": [
+            "Genoa",
+            "Juventus"
+        ]
+    },
+    "Serie_A_J31_Lecce_vs_Atalanta-2026-04-06.json": {
+        "mtime": 1775516975.7674913,
+        "teams": [
+            "Atalanta",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J31_Napoli_vs_Milan-2026-04-06.json": {
+        "mtime": 1775516975.7731812,
+        "teams": [
+            "Napoli",
+            "Milan"
+        ]
+    },
+    "Serie_A_J31_Udinese_vs_Como-2026-04-06.json": {
+        "mtime": 1775516975.783206,
+        "teams": [
+            "Como",
+            "Udinese"
+        ]
+    },
+    "Serie_A_J32_Atalanta_vs_Juventus-2026-04-11.json": {
+        "mtime": 1775945945.665926,
+        "teams": [
+            "Atalanta",
+            "Juventus"
+        ]
+    },
+    "Serie_A_J32_Cagliari_vs_Cremonese-2026-04-11.json": {
+        "mtime": 1775945945.735309,
+        "teams": [
+            "Cremonese",
+            "Cagliari"
+        ]
+    },
+    "Serie_A_J32_Milan_vs_Udinese-2026-04-11.json": {
+        "mtime": 1775945945.7393088,
+        "teams": [
+            "Udinese",
+            "Milan"
+        ]
+    },
+    "Serie_A_J32_Roma_vs_Pisa-2026-04-10.json": {
+        "mtime": 1775946827.5151334,
+        "teams": [
+            "Roma",
+            "Pisa"
+        ]
+    },
+    "Serie_A_J32_Torino_vs_Hellas_Verona-2026-04-11.json": {
+        "mtime": 1775945945.7958553,
+        "teams": [
+            "Hellas Verona",
+            "Torino"
+        ]
+    },
+    "Serie_A_J32_Bologna_vs_Lecce-2026-04-12.json": {
+        "mtime": 1776040860.5752017,
+        "teams": [
+            "Bologna",
+            "Lecce"
+        ]
+    },
+    "Serie_A_J32_Como_vs_Internazionale-2026-04-12.json": {
+        "mtime": 1776040860.5815372,
+        "teams": [
+            "Como",
+            "Internazionale"
+        ]
+    },
+    "Serie_A_J32_Genoa_vs_Sassuolo-2026-04-12.json": {
+        "mtime": 1776040860.5815372,
+        "teams": [
+            "Genoa",
+            "Sassuolo"
+        ]
+    },
+    "Serie_A_J32_Parma_vs_Napoli-2026-04-12.json": {
+        "mtime": 1776040860.5885992,
+        "teams": [
+            "Parma",
+            "Napoli"
+        ]
+    }
+}

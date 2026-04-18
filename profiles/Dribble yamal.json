@@ -1,0 +1,39 @@
+{
+    "ui_types": [
+        "TakeOn",
+        "GoodSkill",
+        "BallTouch"
+    ],
+    "ui_exclude_types": [],
+    "ui_players": [
+        "Lamine Yamal"
+    ],
+    "ui_teams": [],
+    "ui_opponents": [],
+    "ui_outcomes": [
+        "Successful"
+    ],
+    "ui_receivers": [],
+    "ui_positions": [],
+    "ui_start": [],
+    "ui_end": [],
+    "ui_adv": [],
+    "ui_exclude_adv": [
+        "adv_NOT_VISIBLE"
+    ],
+    "ui_prog_only": false,
+    "ui_prog_pass": 0.0,
+    "ui_prog_carry": 0.0,
+    "ui_xt_min": 0.0,
+    "ui_min_length": 0.0,
+    "ui_top_n": 0,
+    "ui_seq_pass_min": 0,
+    "ui_seq_pass_max": 0,
+    "ui_custom_text": "",
+    "ui_custom_text_size": 10,
+    "ui_custom_text_font": "Arial",
+    "ui_custom_text_color": "#000000",
+    "ui_custom_text_opacity": 0.0,
+    "ui_custom_text_bg": false,
+    "ui_custom_text_bg_opacity": 0.0
+}

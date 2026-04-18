@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Copa_del_Rey_J_Albacete_vs_Barcelona-2026-02-03.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Copa_del_Rey_J_Atl\u00e9tico_de_Madrid_vs_Barcelona-2026-02-12.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Copa_del_Rey_J_Barcelona_vs_Atl\u00e9tico_de_Madrid-2026-03-03.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Copa_del_Rey_J_Guadalajara_vs_Barcelona-2025-12-16.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Copa_del_Rey_J_Racing_de_Santander_vs_Barcelona-2026-01-15.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J10_Real_Madrid_vs_Barcelona-2025-10-26.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J11_Barcelona_vs_Elche-2025-11-02.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J12_Celta_de_Vigo_vs_Barcelona-2025-11-09.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J13_Barcelona_vs_Athletic_Club-2025-11-22.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J14_Barcelona_vs_Alav\u00e9s-2025-11-29.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J15_Real_Betis_vs_Barcelona-2025-12-06.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J16_Barcelona_vs_Osasuna-2025-12-13.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J17_Villarreal_vs_Barcelona-2025-12-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J18_Espanyol_vs_Barcelona-2026-01-03.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J19_Barcelona_vs_Atl\u00e9tico_de_Madrid-2025-12-02.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J1_Mallorca_vs_Barcelona-2025-08-16.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J20_Real_Sociedad_vs_Barcelona-2026-01-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J21_Barcelona_vs_Real_Oviedo-2026-01-25.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J22_Elche_vs_Barcelona-2026-01-31.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J23_Barcelona_vs_Mallorca-2026-02-07.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J24_Girona_vs_Barcelona-2026-02-16.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J25_Barcelona_vs_Levante-2026-02-22.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J26_Barcelona_vs_Villarreal-2026-02-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J27_Athletic_Club_vs_Barcelona-2026-03-07.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J28_Barcelona_vs_Sevilla-2026-03-15.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J29_Barcelona_vs_Rayo_Vallecano-2026-03-22.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J2_Levante_vs_Barcelona-2025-08-23.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J3_Rayo_Vallecano_vs_Barcelona-2025-08-31.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J4_Barcelona_vs_Valencia-2025-09-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J5_Barcelona_vs_Getafe-2025-09-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J6_Real_Oviedo_vs_Barcelona-2025-09-25.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J7_Barcelona_vs_Real_Sociedad-2025-09-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J8_Sevilla_vs_Barcelona-2025-10-05.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Primera_Divisi\u00f3n_J9_Barcelona_vs_Girona-2025-10-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Super_Cup_J_Barcelona_vs_Athletic_Club-2026-01-07.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "Super_Cup_J_Barcelona_vs_Real_Madrid-2026-01-11.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J1_Newcastle_United_vs_Barcelona-2025-09-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J2_Barcelona_vs_PSG-2025-10-01.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J3_Barcelona_vs_Olympiakos_Piraeus-2025-10-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J4_Club_Brugge_vs_Barcelona-2025-11-05.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J5_Chelsea_vs_Barcelona-2025-11-25.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J6_Barcelona_vs_Eintracht_Frankfurt-2025-12-09.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J7_Slavia_Praha_vs_Barcelona-2026-01-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J8_Barcelona_vs_K\u00f8benhavn-2026-01-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Barcelona_vs_Newcastle_United-2026-03-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Newcastle_United_vs_Barcelona-2026-03-10.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Barcelone_2025_2026",
+        "base_name": "Barcelone_2025_2026"
+    },
+    {
+        "name": "FA_Cup_J_Arsenal_vs_Wigan_Athletic-2026-02-15.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "FA_Cup_J_Mansfield_Town_vs_Arsenal-2026-03-07.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "FA_Cup_J_Portsmouth_vs_Arsenal-2026-01-11.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "League_Cup_J_Arsenal_vs_Brighton_&_Hove_Albion-2025-10-29.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "League_Cup_J_Arsenal_vs_Chelsea-2026-02-03.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "League_Cup_J_Arsenal_vs_Crystal_Palace-2025-12-23.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "League_Cup_J_Arsenal_vs_Manchester_City-2026-03-22.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "League_Cup_J_Chelsea_vs_Arsenal-2026-01-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "League_Cup_J_Port_Vale_vs_Arsenal-2025-09-24.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J10_Burnley_vs_Arsenal-2025-11-01.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J11_Sunderland_vs_Arsenal-2025-11-08.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J12_Arsenal_vs_Tottenham_Hotspur-2025-11-23.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J13_Chelsea_vs_Arsenal-2025-11-30.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J14_Arsenal_vs_Brentford-2025-12-03.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J15_Aston_Villa_vs_Arsenal-2025-12-06.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J16_Arsenal_vs_Wolverhampton_Wanderers-2025-12-13.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J17_Everton_vs_Arsenal-2025-12-20.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J18_Arsenal_vs_Brighton_&_Hove_Albion-2025-12-27.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J19_Arsenal_vs_Aston_Villa-2025-12-30.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J1_Manchester_United_vs_Arsenal-2025-08-17.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J20_AFC_Bournemouth_vs_Arsenal-2026-01-03.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J21_Arsenal_vs_Liverpool-2026-01-08.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J22_Nottingham_Forest_vs_Arsenal-2026-01-17.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J23_Arsenal_vs_Manchester_United-2026-01-25.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J24_Leeds_United_vs_Arsenal-2026-01-31.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J25_Arsenal_vs_Sunderland-2026-02-07.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J26_Brentford_vs_Arsenal-2026-02-12.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J27_Tottenham_Hotspur_vs_Arsenal-2026-02-22.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J28_Arsenal_vs_Chelsea-2026-03-01.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J29_Brighton_&_Hove_Albion_vs_Arsenal-2026-03-04.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J2_Arsenal_vs_Leeds_United-2025-08-23.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J30_Arsenal_vs_Everton-2026-03-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J31_Wolverhampton_Wanderers_vs_Arsenal-2026-02-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J3_Liverpool_vs_Arsenal-2025-08-31.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J4_Arsenal_vs_Nottingham_Forest-2025-09-13.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J5_Arsenal_vs_Manchester_City-2025-09-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J6_Newcastle_United_vs_Arsenal-2025-09-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J7_Arsenal_vs_West_Ham_United-2025-10-04.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J8_Fulham_vs_Arsenal-2025-10-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "Premier_League_J9_Arsenal_vs_Crystal_Palace-2025-10-26.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J1_Athletic_Club_vs_Arsenal-2025-09-16.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J2_Arsenal_vs_Olympiakos_Piraeus-2025-10-01.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J3_Arsenal_vs_Atl\u00e9tico_de_Madrid-2025-10-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J4_Slavia_Praha_vs_Arsenal-2025-11-04.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J5_Arsenal_vs_Bayern_M\u00fcnchen-2025-11-26.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J6_Club_Brugge_vs_Arsenal-2025-12-10.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J7_Internazionale_vs_Arsenal-2026-01-20.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J8_Arsenal_vs_Kairat-2026-01-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Arsenal_vs_Bayer_Leverkusen-2026-03-17.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Bayer_Leverkusen_vs_Arsenal-2026-03-11.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Arsenal_2025_2026",
+        "base_name": "Arsenal_2025_2026"
+    }
+]

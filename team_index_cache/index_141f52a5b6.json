@@ -1,0 +1,2698 @@
+{
+    "Primera_Divisi\u00f3n_J10_Athletic_Club_vs_Getafe-2025-10-25.json": {
+        "mtime": 1775491355.7005918,
+        "teams": [
+            "Getafe CF",
+            "Athletic Club",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Espanyol_vs_Elche-2025-10-25.json": {
+        "mtime": 1775491355.7016456,
+        "teams": [
+            "Espanyol",
+            "Elche CF",
+            "Elche",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Girona_vs_Real_Oviedo-2025-10-25.json": {
+        "mtime": 1775491355.703645,
+        "teams": [
+            "Real Oviedo",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Mallorca_vs_Levante-2025-10-26.json": {
+        "mtime": 1775491355.7046483,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Levante",
+            "Mallorca",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Osasuna_vs_Celta_de_Vigo-2025-10-26.json": {
+        "mtime": 1775491355.70566,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Osasuna",
+            "Celta de Vigo",
+            "CA Osasuna"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Rayo_Vallecano_vs_Alav\u00e9s-2025-10-26.json": {
+        "mtime": 1775491355.7066588,
+        "teams": [
+            "Rayo Vallecano",
+            "Deportivo Alav\u00e9s",
+            "Rayo Vallecano de Madrid",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Real_Betis_vs_Atl\u00e9tico_de_Madrid-2025-10-27.json": {
+        "mtime": 1775491355.7098289,
+        "teams": [
+            "Real Betis",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Real_Madrid_vs_Barcelona-2025-10-26.json": {
+        "mtime": 1775949739.6613865,
+        "teams": [
+            "Real Madrid",
+            "Barcelona",
+            "Real Madrid CF",
+            "FC Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Real_Sociedad_vs_Sevilla-2025-10-24.json": {
+        "mtime": 1775491355.7195766,
+        "teams": [
+            "Real Sociedad de F\u00fatbol",
+            "Sevilla",
+            "Real Sociedad",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J10_Valencia_vs_Villarreal-2025-10-25.json": {
+        "mtime": 1775491355.7205768,
+        "teams": [
+            "Valencia CF",
+            "Villarreal",
+            "Villarreal CF",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Alav\u00e9s_vs_Espanyol-2025-11-02.json": {
+        "mtime": 1775491355.7215772,
+        "teams": [
+            "Espanyol",
+            "Deportivo Alav\u00e9s",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Atl\u00e9tico_de_Madrid_vs_Sevilla-2025-11-01.json": {
+        "mtime": 1775491355.751248,
+        "teams": [
+            "Sevilla",
+            "Atl\u00e9tico de Madrid",
+            "Sevilla FC",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Barcelona_vs_Elche-2025-11-02.json": {
+        "mtime": 1775491355.763116,
+        "teams": [
+            "FC Barcelona",
+            "Elche CF",
+            "Barcelona",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Getafe_vs_Girona-2025-10-31.json": {
+        "mtime": 1775491355.7639399,
+        "teams": [
+            "Getafe CF",
+            "Girona FC",
+            "Girona",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Levante_vs_Celta_de_Vigo-2025-11-02.json": {
+        "mtime": 1775491355.7639399,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Levante",
+            "Celta de Vigo",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Real_Betis_vs_Mallorca-2025-11-02.json": {
+        "mtime": 1775491355.7639399,
+        "teams": [
+            "Real Betis",
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Real_Madrid_vs_Valencia-2025-11-01.json": {
+        "mtime": 1775491355.779374,
+        "teams": [
+            "Valencia CF",
+            "Valencia",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Real_Oviedo_vs_Osasuna-2025-11-03.json": {
+        "mtime": 1775491355.7830286,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Real_Sociedad_vs_Athletic_Club-2025-11-01.json": {
+        "mtime": 1775491355.7850373,
+        "teams": [
+            "Athletic Club",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J11_Villarreal_vs_Rayo_Vallecano-2025-11-01.json": {
+        "mtime": 1775491355.787,
+        "teams": [
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Athletic_Club_vs_Real_Oviedo-2025-11-09.json": {
+        "mtime": 1775491355.7889986,
+        "teams": [
+            "Athletic Club",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Atl\u00e9tico_de_Madrid_vs_Levante-2025-11-08.json": {
+        "mtime": 1775491355.8089488,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Levante",
+            "Club Atl\u00e9tico de Madrid",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Celta_de_Vigo_vs_Barcelona-2025-11-09.json": {
+        "mtime": 1775491355.8287299,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Barcelona",
+            "FC Barcelona",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Elche_vs_Real_Sociedad-2025-11-07.json": {
+        "mtime": 1775491355.8307314,
+        "teams": [
+            "Elche",
+            "Elche CF",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Espanyol_vs_Villarreal-2025-11-08.json": {
+        "mtime": 1775491355.8317344,
+        "teams": [
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Girona_vs_Alav\u00e9s-2025-11-08.json": {
+        "mtime": 1775491355.8337307,
+        "teams": [
+            "Girona FC",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Mallorca_vs_Getafe-2025-11-09.json": {
+        "mtime": 1775491355.8347306,
+        "teams": [
+            "Getafe CF",
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Rayo_Vallecano_vs_Real_Madrid-2025-11-09.json": {
+        "mtime": 1775491355.8494055,
+        "teams": [
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Sevilla_vs_Osasuna-2025-11-08.json": {
+        "mtime": 1775491355.8503926,
+        "teams": [
+            "CA Osasuna",
+            "Sevilla",
+            "Osasuna",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J12_Valencia_vs_Real_Betis-2025-11-09.json": {
+        "mtime": 1775491355.8523915,
+        "teams": [
+            "Valencia CF",
+            "Real Betis",
+            "Valencia",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Alav\u00e9s_vs_Celta_de_Vigo-2025-11-22.json": {
+        "mtime": 1775491355.8554375,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Barcelona_vs_Athletic_Club-2025-11-22.json": {
+        "mtime": 1775491355.890413,
+        "teams": [
+            "Athletic Club",
+            "Barcelona",
+            "FC Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Elche_vs_Real_Madrid-2025-11-23.json": {
+        "mtime": 1775491355.8924236,
+        "teams": [
+            "Elche CF",
+            "Elche",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Espanyol_vs_Sevilla-2025-11-24.json": {
+        "mtime": 1775491355.8944821,
+        "teams": [
+            "Espanyol",
+            "Sevilla",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Getafe_vs_Atl\u00e9tico_de_Madrid-2025-11-23.json": {
+        "mtime": 1775491355.9239872,
+        "teams": [
+            "Getafe CF",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Osasuna_vs_Real_Sociedad-2025-11-22.json": {
+        "mtime": 1775491355.9259918,
+        "teams": [
+            "CA Osasuna",
+            "Real Sociedad",
+            "Osasuna",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Real_Betis_vs_Girona-2025-11-23.json": {
+        "mtime": 1775491355.927051,
+        "teams": [
+            "Real Betis",
+            "Girona FC",
+            "Girona",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Real_Oviedo_vs_Rayo_Vallecano-2025-11-23.json": {
+        "mtime": 1775491355.9280016,
+        "teams": [
+            "Rayo Vallecano",
+            "Real Oviedo",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Valencia_vs_Levante-2025-11-21.json": {
+        "mtime": 1775491355.9299192,
+        "teams": [
+            "Valencia CF",
+            "Levante",
+            "Valencia",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J13_Villarreal_vs_Mallorca-2025-11-22.json": {
+        "mtime": 1775491355.931486,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Atl\u00e9tico_de_Madrid_vs_Real_Oviedo-2025-11-29.json": {
+        "mtime": 1775491355.9404202,
+        "teams": [
+            "Real Oviedo",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Barcelona_vs_Alav\u00e9s-2025-11-29.json": {
+        "mtime": 1775491355.9426901,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Celta_de_Vigo_vs_Espanyol-2025-11-30.json": {
+        "mtime": 1775491355.9443555,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Getafe_vs_Elche-2025-11-28.json": {
+        "mtime": 1775491355.9453664,
+        "teams": [
+            "Getafe CF",
+            "Elche CF",
+            "Elche",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Girona_vs_Real_Madrid-2025-11-30.json": {
+        "mtime": 1775491355.9543035,
+        "teams": [
+            "Girona FC",
+            "Girona",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Levante_vs_Athletic_Club-2025-11-29.json": {
+        "mtime": 1775491355.9553018,
+        "teams": [
+            "Athletic Club",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Mallorca_vs_Osasuna-2025-11-29.json": {
+        "mtime": 1775491355.9563034,
+        "teams": [
+            "CA Osasuna",
+            "Real Club Deportivo Mallorca",
+            "Osasuna",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Rayo_Vallecano_vs_Valencia-2025-12-01.json": {
+        "mtime": 1775491355.9575813,
+        "teams": [
+            "Valencia CF",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Real_Sociedad_vs_Villarreal-2025-11-30.json": {
+        "mtime": 1775491355.9585845,
+        "teams": [
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J14_Sevilla_vs_Real_Betis-2025-11-30.json": {
+        "mtime": 1775491355.9596353,
+        "teams": [
+            "Real Betis",
+            "Sevilla",
+            "Sevilla FC",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Alav\u00e9s_vs_Real_Sociedad-2025-12-06.json": {
+        "mtime": 1775491355.9616108,
+        "teams": [
+            "Real Sociedad",
+            "Deportivo Alav\u00e9s",
+            "Real Sociedad de F\u00fatbol",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Athletic_Club_vs_Atl\u00e9tico_de_Madrid-2025-12-06.json": {
+        "mtime": 1775491355.9635775,
+        "teams": [
+            "Athletic Club",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Elche_vs_Girona-2025-12-07.json": {
+        "mtime": 1775491355.9664772,
+        "teams": [
+            "Elche CF",
+            "Girona FC",
+            "Elche",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Espanyol_vs_Rayo_Vallecano-2025-12-07.json": {
+        "mtime": 1775491355.9674804,
+        "teams": [
+            "Espanyol",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Osasuna_vs_Levante-2025-12-08.json": {
+        "mtime": 1775491355.969478,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Real_Betis_vs_Barcelona-2025-12-06.json": {
+        "mtime": 1775491355.9865048,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Real Betis",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Real_Madrid_vs_Celta_de_Vigo-2025-12-07.json": {
+        "mtime": 1775491355.9993825,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Madrid",
+            "Celta de Vigo",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Real_Oviedo_vs_Mallorca-2025-12-05.json": {
+        "mtime": 1775491356.001806,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Real Oviedo",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Valencia_vs_Sevilla-2025-12-07.json": {
+        "mtime": 1775491356.0028045,
+        "teams": [
+            "Valencia CF",
+            "Sevilla",
+            "Sevilla FC",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J15_Villarreal_vs_Getafe-2025-12-06.json": {
+        "mtime": 1775491356.003803,
+        "teams": [
+            "Getafe CF",
+            "Villarreal",
+            "Villarreal CF",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Alav\u00e9s_vs_Real_Madrid-2025-12-14.json": {
+        "mtime": 1775491356.006188,
+        "teams": [
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Atl\u00e9tico_de_Madrid_vs_Valencia-2025-12-13.json": {
+        "mtime": 1775491356.0190566,
+        "teams": [
+            "Valencia CF",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Barcelona_vs_Osasuna-2025-12-13.json": {
+        "mtime": 1775491356.0279639,
+        "teams": [
+            "CA Osasuna",
+            "Barcelona",
+            "Osasuna",
+            "FC Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Celta_de_Vigo_vs_Athletic_Club-2025-12-14.json": {
+        "mtime": 1775491356.0300586,
+        "teams": [
+            "Athletic Club",
+            "Celta de Vigo",
+            "Real Club Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Getafe_vs_Espanyol-2025-12-13.json": {
+        "mtime": 1775491356.0309498,
+        "teams": [
+            "Getafe CF",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Levante_vs_Villarreal-2026-02-18.json": {
+        "mtime": 1775491356.032554,
+        "teams": [
+            "Levante",
+            "Villarreal",
+            "Villarreal CF",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Mallorca_vs_Elche-2025-12-13.json": {
+        "mtime": 1775491356.0338564,
+        "teams": [
+            "Mallorca",
+            "Elche CF",
+            "Real Club Deportivo Mallorca",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Rayo_Vallecano_vs_Real_Betis-2025-12-15.json": {
+        "mtime": 1775491356.035518,
+        "teams": [
+            "Real Betis",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Real_Sociedad_vs_Girona-2025-12-12.json": {
+        "mtime": 1775491356.0365207,
+        "teams": [
+            "Real Sociedad",
+            "Girona FC",
+            "Real Sociedad de F\u00fatbol",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J16_Sevilla_vs_Real_Oviedo-2025-12-14.json": {
+        "mtime": 1775491356.0375204,
+        "teams": [
+            "Sevilla",
+            "Real Oviedo",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Athletic_Club_vs_Espanyol-2025-12-22.json": {
+        "mtime": 1775491356.0385215,
+        "teams": [
+            "Athletic Club",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Elche_vs_Rayo_Vallecano-2025-12-21.json": {
+        "mtime": 1775491356.0403361,
+        "teams": [
+            "Elche",
+            "Elche CF",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Girona_vs_Atl\u00e9tico_de_Madrid-2025-12-21.json": {
+        "mtime": 1775491356.0595615,
+        "teams": [
+            "Girona FC",
+            "Girona",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Levante_vs_Real_Sociedad-2025-12-20.json": {
+        "mtime": 1775491356.0606556,
+        "teams": [
+            "Real Sociedad",
+            "Levante",
+            "Real Sociedad de F\u00fatbol",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Osasuna_vs_Alav\u00e9s-2025-12-20.json": {
+        "mtime": 1775491356.0617962,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Real_Betis_vs_Getafe-2025-12-21.json": {
+        "mtime": 1775491356.063531,
+        "teams": [
+            "Getafe CF",
+            "Real Betis",
+            "Getafe",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Real_Madrid_vs_Sevilla-2025-12-20.json": {
+        "mtime": 1775491356.074534,
+        "teams": [
+            "Sevilla",
+            "Sevilla FC",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Real_Oviedo_vs_Celta_de_Vigo-2025-12-20.json": {
+        "mtime": 1775491356.075652,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Oviedo",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Valencia_vs_Mallorca-2025-12-19.json": {
+        "mtime": 1775491356.0772302,
+        "teams": [
+            "Valencia CF",
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J17_Villarreal_vs_Barcelona-2025-12-21.json": {
+        "mtime": 1775491356.0894873,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Alav\u00e9s_vs_Real_Oviedo-2026-01-04.json": {
+        "mtime": 1775491356.0904882,
+        "teams": [
+            "Real Oviedo",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Celta_de_Vigo_vs_Valencia-2026-01-03.json": {
+        "mtime": 1775491356.0920303,
+        "teams": [
+            "Valencia CF",
+            "Celta de Vigo",
+            "Real Club Celta de Vigo",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Elche_vs_Villarreal-2026-01-03.json": {
+        "mtime": 1775491356.0930467,
+        "teams": [
+            "Elche CF",
+            "Elche",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Espanyol_vs_Barcelona-2026-01-03.json": {
+        "mtime": 1775491356.1015582,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Mallorca_vs_Girona-2026-01-04.json": {
+        "mtime": 1775491356.1035452,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Girona FC",
+            "Mallorca",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Osasuna_vs_Athletic_Club-2026-01-03.json": {
+        "mtime": 1775491356.1049244,
+        "teams": [
+            "CA Osasuna",
+            "Athletic Club",
+            "Osasuna"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Rayo_Vallecano_vs_Getafe-2026-01-02.json": {
+        "mtime": 1775491356.1059248,
+        "teams": [
+            "Getafe CF",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Real_Madrid_vs_Real_Betis-2026-01-04.json": {
+        "mtime": 1775491356.1151857,
+        "teams": [
+            "Real Betis",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Real_Sociedad_vs_Atl\u00e9tico_de_Madrid-2026-01-04.json": {
+        "mtime": 1775491356.1229448,
+        "teams": [
+            "Real Sociedad",
+            "Atl\u00e9tico de Madrid",
+            "Real Sociedad de F\u00fatbol",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J18_Sevilla_vs_Levante-2026-01-04.json": {
+        "mtime": 1775491356.125228,
+        "teams": [
+            "Sevilla",
+            "Levante",
+            "Sevilla FC",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Athletic_Club_vs_Real_Madrid-2025-12-03.json": {
+        "mtime": 1775491356.1327937,
+        "teams": [
+            "Athletic Club",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Barcelona_vs_Atl\u00e9tico_de_Madrid-2025-12-02.json": {
+        "mtime": 1775491356.142027,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Getafe_vs_Real_Sociedad-2026-01-09.json": {
+        "mtime": 1775491356.144017,
+        "teams": [
+            "Getafe CF",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Girona_vs_Osasuna-2026-01-10.json": {
+        "mtime": 1775491356.1450255,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Levante_vs_Espanyol-2026-01-11.json": {
+        "mtime": 1775491356.1466663,
+        "teams": [
+            "Espanyol",
+            "Levante",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Rayo_Vallecano_vs_Mallorca-2026-01-11.json": {
+        "mtime": 1775491356.1486638,
+        "teams": [
+            "Mallorca",
+            "Real Club Deportivo Mallorca",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Real_Oviedo_vs_Real_Betis-2026-01-10.json": {
+        "mtime": 1775491356.149665,
+        "teams": [
+            "Real Betis",
+            "Real Oviedo",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Sevilla_vs_Celta_de_Vigo-2026-01-12.json": {
+        "mtime": 1775491356.1506658,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Sevilla",
+            "Sevilla FC",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Valencia_vs_Elche-2026-01-10.json": {
+        "mtime": 1775491356.1543493,
+        "teams": [
+            "Valencia CF",
+            "Elche CF",
+            "Elche",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J19_Villarreal_vs_Alav\u00e9s-2026-01-10.json": {
+        "mtime": 1775491356.1553614,
+        "teams": [
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Alav\u00e9s_vs_Levante-2025-08-16.json": {
+        "mtime": 1775491356.1563597,
+        "teams": [
+            "Levante",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Athletic_Club_vs_Sevilla-2025-08-17.json": {
+        "mtime": 1775491356.1573596,
+        "teams": [
+            "Athletic Club",
+            "Sevilla",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Celta_de_Vigo_vs_Getafe-2025-08-17.json": {
+        "mtime": 1775491356.1589067,
+        "teams": [
+            "Getafe CF",
+            "Celta de Vigo",
+            "Real Club Celta de Vigo",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Elche_vs_Real_Betis-2025-08-18.json": {
+        "mtime": 1775491356.1605978,
+        "teams": [
+            "Real Betis",
+            "Elche CF",
+            "Elche",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Espanyol_vs_Atl\u00e9tico_de_Madrid-2025-08-17.json": {
+        "mtime": 1775491356.1616006,
+        "teams": [
+            "Espanyol",
+            "Atl\u00e9tico de Madrid",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Girona_vs_Rayo_Vallecano-2025-08-15.json": {
+        "mtime": 1775491356.1625998,
+        "teams": [
+            "Rayo Vallecano",
+            "Girona FC",
+            "Rayo Vallecano de Madrid",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Mallorca_vs_Barcelona-2025-08-16.json": {
+        "mtime": 1775916903.8892791,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "FC Barcelona",
+            "Barcelona",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Real_Madrid_vs_Osasuna-2025-08-19.json": {
+        "mtime": 1775491356.1685767,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Valencia_vs_Real_Sociedad-2025-08-16.json": {
+        "mtime": 1775491356.1695895,
+        "teams": [
+            "Valencia CF",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J1_Villarreal_vs_Real_Oviedo-2025-08-15.json": {
+        "mtime": 1775491356.170577,
+        "teams": [
+            "Real Oviedo",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Atl\u00e9tico_de_Madrid_vs_Alav\u00e9s-2026-01-18.json": {
+        "mtime": 1775491356.173599,
+        "teams": [
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Celta_de_Vigo_vs_Rayo_Vallecano-2026-01-18.json": {
+        "mtime": 1775491356.1746016,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Elche_vs_Sevilla-2026-01-19.json": {
+        "mtime": 1775491356.1763558,
+        "teams": [
+            "Elche",
+            "Elche CF",
+            "Sevilla",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Espanyol_vs_Girona-2026-01-16.json": {
+        "mtime": 1775491356.1773157,
+        "teams": [
+            "Espanyol",
+            "Girona FC",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Getafe_vs_Valencia-2026-01-18.json": {
+        "mtime": 1775491356.178316,
+        "teams": [
+            "Getafe CF",
+            "Getafe",
+            "Valencia",
+            "Valencia CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Mallorca_vs_Athletic_Club-2026-01-17.json": {
+        "mtime": 1775491356.1796825,
+        "teams": [
+            "Athletic Club",
+            "Real Club Deportivo Mallorca",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Osasuna_vs_Real_Oviedo-2026-01-17.json": {
+        "mtime": 1775491356.1806865,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Real_Betis_vs_Villarreal-2026-01-17.json": {
+        "mtime": 1775491356.1834338,
+        "teams": [
+            "Real Betis",
+            "Villarreal",
+            "Villarreal CF",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Real_Madrid_vs_Levante-2026-01-17.json": {
+        "mtime": 1775491356.1865537,
+        "teams": [
+            "Levante",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J20_Real_Sociedad_vs_Barcelona-2026-01-18.json": {
+        "mtime": 1775491356.1952405,
+        "teams": [
+            "FC Barcelona",
+            "Real Sociedad",
+            "Barcelona",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Alav\u00e9s_vs_Real_Betis-2026-01-25.json": {
+        "mtime": 1775491356.1967592,
+        "teams": [
+            "Real Betis",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Atl\u00e9tico_de_Madrid_vs_Mallorca-2026-01-25.json": {
+        "mtime": 1775491356.2228942,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Atl\u00e9tico de Madrid",
+            "Mallorca",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Barcelona_vs_Real_Oviedo-2026-01-25.json": {
+        "mtime": 1775491356.2314415,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Girona_vs_Getafe-2026-01-26.json": {
+        "mtime": 1775491356.2335343,
+        "teams": [
+            "Getafe CF",
+            "Girona FC",
+            "Girona",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Levante_vs_Elche-2026-01-23.json": {
+        "mtime": 1775491356.2345374,
+        "teams": [
+            "Elche CF",
+            "Levante",
+            "Elche",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Rayo_Vallecano_vs_Osasuna-2026-01-24.json": {
+        "mtime": 1775491356.2369025,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Real_Sociedad_vs_Celta_de_Vigo-2026-01-25.json": {
+        "mtime": 1775491356.2379613,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Sevilla_vs_Athletic_Club-2026-01-24.json": {
+        "mtime": 1775491356.23958,
+        "teams": [
+            "Athletic Club",
+            "Sevilla",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Valencia_vs_Espanyol-2026-01-24.json": {
+        "mtime": 1775491356.2405937,
+        "teams": [
+            "Valencia CF",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J21_Villarreal_vs_Real_Madrid-2026-01-24.json": {
+        "mtime": 1775491356.2494721,
+        "teams": [
+            "Real Madrid",
+            "Villarreal",
+            "Villarreal CF",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Athletic_Club_vs_Real_Sociedad-2026-02-01.json": {
+        "mtime": 1775491356.2506409,
+        "teams": [
+            "Athletic Club",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Elche_vs_Barcelona-2026-01-31.json": {
+        "mtime": 1775491356.2608912,
+        "teams": [
+            "FC Barcelona",
+            "Elche CF",
+            "Barcelona",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Espanyol_vs_Alav\u00e9s-2026-01-30.json": {
+        "mtime": 1775491356.2619998,
+        "teams": [
+            "Espanyol",
+            "Deportivo Alav\u00e9s",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Getafe_vs_Celta_de_Vigo-2026-02-01.json": {
+        "mtime": 1775491356.263991,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Getafe CF",
+            "Celta de Vigo",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Levante_vs_Atl\u00e9tico_de_Madrid-2026-01-31.json": {
+        "mtime": 1775491356.2727811,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Levante",
+            "Club Atl\u00e9tico de Madrid",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Mallorca_vs_Sevilla-2026-02-02.json": {
+        "mtime": 1775491356.2747796,
+        "teams": [
+            "Sevilla",
+            "Real Club Deportivo Mallorca",
+            "Sevilla FC",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Osasuna_vs_Villarreal-2026-01-31.json": {
+        "mtime": 1775491356.275781,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Real_Betis_vs_Valencia-2026-02-01.json": {
+        "mtime": 1775491356.276877,
+        "teams": [
+            "Valencia CF",
+            "Real Betis",
+            "Valencia",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Real_Madrid_vs_Rayo_Vallecano-2026-02-01.json": {
+        "mtime": 1775491356.279459,
+        "teams": [
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J22_Real_Oviedo_vs_Girona-2026-01-31.json": {
+        "mtime": 1775491356.2814572,
+        "teams": [
+            "Real Oviedo",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Alav\u00e9s_vs_Getafe-2026-02-08.json": {
+        "mtime": 1775491356.282458,
+        "teams": [
+            "Getafe CF",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Athletic_Club_vs_Levante-2026-02-08.json": {
+        "mtime": 1775491356.2837732,
+        "teams": [
+            "Athletic Club",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Atl\u00e9tico_de_Madrid_vs_Real_Betis-2026-02-08.json": {
+        "mtime": 1775491356.2926705,
+        "teams": [
+            "Real Betis",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Barcelona_vs_Mallorca-2026-02-07.json": {
+        "mtime": 1775514666.6112196,
+        "teams": [
+            "Mallorca",
+            "Barcelona",
+            "Real Club Deportivo Mallorca",
+            "FC Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Celta_de_Vigo_vs_Osasuna-2026-02-06.json": {
+        "mtime": 1775491356.3023775,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Osasuna",
+            "Celta de Vigo",
+            "CA Osasuna"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Rayo_Vallecano_vs_Real_Oviedo-2026-03-04.json": {
+        "mtime": 1775491356.3240416,
+        "teams": [
+            "Rayo Vallecano",
+            "Real Oviedo",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Real_Sociedad_vs_Elche-2026-02-07.json": {
+        "mtime": 1775491356.325597,
+        "teams": [
+            "Elche",
+            "Elche CF",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Sevilla_vs_Girona-2026-02-08.json": {
+        "mtime": 1775491356.327205,
+        "teams": [
+            "Sevilla",
+            "Girona FC",
+            "Sevilla FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Valencia_vs_Real_Madrid-2026-02-08.json": {
+        "mtime": 1775491356.3341427,
+        "teams": [
+            "Valencia CF",
+            "Valencia",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J23_Villarreal_vs_Espanyol-2026-02-09.json": {
+        "mtime": 1775491356.3363397,
+        "teams": [
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Elche_vs_Osasuna-2026-02-13.json": {
+        "mtime": 1775491356.3810759,
+        "teams": [
+            "CA Osasuna",
+            "Elche CF",
+            "Osasuna",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Espanyol_vs_Celta_de_Vigo-2026-02-14.json": {
+        "mtime": 1775491356.3825183,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Getafe_vs_Villarreal-2026-02-14.json": {
+        "mtime": 1775491356.3837206,
+        "teams": [
+            "Getafe CF",
+            "Villarreal",
+            "Villarreal CF",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Girona_vs_Barcelona-2026-02-16.json": {
+        "mtime": 1775491356.3920164,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Levante_vs_Valencia-2026-02-15.json": {
+        "mtime": 1775491356.3939273,
+        "teams": [
+            "Valencia CF",
+            "Levante",
+            "Valencia",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Mallorca_vs_Real_Betis-2026-02-15.json": {
+        "mtime": 1775491356.3967102,
+        "teams": [
+            "Real Betis",
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Rayo_Vallecano_vs_Atl\u00e9tico_de_Madrid-2026-02-15.json": {
+        "mtime": 1775491356.4072976,
+        "teams": [
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Real_Madrid_vs_Real_Sociedad-2026-02-14.json": {
+        "mtime": 1775491356.4158146,
+        "teams": [
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Real_Oviedo_vs_Athletic_Club-2026-02-15.json": {
+        "mtime": 1775491356.4184744,
+        "teams": [
+            "Athletic Club",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J24_Sevilla_vs_Alav\u00e9s-2026-02-14.json": {
+        "mtime": 1775491356.4194753,
+        "teams": [
+            "Sevilla",
+            "Deportivo Alav\u00e9s",
+            "Sevilla FC",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Alav\u00e9s_vs_Girona-2026-02-23.json": {
+        "mtime": 1775491356.4204736,
+        "teams": [
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Athletic_Club_vs_Elche-2026-02-20.json": {
+        "mtime": 1775491356.4214733,
+        "teams": [
+            "Athletic Club",
+            "Elche CF",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Atl\u00e9tico_de_Madrid_vs_Espanyol-2026-02-21.json": {
+        "mtime": 1775491356.4247837,
+        "teams": [
+            "Espanyol",
+            "Atl\u00e9tico de Madrid",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Barcelona_vs_Levante-2026-02-22.json": {
+        "mtime": 1775491356.434197,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Celta_de_Vigo_vs_Mallorca-2026-02-22.json": {
+        "mtime": 1775491356.4351993,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Getafe_vs_Sevilla-2026-02-22.json": {
+        "mtime": 1775491356.4366157,
+        "teams": [
+            "Getafe CF",
+            "Sevilla",
+            "Sevilla FC",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Osasuna_vs_Real_Madrid-2026-02-21.json": {
+        "mtime": 1775491356.4466534,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Real_Betis_vs_Rayo_Vallecano-2026-02-21.json": {
+        "mtime": 1775491356.447656,
+        "teams": [
+            "Real Betis",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Real_Sociedad_vs_Real_Oviedo-2026-02-21.json": {
+        "mtime": 1775491356.4487143,
+        "teams": [
+            "Real Sociedad",
+            "Real Oviedo",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J25_Villarreal_vs_Valencia-2026-02-22.json": {
+        "mtime": 1775491356.452549,
+        "teams": [
+            "Valencia CF",
+            "Villarreal",
+            "Villarreal CF",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Barcelona_vs_Villarreal-2026-02-28.json": {
+        "mtime": 1775491356.4613478,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Elche_vs_Espanyol-2026-03-01.json": {
+        "mtime": 1775491356.463348,
+        "teams": [
+            "Espanyol",
+            "Elche CF",
+            "Elche",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Girona_vs_Celta_de_Vigo-2026-03-01.json": {
+        "mtime": 1775491356.4661963,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Girona FC",
+            "Girona",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Levante_vs_Alav\u00e9s-2026-02-27.json": {
+        "mtime": 1775491356.4672005,
+        "teams": [
+            "Levante",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Mallorca_vs_Real_Sociedad-2026-02-28.json": {
+        "mtime": 1775491356.4691968,
+        "teams": [
+            "Mallorca",
+            "Real Sociedad",
+            "Real Club Deportivo Mallorca",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Rayo_Vallecano_vs_Athletic_Club-2026-02-28.json": {
+        "mtime": 1775491356.470202,
+        "teams": [
+            "Athletic Club",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Real_Betis_vs_Sevilla-2026-03-01.json": {
+        "mtime": 1775491356.471272,
+        "teams": [
+            "Real Betis",
+            "Sevilla",
+            "Sevilla FC",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Real_Madrid_vs_Getafe-2026-03-02.json": {
+        "mtime": 1775491356.4740624,
+        "teams": [
+            "Getafe CF",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Real_Oviedo_vs_Atl\u00e9tico_de_Madrid-2026-02-28.json": {
+        "mtime": 1775491356.4761608,
+        "teams": [
+            "Real Oviedo",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J26_Valencia_vs_Osasuna-2026-03-01.json": {
+        "mtime": 1775491356.4767575,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Valencia",
+            "Valencia CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Athletic_Club_vs_Barcelona-2026-03-07.json": {
+        "mtime": 1775491356.5450623,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Athletic Club"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Atl\u00e9tico_de_Madrid_vs_Real_Sociedad-2026-03-07.json": {
+        "mtime": 1775491356.5626712,
+        "teams": [
+            "Real Sociedad",
+            "Atl\u00e9tico de Madrid",
+            "Real Sociedad de F\u00fatbol",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Celta_de_Vigo_vs_Real_Madrid-2026-03-06.json": {
+        "mtime": 1775491356.5707612,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Celta de Vigo",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Espanyol_vs_Real_Oviedo-2026-03-09.json": {
+        "mtime": 1775491356.5717642,
+        "teams": [
+            "Espanyol",
+            "Real Oviedo",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Getafe_vs_Real_Betis-2026-03-08.json": {
+        "mtime": 1775491356.5727627,
+        "teams": [
+            "Getafe CF",
+            "Real Betis",
+            "Getafe",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Levante_vs_Girona-2026-03-07.json": {
+        "mtime": 1775491356.5737627,
+        "teams": [
+            "Levante",
+            "Girona FC",
+            "Girona",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Osasuna_vs_Mallorca-2026-03-07.json": {
+        "mtime": 1775491356.5774693,
+        "teams": [
+            "CA Osasuna",
+            "Real Club Deportivo Mallorca",
+            "Osasuna",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Sevilla_vs_Rayo_Vallecano-2026-03-08.json": {
+        "mtime": 1775491356.5794702,
+        "teams": [
+            "Sevilla",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Valencia_vs_Alav\u00e9s-2026-03-08.json": {
+        "mtime": 1775491356.5804706,
+        "teams": [
+            "Valencia CF",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J27_Villarreal_vs_Elche-2026-03-08.json": {
+        "mtime": 1775491356.5814703,
+        "teams": [
+            "Elche CF",
+            "Elche",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Alav\u00e9s_vs_Villarreal-2026-03-13.json": {
+        "mtime": 1775491356.5834732,
+        "teams": [
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Atl\u00e9tico_de_Madrid_vs_Getafe-2026-03-14.json": {
+        "mtime": 1775491356.585039,
+        "teams": [
+            "Getafe CF",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Barcelona_vs_Sevilla-2026-03-15.json": {
+        "mtime": 1775514911.1945689,
+        "teams": [
+            "Sevilla FC",
+            "Sevilla",
+            "Barcelona",
+            "FC Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Girona_vs_Athletic_Club-2026-03-14.json": {
+        "mtime": 1775491356.5891469,
+        "teams": [
+            "Athletic Club",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Mallorca_vs_Espanyol-2026-03-15.json": {
+        "mtime": 1775491356.5910914,
+        "teams": [
+            "Espanyol",
+            "Real Club Deportivo Mallorca",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Rayo_Vallecano_vs_Levante-2026-03-16.json": {
+        "mtime": 1775491356.594732,
+        "teams": [
+            "Levante",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Real_Betis_vs_Celta_de_Vigo-2026-03-15.json": {
+        "mtime": 1775491356.594732,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Betis",
+            "Celta de Vigo",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Real_Madrid_vs_Elche-2026-03-14.json": {
+        "mtime": 1775491356.6042445,
+        "teams": [
+            "Elche CF",
+            "Elche",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Real_Oviedo_vs_Valencia-2026-03-14.json": {
+        "mtime": 1775491356.605798,
+        "teams": [
+            "Valencia CF",
+            "Real Oviedo",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J28_Real_Sociedad_vs_Osasuna-2026-03-15.json": {
+        "mtime": 1775491356.6067972,
+        "teams": [
+            "CA Osasuna",
+            "Real Sociedad",
+            "Osasuna",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Athletic_Club_vs_Real_Betis-2026-03-22.json": {
+        "mtime": 1775491356.6077971,
+        "teams": [
+            "Athletic Club",
+            "Real Betis",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Barcelona_vs_Rayo_Vallecano-2026-03-22.json": {
+        "mtime": 1775497495.6629684,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Celta_de_Vigo_vs_Alav\u00e9s-2026-03-22.json": {
+        "mtime": 1775491356.6754541,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Elche_vs_Mallorca-2026-03-21.json": {
+        "mtime": 1775491356.6773937,
+        "teams": [
+            "Elche",
+            "Elche CF",
+            "Real Club Deportivo Mallorca",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Espanyol_vs_Getafe-2026-03-21.json": {
+        "mtime": 1775491356.6783917,
+        "teams": [
+            "Getafe CF",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Levante_vs_Real_Oviedo-2026-03-21.json": {
+        "mtime": 1775491356.6795044,
+        "teams": [
+            "Real Oviedo",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Osasuna_vs_Girona-2026-03-21.json": {
+        "mtime": 1775491356.681038,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Real_Madrid_vs_Atl\u00e9tico_de_Madrid-2026-03-22.json": {
+        "mtime": 1775491356.6832294,
+        "teams": [
+            "Real Madrid",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Sevilla_vs_Valencia-2026-03-21.json": {
+        "mtime": 1775491356.6842353,
+        "teams": [
+            "Valencia CF",
+            "Sevilla",
+            "Sevilla FC",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J29_Villarreal_vs_Real_Sociedad-2026-03-20.json": {
+        "mtime": 1775491356.6852343,
+        "teams": [
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Athletic_Club_vs_Rayo_Vallecano-2025-08-25.json": {
+        "mtime": 1775491356.687382,
+        "teams": [
+            "Athletic Club",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Atl\u00e9tico_de_Madrid_vs_Elche-2025-08-23.json": {
+        "mtime": 1775491356.690472,
+        "teams": [
+            "Elche CF",
+            "Atl\u00e9tico de Madrid",
+            "Elche",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Levante_vs_Barcelona-2025-08-23.json": {
+        "mtime": 1775491356.6926978,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Mallorca_vs_Celta_de_Vigo-2025-08-23.json": {
+        "mtime": 1775491356.6937132,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Osasuna_vs_Valencia-2025-08-24.json": {
+        "mtime": 1775491356.6957314,
+        "teams": [
+            "Valencia CF",
+            "Osasuna",
+            "Valencia",
+            "CA Osasuna"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Real_Betis_vs_Alav\u00e9s-2025-08-22.json": {
+        "mtime": 1775491356.6967087,
+        "teams": [
+            "Real Betis",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Real_Oviedo_vs_Real_Madrid-2025-08-24.json": {
+        "mtime": 1775491356.6977088,
+        "teams": [
+            "Real Oviedo",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Real_Sociedad_vs_Espanyol-2025-08-24.json": {
+        "mtime": 1775491356.6987088,
+        "teams": [
+            "Espanyol",
+            "Real Sociedad de F\u00fatbol",
+            "Real Sociedad",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Sevilla_vs_Getafe-2025-08-25.json": {
+        "mtime": 1775491356.703336,
+        "teams": [
+            "Getafe CF",
+            "Sevilla",
+            "Sevilla FC",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J2_Villarreal_vs_Girona-2025-08-24.json": {
+        "mtime": 1775491356.7042053,
+        "teams": [
+            "Girona FC",
+            "Villarreal",
+            "Villarreal CF",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Alav\u00e9s_vs_Atl\u00e9tico_de_Madrid-2025-08-30.json": {
+        "mtime": 1775491372.2863874,
+        "teams": [
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Celta_de_Vigo_vs_Villarreal-2025-08-31.json": {
+        "mtime": 1775491372.2877939,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Celta de Vigo",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Elche_vs_Levante-2025-08-29.json": {
+        "mtime": 1775491372.2888107,
+        "teams": [
+            "Elche CF",
+            "Levante",
+            "Elche",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Espanyol_vs_Osasuna-2025-08-31.json": {
+        "mtime": 1775491372.3080401,
+        "teams": [
+            "CA Osasuna",
+            "Espanyol",
+            "Osasuna",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Girona_vs_Sevilla-2025-08-30.json": {
+        "mtime": 1775491372.3092296,
+        "teams": [
+            "Sevilla",
+            "Girona FC",
+            "Sevilla FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Rayo_Vallecano_vs_Barcelona-2025-08-31.json": {
+        "mtime": 1775491372.348703,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Real_Betis_vs_Athletic_Club-2025-08-31.json": {
+        "mtime": 1775491372.3506553,
+        "teams": [
+            "Athletic Club",
+            "Real Betis",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Real_Madrid_vs_Mallorca-2025-08-30.json": {
+        "mtime": 1775491372.3516593,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Real_Oviedo_vs_Real_Sociedad-2025-08-30.json": {
+        "mtime": 1775491372.352656,
+        "teams": [
+            "Real Sociedad",
+            "Real Oviedo",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J3_Valencia_vs_Getafe-2025-08-29.json": {
+        "mtime": 1775491372.3542507,
+        "teams": [
+            "Valencia CF",
+            "Getafe CF",
+            "Getafe",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Athletic_Club_vs_Alav\u00e9s-2025-09-13.json": {
+        "mtime": 1775491372.3552635,
+        "teams": [
+            "Athletic Club",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Atl\u00e9tico_de_Madrid_vs_Villarreal-2025-09-13.json": {
+        "mtime": 1775491372.357247,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Villarreal CF",
+            "Club Atl\u00e9tico de Madrid",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Barcelona_vs_Valencia-2025-09-14.json": {
+        "mtime": 1775491372.3604932,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Valencia",
+            "Valencia CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Celta_de_Vigo_vs_Girona-2025-09-14.json": {
+        "mtime": 1775491372.3777876,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Girona FC",
+            "Girona",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Espanyol_vs_Mallorca-2025-09-15.json": {
+        "mtime": 1775491372.3788025,
+        "teams": [
+            "Espanyol",
+            "Real Club Deportivo Mallorca",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Getafe_vs_Real_Oviedo-2025-09-13.json": {
+        "mtime": 1775491372.380802,
+        "teams": [
+            "Getafe CF",
+            "Real Oviedo",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Levante_vs_Real_Betis-2025-09-14.json": {
+        "mtime": 1775491372.3818007,
+        "teams": [
+            "Real Betis",
+            "Levante",
+            "Real Betis Balompi\u00e9",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Osasuna_vs_Rayo_Vallecano-2025-09-14.json": {
+        "mtime": 1775491372.3828003,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Real_Sociedad_vs_Real_Madrid-2025-09-13.json": {
+        "mtime": 1775491372.3839376,
+        "teams": [
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J4_Sevilla_vs_Elche-2025-09-12.json": {
+        "mtime": 1775491372.38494,
+        "teams": [
+            "Elche",
+            "Elche CF",
+            "Sevilla",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Alav\u00e9s_vs_Sevilla-2025-09-20.json": {
+        "mtime": 1775491372.3860295,
+        "teams": [
+            "Sevilla",
+            "Deportivo Alav\u00e9s",
+            "Sevilla FC",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Barcelona_vs_Getafe-2025-09-21.json": {
+        "mtime": 1775950118.7794151,
+        "teams": [
+            "Getafe",
+            "Barcelona",
+            "Getafe CF",
+            "FC Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Elche_vs_Real_Oviedo-2025-09-21.json": {
+        "mtime": 1775491372.405083,
+        "teams": [
+            "Elche CF",
+            "Real Oviedo",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Girona_vs_Levante-2025-09-20.json": {
+        "mtime": 1775491372.407177,
+        "teams": [
+            "Levante",
+            "Girona FC",
+            "Girona",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Mallorca_vs_Atl\u00e9tico_de_Madrid-2025-09-21.json": {
+        "mtime": 1775491372.4093244,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Atl\u00e9tico de Madrid",
+            "Mallorca",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Rayo_Vallecano_vs_Celta_de_Vigo-2025-09-21.json": {
+        "mtime": 1775491372.4103231,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Real_Betis_vs_Real_Sociedad-2025-09-19.json": {
+        "mtime": 1775491372.41143,
+        "teams": [
+            "Real Betis",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Real_Madrid_vs_Espanyol-2025-09-20.json": {
+        "mtime": 1775491372.4132476,
+        "teams": [
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Valencia_vs_Athletic_Club-2025-09-20.json": {
+        "mtime": 1775491372.414261,
+        "teams": [
+            "Valencia CF",
+            "Athletic Club",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J5_Villarreal_vs_Osasuna-2025-09-20.json": {
+        "mtime": 1775491372.4153733,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Athletic_Club_vs_Girona-2025-09-23.json": {
+        "mtime": 1775491372.4163878,
+        "teams": [
+            "Athletic Club",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Atl\u00e9tico_de_Madrid_vs_Rayo_Vallecano-2025-09-24.json": {
+        "mtime": 1775491372.417945,
+        "teams": [
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Celta_de_Vigo_vs_Real_Betis-2025-08-27.json": {
+        "mtime": 1775491372.4189587,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Betis",
+            "Celta de Vigo",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Espanyol_vs_Valencia-2025-09-23.json": {
+        "mtime": 1775491372.419958,
+        "teams": [
+            "Valencia CF",
+            "Espanyol",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Getafe_vs_Alav\u00e9s-2025-09-24.json": {
+        "mtime": 1775491372.4209578,
+        "teams": [
+            "Getafe CF",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Levante_vs_Real_Madrid-2025-09-23.json": {
+        "mtime": 1775491372.421958,
+        "teams": [
+            "Levante",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Osasuna_vs_Elche-2025-09-25.json": {
+        "mtime": 1775491372.424958,
+        "teams": [
+            "CA Osasuna",
+            "Elche CF",
+            "Osasuna",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Real_Oviedo_vs_Barcelona-2025-09-25.json": {
+        "mtime": 1775491372.4289796,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Real_Sociedad_vs_Mallorca-2025-09-24.json": {
+        "mtime": 1775491372.430981,
+        "teams": [
+            "Mallorca",
+            "Real Sociedad",
+            "Real Club Deportivo Mallorca",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J6_Sevilla_vs_Villarreal-2025-09-23.json": {
+        "mtime": 1775491372.4324307,
+        "teams": [
+            "Sevilla",
+            "Sevilla FC",
+            "Villarreal CF",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Atl\u00e9tico_de_Madrid_vs_Real_Madrid-2025-09-27.json": {
+        "mtime": 1775491372.4507246,
+        "teams": [
+            "Real Madrid",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Barcelona_vs_Real_Sociedad-2025-09-28.json": {
+        "mtime": 1775491372.4527392,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Elche_vs_Celta_de_Vigo-2025-09-28.json": {
+        "mtime": 1775491372.4537423,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Elche CF",
+            "Elche",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Getafe_vs_Levante-2025-09-27.json": {
+        "mtime": 1775491372.4560196,
+        "teams": [
+            "Getafe CF",
+            "Levante",
+            "Getafe",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Girona_vs_Espanyol-2025-09-26.json": {
+        "mtime": 1775491372.45702,
+        "teams": [
+            "Espanyol",
+            "Girona FC",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Mallorca_vs_Alav\u00e9s-2025-09-27.json": {
+        "mtime": 1775491372.4580202,
+        "teams": [
+            "Mallorca",
+            "Real Club Deportivo Mallorca",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Rayo_Vallecano_vs_Sevilla-2025-09-28.json": {
+        "mtime": 1775491372.4591515,
+        "teams": [
+            "Sevilla",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Real_Betis_vs_Osasuna-2025-09-28.json": {
+        "mtime": 1775491372.4601517,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Real Betis",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Valencia_vs_Real_Oviedo-2025-09-30.json": {
+        "mtime": 1775491372.462151,
+        "teams": [
+            "Valencia CF",
+            "Real Oviedo",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J7_Villarreal_vs_Athletic_Club-2025-09-27.json": {
+        "mtime": 1775491372.4632387,
+        "teams": [
+            "Athletic Club",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Alav\u00e9s_vs_Elche-2025-10-05.json": {
+        "mtime": 1775491372.4642396,
+        "teams": [
+            "Elche CF",
+            "Deportivo Alav\u00e9s",
+            "Elche",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Athletic_Club_vs_Mallorca-2025-10-04.json": {
+        "mtime": 1775491372.4652398,
+        "teams": [
+            "Athletic Club",
+            "Real Club Deportivo Mallorca",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Celta_de_Vigo_vs_Atl\u00e9tico_de_Madrid-2025-10-05.json": {
+        "mtime": 1775491372.4672375,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Atl\u00e9tico de Madrid",
+            "Celta de Vigo",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Espanyol_vs_Real_Betis-2025-10-05.json": {
+        "mtime": 1775491372.4856074,
+        "teams": [
+            "Espanyol",
+            "Real Betis",
+            "Reial Club Deportiu Espanyol de Barcelona",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Girona_vs_Valencia-2025-10-04.json": {
+        "mtime": 1775491372.4856074,
+        "teams": [
+            "Valencia CF",
+            "Girona FC",
+            "Girona",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Osasuna_vs_Getafe-2025-10-03.json": {
+        "mtime": 1775491372.4856074,
+        "teams": [
+            "CA Osasuna",
+            "Getafe CF",
+            "Osasuna",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Real_Madrid_vs_Villarreal-2025-10-04.json": {
+        "mtime": 1775491372.4856074,
+        "teams": [
+            "Real Madrid",
+            "Villarreal",
+            "Villarreal CF",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Real_Oviedo_vs_Levante-2025-10-04.json": {
+        "mtime": 1775491372.4856074,
+        "teams": [
+            "Real Oviedo",
+            "Levante",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Real_Sociedad_vs_Rayo_Vallecano-2025-10-05.json": {
+        "mtime": 1775491372.495713,
+        "teams": [
+            "Real Sociedad de F\u00fatbol",
+            "Rayo Vallecano",
+            "Real Sociedad",
+            "Rayo Vallecano de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J8_Sevilla_vs_Barcelona-2025-10-05.json": {
+        "mtime": 1775491372.5039215,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Sevilla",
+            "Sevilla FC"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Alav\u00e9s_vs_Valencia-2025-10-20.json": {
+        "mtime": 1775491372.5064387,
+        "teams": [
+            "Valencia CF",
+            "Deportivo Alav\u00e9s",
+            "Alav\u00e9s",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Atl\u00e9tico_de_Madrid_vs_Osasuna-2025-10-18.json": {
+        "mtime": 1775491372.5084395,
+        "teams": [
+            "CA Osasuna",
+            "Osasuna",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Barcelona_vs_Girona-2025-10-18.json": {
+        "mtime": 1775491372.5157013,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Girona FC",
+            "Girona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Celta_de_Vigo_vs_Real_Sociedad-2025-10-19.json": {
+        "mtime": 1775491372.5176897,
+        "teams": [
+            "Real Club Celta de Vigo",
+            "Real Sociedad",
+            "Real Sociedad de F\u00fatbol",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Elche_vs_Athletic_Club-2025-10-19.json": {
+        "mtime": 1775491372.5206902,
+        "teams": [
+            "Athletic Club",
+            "Elche CF",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Getafe_vs_Real_Madrid-2025-10-19.json": {
+        "mtime": 1775491372.545436,
+        "teams": [
+            "Getafe CF",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Levante_vs_Rayo_Vallecano-2025-10-19.json": {
+        "mtime": 1775491372.5467672,
+        "teams": [
+            "Levante",
+            "Rayo Vallecano",
+            "Rayo Vallecano de Madrid",
+            "Levante UD"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Real_Oviedo_vs_Espanyol-2025-10-17.json": {
+        "mtime": 1775491372.5477831,
+        "teams": [
+            "Espanyol",
+            "Real Oviedo",
+            "Reial Club Deportiu Espanyol de Barcelona"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Sevilla_vs_Mallorca-2025-10-18.json": {
+        "mtime": 1775491372.5487833,
+        "teams": [
+            "Sevilla",
+            "Real Club Deportivo Mallorca",
+            "Sevilla FC",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J9_Villarreal_vs_Real_Betis-2025-10-18.json": {
+        "mtime": 1775491372.55214,
+        "teams": [
+            "Real Betis",
+            "Villarreal",
+            "Villarreal CF",
+            "Real Betis Balompi\u00e9"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Atl\u00e9tico_de_Madrid_vs_Barcelona-2026-04-04.json": {
+        "mtime": 1775514483.8920994,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "FC Barcelona",
+            "Barcelona",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Mallorca_vs_Real_Madrid-2026-04-04.json": {
+        "mtime": 1775491372.232637,
+        "teams": [
+            "Real Club Deportivo Mallorca",
+            "Mallorca",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Alav\u00e9s_vs_Osasuna-2026-04-05.json": {
+        "mtime": 1775491356.705213,
+        "teams": [
+            "Osasuna",
+            "Alav\u00e9s"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Getafe_vs_Athletic_Club-2026-04-05.json": {
+        "mtime": 1775491364.4561043,
+        "teams": [
+            "Athletic Club",
+            "Getafe"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Real_Oviedo_vs_Sevilla-2026-04-05.json": {
+        "mtime": 1775491372.2820728,
+        "teams": [
+            "Sevilla",
+            "Real Oviedo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Valencia_vs_Celta_de_Vigo-2026-04-05.json": {
+        "mtime": 1775491372.2851555,
+        "teams": [
+            "Celta de Vigo",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Rayo_Vallecano_vs_Elche-2026-04-03.json": {
+        "mtime": 1775491372.2801394,
+        "teams": [
+            "Rayo Vallecano",
+            "Elche"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Real_Betis_vs_Espanyol-2026-04-04.json": {
+        "mtime": 1775491372.2811368,
+        "teams": [
+            "Espanyol",
+            "Real Betis"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Real_Sociedad_vs_Levante-2026-04-04.json": {
+        "mtime": 1775491372.2840674,
+        "teams": [
+            "Real Sociedad",
+            "Levante"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J30_Girona_vs_Villarreal-2026-04-06.json": {
+        "mtime": 1775517114.1795998,
+        "teams": [
+            "Girona",
+            "Villarreal"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Barcelona_vs_Espanyol-2026-04-11.json": {
+        "mtime": 1775946969.7932255,
+        "teams": [
+            "Barcelona",
+            "Espanyol"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Elche_vs_Valencia-2026-04-11.json": {
+        "mtime": 1775945738.804723,
+        "teams": [
+            "Elche",
+            "Valencia"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Real_Madrid_vs_Girona-2026-04-10.json": {
+        "mtime": 1775946995.169041,
+        "teams": [
+            "Girona",
+            "Real Madrid"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Real_Sociedad_vs_Alav\u00e9s-2026-04-11.json": {
+        "mtime": 1775945738.8075838,
+        "teams": [
+            "Alav\u00e9s",
+            "Real Sociedad"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Sevilla_vs_Atl\u00e9tico_de_Madrid-2026-04-11.json": {
+        "mtime": 1775945738.810571,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Sevilla"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Athletic_Club_vs_Villarreal-2026-04-12.json": {
+        "mtime": 1776040494.203912,
+        "teams": [
+            "Villarreal",
+            "Athletic Club"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Celta_de_Vigo_vs_Real_Oviedo-2026-04-12.json": {
+        "mtime": 1776040494.2463026,
+        "teams": [
+            "Real Oviedo",
+            "Celta de Vigo"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Mallorca_vs_Rayo_Vallecano-2026-04-12.json": {
+        "mtime": 1776040494.2785485,
+        "teams": [
+            "Rayo Vallecano",
+            "Mallorca"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Osasuna_vs_Real_Betis-2026-04-12.json": {
+        "mtime": 1776040494.2815735,
+        "teams": [
+            "Real Betis",
+            "Osasuna"
+        ]
+    },
+    "Primera_Divisi\u00f3n_J31_Levante_vs_Getafe-2026-04-13.json": {
+        "mtime": 1776116227.0988438,
+        "teams": [
+            "Getafe",
+            "Levante"
+        ]
+    }
+}

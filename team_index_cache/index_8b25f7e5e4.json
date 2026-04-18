@@ -1,0 +1,1631 @@
+{
+    "UEFA_Champions_League_J1_Ajax_vs_Internazionale-2025-09-17.json": {
+        "mtime": 1775491374.459445,
+        "teams": [
+            "Internazionale",
+            "Ajax",
+            "FC Internazionale Milano",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J1_Athletic_Club_vs_Arsenal-2025-09-16.json": {
+        "mtime": 1775491374.4674468,
+        "teams": [
+            "Athletic Club",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J1_Bayern_M\u00fcnchen_vs_Chelsea-2025-09-17.json": {
+        "mtime": 1775491374.4760418,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J1_Benfica_vs_Qaraba\u011f-2025-09-16.json": {
+        "mtime": 1775491374.4844923,
+        "teams": [
+            "Qaraba\u011f",
+            "Benfica",
+            "Qaraba\u011f A\u011fdam FK",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J1_Club_Brugge_vs_Monaco-2025-09-18.json": {
+        "mtime": 1775491374.5042624,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "AS Monaco FC",
+            "Monaco"
+        ]
+    },
+    "UEFA_Champions_League_J1_Eintracht_Frankfurt_vs_Galatasaray-2025-09-18.json": {
+        "mtime": 1775491374.5185893,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc"
+        ]
+    },
+    "UEFA_Champions_League_J1_Juventus_vs_Borussia_Dortmund-2025-09-16.json": {
+        "mtime": 1775491374.5653443,
+        "teams": [
+            "Borussia Dortmund",
+            "Juventus",
+            "BV Borussia 09 Dortmund",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J1_K\u00f8benhavn_vs_Bayer_Leverkusen-2025-09-18.json": {
+        "mtime": 1775491374.5741513,
+        "teams": [
+            "K\u00f8benhavn",
+            "Bayer Leverkusen",
+            "FC K\u00f8benhavn",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "UEFA_Champions_League_J1_Liverpool_vs_Atl\u00e9tico_de_Madrid-2025-09-17.json": {
+        "mtime": 1775491374.5830996,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J1_Manchester_City_vs_Napoli-2025-09-18.json": {
+        "mtime": 1775491374.5920606,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J1_Newcastle_United_vs_Barcelona-2025-09-18.json": {
+        "mtime": 1775491374.601123,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J1_Olympiakos_Piraeus_vs_Pafos-2025-09-17.json": {
+        "mtime": 1775491374.6021242,
+        "teams": [
+            "Pafos FC",
+            "Pafos",
+            "Olympiakos CFP",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J1_PSG_vs_Atalanta-2025-09-17.json": {
+        "mtime": 1775491374.610127,
+        "teams": [
+            "PSG",
+            "Paris Saint-Germain FC",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J1_PSV_vs_Union_Saint-Gilloise-2025-09-16.json": {
+        "mtime": 1775491374.6193295,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Royale Union Saint-Gilloise",
+            "PSV Eindhoven",
+            "PSV"
+        ]
+    },
+    "UEFA_Champions_League_J1_Real_Madrid_vs_Olympique_Marseille-2025-09-16.json": {
+        "mtime": 1775491374.6273434,
+        "teams": [
+            "Olympique Marseille",
+            "Olympique de Marseille",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "UEFA_Champions_League_J1_Slavia_Praha_vs_FK_Bod\u00f8 _Glimt-2025-09-17.json": {
+        "mtime": 1775491374.6362784,
+        "teams": [
+            "Slavia Praha",
+            "SK Slavia Praha",
+            "FK Bod\u00f8 / Glimt",
+            "FK Bod\u00f8  Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J1_Sporting_CP_vs_Kairat-2025-09-18.json": {
+        "mtime": 1775491374.6382804,
+        "teams": [
+            "Sporting CP",
+            "Kairat",
+            "Sporting Clube de Portugal",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J1_Tottenham_Hotspur_vs_Villarreal-2025-09-16.json": {
+        "mtime": 1775491374.6392784,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Villarreal",
+            "Villarreal CF",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J2_Arsenal_vs_Olympiakos_Piraeus-2025-10-01.json": {
+        "mtime": 1775491374.6472256,
+        "teams": [
+            "Arsenal",
+            "Olympiakos CFP",
+            "Arsenal FC",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J2_Atalanta_vs_Club_Brugge-2025-09-30.json": {
+        "mtime": 1775491374.656213,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J2_Atl\u00e9tico_de_Madrid_vs_Eintracht_Frankfurt-2025-09-30.json": {
+        "mtime": 1775491374.6646578,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J2_Barcelona_vs_PSG-2025-10-01.json": {
+        "mtime": 1775491374.6736574,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Paris Saint-Germain FC",
+            "PSG"
+        ]
+    },
+    "UEFA_Champions_League_J2_Bayer_Leverkusen_vs_PSV-2025-10-01.json": {
+        "mtime": 1775491374.6919823,
+        "teams": [
+            "PSV Eindhoven",
+            "PSV",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "UEFA_Champions_League_J2_Borussia_Dortmund_vs_Athletic_Club-2025-10-01.json": {
+        "mtime": 1775491374.700729,
+        "teams": [
+            "Athletic Club",
+            "BV Borussia 09 Dortmund",
+            "Borussia Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J2_Chelsea_vs_Benfica-2025-09-30.json": {
+        "mtime": 1775491374.7088046,
+        "teams": [
+            "Benfica",
+            "Chelsea",
+            "SL Benfica",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J2_FK Bod\u00f8  Glimt_vs_Tottenham Hotspur FC-2025-09-30.json": {
+        "mtime": 1775491374.717036,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "FK Bod\u00f8  Glimt",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J2_Galatasaray_vs_Liverpool-2025-09-30.json": {
+        "mtime": 1775491374.7587507,
+        "teams": [
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J2_Internazionale_vs_Slavia_Praha-2025-09-30.json": {
+        "mtime": 1775491374.7846477,
+        "teams": [
+            "Slavia Praha",
+            "Internazionale",
+            "SK Slavia Praha",
+            "FC Internazionale Milano"
+        ]
+    },
+    "UEFA_Champions_League_J2_Kairat_vs_Real_Madrid-2025-09-30.json": {
+        "mtime": 1775491374.792762,
+        "teams": [
+            "Kairat",
+            "Real Madrid",
+            "Real Madrid CF",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J2_Monaco_vs_Manchester_City-2025-10-01.json": {
+        "mtime": 1775491374.8109667,
+        "teams": [
+            "AS Monaco FC",
+            "Manchester City FC",
+            "Monaco",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J2_Napoli_vs_Sporting_CP-2025-10-01.json": {
+        "mtime": 1775491374.8169916,
+        "teams": [
+            "Sporting CP",
+            "Napoli",
+            "SSC Napoli",
+            "Sporting Clube de Portugal"
+        ]
+    },
+    "UEFA_Champions_League_J2_Olympique_Marseille_vs_Ajax-2025-09-30.json": {
+        "mtime": 1775491374.8401024,
+        "teams": [
+            "Olympique de Marseille",
+            "Ajax",
+            "Olympique Marseille",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J2_Pafos_vs_Bayern_M\u00fcnchen-2025-09-30.json": {
+        "mtime": 1775491374.854878,
+        "teams": [
+            "Pafos FC",
+            "Bayern M\u00fcnchen",
+            "Pafos",
+            "FC Bayern M\u00fcnchen"
+        ]
+    },
+    "UEFA_Champions_League_J2_Qaraba\u011f_vs_K\u00f8benhavn-2025-10-01.json": {
+        "mtime": 1775491374.8568883,
+        "teams": [
+            "Qaraba\u011f",
+            "K\u00f8benhavn",
+            "Qaraba\u011f A\u011fdam FK",
+            "FC K\u00f8benhavn"
+        ]
+    },
+    "UEFA_Champions_League_J2_Union_Saint-Gilloise_vs_Newcastle_United-2025-10-01.json": {
+        "mtime": 1775491374.8612695,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Royale Union Saint-Gilloise",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J2_Villarreal_vs_Juventus-2025-10-01.json": {
+        "mtime": 1775491374.8662899,
+        "teams": [
+            "Juventus",
+            "Villarreal CF",
+            "Villarreal",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J3_Arsenal_vs_Atl\u00e9tico_de_Madrid-2025-10-21.json": {
+        "mtime": 1775491374.8662899,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J3_Atalanta_vs_Slavia_Praha-2025-10-22.json": {
+        "mtime": 1775491374.8827178,
+        "teams": [
+            "Slavia Praha",
+            "Atalanta Bergamasca Calcio",
+            "SK Slavia Praha",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J3_Athletic_Club_vs_Qaraba\u011f-2025-10-22.json": {
+        "mtime": 1775491374.9863331,
+        "teams": [
+            "Athletic Club",
+            "Qaraba\u011f",
+            "Qaraba\u011f A\u011fdam FK"
+        ]
+    },
+    "UEFA_Champions_League_J3_Barcelona_vs_Olympiakos_Piraeus-2025-10-21.json": {
+        "mtime": 1775491374.9955442,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Olympiakos CFP",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J3_Bayer_Leverkusen_vs_Paris_Saint-Germain-2025-10-21.json": {
+        "mtime": 1775491375.0138736,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J3_Bayern_M\u00fcnchen_vs_Club_Brugge-2025-10-22.json": {
+        "mtime": 1775491375.0045338,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "FC Bayern M\u00fcnchen",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "UEFA_Champions_League_J3_Chelsea_vs_Ajax-2025-10-22.json": {
+        "mtime": 1775491375.0230286,
+        "teams": [
+            "Ajax",
+            "Chelsea",
+            "Chelsea FC",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J3_Eintracht_Frankfurt_vs_Liverpool-2025-10-22.json": {
+        "mtime": 1775491375.0362353,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J3_Galatasaray_vs_Bod\u00f8Glimt-2025-10-22.json": {
+        "mtime": 1775491375.0455,
+        "teams": [
+            "Galatasaray",
+            "Bod\u00f8Glimt",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J3_Kairat_vs_Pafos-2025-10-21.json": {
+        "mtime": 1775491375.047387,
+        "teams": [
+            "Pafos FC",
+            "Pafos",
+            "Kairat",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J3_K\u00f8benhavn_vs_Borussia_Dortmund-2025-10-21.json": {
+        "mtime": 1775491375.056605,
+        "teams": [
+            "K\u00f8benhavn",
+            "FC K\u00f8benhavn",
+            "BV Borussia 09 Dortmund",
+            "Borussia Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J3_Monaco_vs_Tottenham_Hotspur-2025-10-22.json": {
+        "mtime": 1775491375.065905,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "AS Monaco FC",
+            "Monaco",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J3_Newcastle_United_vs_Benfica-2025-10-21.json": {
+        "mtime": 1775491375.0749066,
+        "teams": [
+            "Newcastle United FC",
+            "Benfica",
+            "Newcastle United",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J3_PSV_vs_Napoli-2025-10-21.json": {
+        "mtime": 1775491375.0833695,
+        "teams": [
+            "Napoli",
+            "PSV Eindhoven",
+            "SSC Napoli",
+            "PSV"
+        ]
+    },
+    "UEFA_Champions_League_J3_Real_Madrid_vs_Juventus-2025-10-22.json": {
+        "mtime": 1775491375.0926597,
+        "teams": [
+            "Juventus",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J3_Sporting_CP_vs_Olympique_Marseille-2025-10-22.json": {
+        "mtime": 1775491375.1017096,
+        "teams": [
+            "Sporting CP",
+            "Olympique de Marseille",
+            "Sporting Clube de Portugal",
+            "Olympique Marseille"
+        ]
+    },
+    "UEFA_Champions_League_J3_Union_Saint-Gilloise_vs_Internazionale-2025-10-21.json": {
+        "mtime": 1775491375.1101544,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Internazionale",
+            "Royale Union Saint-Gilloise",
+            "FC Internazionale Milano"
+        ]
+    },
+    "UEFA_Champions_League_J3_Villarreal_vs_Manchester_City-2025-10-21.json": {
+        "mtime": 1775491375.1183777,
+        "teams": [
+            "Manchester City FC",
+            "Villarreal",
+            "Villarreal CF",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J4_Ajax_vs_Galatasaray-2025-11-05.json": {
+        "mtime": 1775491375.1293645,
+        "teams": [
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Ajax",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J4_Atl\u00e9tico_de_Madrid_vs_Union_Saint-Gilloise-2025-11-04.json": {
+        "mtime": 1775491375.137466,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Royale Union Saint-Gilloise",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J4_Benfica_vs_Bayer_Leverkusen-2025-11-05.json": {
+        "mtime": 1775491375.1456323,
+        "teams": [
+            "Benfica",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J4_Club_Brugge_vs_Barcelona-2025-11-05.json": {
+        "mtime": 1775491375.1536322,
+        "teams": [
+            "FC Barcelona",
+            "Club Brugge KV",
+            "Barcelona",
+            "Club Brugge"
+        ]
+    },
+    "UEFA_Champions_League_J4_FK Bod\u00f8  Glimt_vs_AS Monaco FC 2025-11-06.json": {
+        "mtime": 1775491375.1632113,
+        "teams": [
+            "AS Monaco FC",
+            "FK Bod\u00f8  Glimt",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J4_Internazionale_vs_Kairat-2025-11-05.json": {
+        "mtime": 1775491375.171406,
+        "teams": [
+            "Internazionale",
+            "Kairat",
+            "FC Internazionale Milano",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J4_Juventus_vs_Sporting_CP-2025-11-04.json": {
+        "mtime": 1775491375.1868808,
+        "teams": [
+            "Sporting CP",
+            "Juventus",
+            "Sporting Clube de Portugal",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J4_Liverpool_vs_Real_Madrid-2025-11-04.json": {
+        "mtime": 1775491375.1958947,
+        "teams": [
+            "Liverpool FC",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J4_Manchester_City_vs_Borussia_Dortmund-2025-11-05.json": {
+        "mtime": 1775491375.2039895,
+        "teams": [
+            "Borussia Dortmund",
+            "Manchester City FC",
+            "BV Borussia 09 Dortmund",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J4_Napoli_vs_Eintracht_Frankfurt-2025-11-04.json": {
+        "mtime": 1775491375.2117903,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Napoli",
+            "SSC Napoli"
+        ]
+    },
+    "UEFA_Champions_League_J4_Newcastle_United_vs_Athletic_Club-2025-11-05.json": {
+        "mtime": 1775491375.2207778,
+        "teams": [
+            "Athletic Club",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J4_Olympiakos_Piraeus_vs_PSV-2025-11-04.json": {
+        "mtime": 1775491375.2281525,
+        "teams": [
+            "PSV Eindhoven",
+            "PSV",
+            "Olympiakos FC",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J4_Olympique_Marseille_vs_Atalanta-2025-11-05.json": {
+        "mtime": 1775491375.2379875,
+        "teams": [
+            "Olympique de Marseille",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "Olympique Marseille"
+        ]
+    },
+    "UEFA_Champions_League_J4_Pafos_vs_Villarreal-2025-11-05.json": {
+        "mtime": 1775491375.2456079,
+        "teams": [
+            "Pafos FC",
+            "Pafos",
+            "Villarreal",
+            "Villarreal CF"
+        ]
+    },
+    "UEFA_Champions_League_J4_Paris_Saint-Germain_vs_Bayern_M\u00fcnchen-2025-11-04.json": {
+        "mtime": 1775491375.2546053,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Paris Saint-Germain FC",
+            "FC Bayern M\u00fcnchen",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J4_Qaraba\u011f_vs_Chelsea-2025-11-05.json": {
+        "mtime": 1775491375.2639802,
+        "teams": [
+            "Qaraba\u011f",
+            "Chelsea",
+            "Qaraba\u011f A\u011fdam FK",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J4_Slavia_Praha_vs_Arsenal-2025-11-04.json": {
+        "mtime": 1775491375.2729683,
+        "teams": [
+            "Slavia Praha",
+            "Arsenal FC",
+            "SK Slavia Praha",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J4_Tottenham_Hotspur_vs_K\u00f8benhavn-2025-11-04.json": {
+        "mtime": 1775491375.2807279,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "K\u00f8benhavn",
+            "FC K\u00f8benhavn",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J5_Ajax_vs_Benfica-2025-11-25.json": {
+        "mtime": 1775491375.2889826,
+        "teams": [
+            "AFC Ajax",
+            "Ajax",
+            "Benfica",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J5_Arsenal_vs_Bayern_M\u00fcnchen-2025-11-26.json": {
+        "mtime": 1775491375.2981591,
+        "teams": [
+            "Arsenal",
+            "Bayern M\u00fcnchen",
+            "Arsenal FC",
+            "FC Bayern M\u00fcnchen"
+        ]
+    },
+    "UEFA_Champions_League_J5_Atl\u00e9tico_de_Madrid_vs_Internazionale-2025-11-26.json": {
+        "mtime": 1775491375.3061476,
+        "teams": [
+            "Internazionale",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "FC Internazionale Milano"
+        ]
+    },
+    "UEFA_Champions_League_J5_Borussia_Dortmund_vs_Villarreal-2025-11-25.json": {
+        "mtime": 1775491375.3147156,
+        "teams": [
+            "Borussia Dortmund",
+            "Villarreal",
+            "Villarreal CF",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J5_Chelsea_vs_Barcelona-2025-11-25.json": {
+        "mtime": 1775491375.323716,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J5_Eintracht_Frankfurt_vs_Atalanta-2025-11-26.json": {
+        "mtime": 1775491375.3422263,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J5_FK Bod\u00f8  Glimt_vs_Juventus-2025-11-25.json": {
+        "mtime": 1775491375.3503363,
+        "teams": [
+            "FK Bod\u00f8  Glimt",
+            "Juventus",
+            "FK Bod\u00f8 / Glimt",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J5_Galatasaray_vs_Union_Saint-Gilloise-2025-11-25.json": {
+        "mtime": 1775491375.359504,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Royale Union Saint-Gilloise",
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc"
+        ]
+    },
+    "UEFA_Champions_League_J5_K\u00f8benhavn_vs_Kairat-2025-11-26.json": {
+        "mtime": 1775491375.3645642,
+        "teams": [
+            "K\u00f8benhavn",
+            "Kairat",
+            "FC K\u00f8benhavn",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J5_Liverpool_vs_PSV-2025-11-26.json": {
+        "mtime": 1775491375.3645642,
+        "teams": [
+            "PSV Eindhoven",
+            "PSV",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J5_Manchester_City_vs_Bayer_Leverkusen-2025-11-25.json": {
+        "mtime": 1775491375.383983,
+        "teams": [
+            "Bayer Leverkusen",
+            "Manchester City FC",
+            "Bayer 04 Leverkusen",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J5_Napoli_vs_Qaraba\u011f-2025-11-25.json": {
+        "mtime": 1775491375.3926065,
+        "teams": [
+            "Qaraba\u011f",
+            "Napoli",
+            "SSC Napoli",
+            "Qaraba\u011f A\u011fdam FK"
+        ]
+    },
+    "UEFA_Champions_League_J5_Olympiakos_Piraeus_vs_Real_Madrid-2025-11-26.json": {
+        "mtime": 1775491375.4008534,
+        "teams": [
+            "Real Madrid",
+            "Olympiakos FC",
+            "Real Madrid CF",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J5_Olympique_Marseille_vs_Newcastle_United-2025-11-25.json": {
+        "mtime": 1775491375.410112,
+        "teams": [
+            "Olympique de Marseille",
+            "Newcastle United FC",
+            "Olympique Marseille",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J5_Pafos_vs_Monaco-2025-11-26.json": {
+        "mtime": 1775491375.418186,
+        "teams": [
+            "Pafos FC",
+            "Pafos",
+            "AS Monaco FC",
+            "Monaco"
+        ]
+    },
+    "UEFA_Champions_League_J5_Paris_Saint-Germain_vs_Tottenham_Hotspur-2025-11-26.json": {
+        "mtime": 1775491375.433914,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J5_Slavia_Praha_vs_Athletic_Club-2025-11-25.json": {
+        "mtime": 1775491375.4420521,
+        "teams": [
+            "Athletic Club",
+            "Slavia Praha",
+            "SK Slavia Praha"
+        ]
+    },
+    "UEFA_Champions_League_J5_Sporting_CP_vs_Club_Brugge-2025-11-26.json": {
+        "mtime": 1775491375.4510648,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Sporting CP",
+            "Sporting Clube de Portugal"
+        ]
+    },
+    "UEFA_Champions_League_J6_Atalanta_vs_Chelsea-2025-12-09.json": {
+        "mtime": 1775491375.4600778,
+        "teams": [
+            "Atalanta",
+            "Atalanta Bergamasca Calcio",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J6_Athletic_Club_vs_Paris_Saint-Germain-2025-12-10.json": {
+        "mtime": 1775491375.468187,
+        "teams": [
+            "Athletic Club",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J6_BV Borussia 09 Dortmund_vs_FK Bod\u00f8  Glimt-2025-12-10.json": {
+        "mtime": 1775491375.5104802,
+        "teams": [
+            "FK Bod\u00f8 / Glimt",
+            "FK Bod\u00f8  Glimt",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J6_Barcelona_vs_Eintracht_Frankfurt-2025-12-09.json": {
+        "mtime": 1775491375.4763122,
+        "teams": [
+            "FC Barcelona",
+            "Eintracht Frankfurt",
+            "Barcelona"
+        ]
+    },
+    "UEFA_Champions_League_J6_Bayer_Leverkusen_vs_Newcastle_United-2025-12-10.json": {
+        "mtime": 1775491375.493019,
+        "teams": [
+            "Newcastle United FC",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J6_Bayern_M\u00fcnchen_vs_Sporting_CP-2025-12-09.json": {
+        "mtime": 1775491375.4848814,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Sporting CP",
+            "FC Bayern M\u00fcnchen",
+            "Sporting Clube de Portugal"
+        ]
+    },
+    "UEFA_Champions_League_J6_Benfica_vs_Napoli-2025-12-10.json": {
+        "mtime": 1775491375.502132,
+        "teams": [
+            "Napoli",
+            "Benfica",
+            "SSC Napoli",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J6_Club_Brugge_vs_Arsenal-2025-12-10.json": {
+        "mtime": 1775491375.5184944,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J6_Internazionale_vs_Liverpool-2025-12-09.json": {
+        "mtime": 1775491375.5194833,
+        "teams": [
+            "Liverpool FC",
+            "Internazionale",
+            "FC Internazionale Milano",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J6_Juventus_vs_Pafos-2025-12-10.json": {
+        "mtime": 1775491375.521482,
+        "teams": [
+            "Pafos FC",
+            "Pafos",
+            "Juventus",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J6_Kairat_vs_Olympiakos_Piraeus-2025-12-09.json": {
+        "mtime": 1775491375.5296488,
+        "teams": [
+            "Kairat",
+            "Olympiakos FC",
+            "FK Kairat Almaty",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J6_Monaco_vs_Galatasaray-2025-12-09.json": {
+        "mtime": 1775491375.5381536,
+        "teams": [
+            "Galatasaray",
+            "AS Monaco FC",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Monaco"
+        ]
+    },
+    "UEFA_Champions_League_J6_PSV_vs_Atl\u00e9tico_de_Madrid-2025-12-09.json": {
+        "mtime": 1775491375.5454757,
+        "teams": [
+            "PSV Eindhoven",
+            "PSV",
+            "Club Atl\u00e9tico de Madrid",
+            "Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J6_Qaraba\u011f_vs_Ajax-2025-12-10.json": {
+        "mtime": 1775491375.554398,
+        "teams": [
+            "Qaraba\u011f",
+            "Ajax",
+            "Qaraba\u011f A\u011fdam FK",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J6_Real_Madrid_vs_Manchester_City-2025-12-10.json": {
+        "mtime": 1775491375.5798187,
+        "teams": [
+            "Real Madrid",
+            "Manchester City FC",
+            "Real Madrid CF",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J6_Tottenham_Hotspur_vs_Slavia_Praha-2025-12-09.json": {
+        "mtime": 1775491375.5990617,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Slavia Praha",
+            "SK Slavia Praha",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J6_Union_Saint-Gilloise_vs_Olympique_Marseille-2025-12-09.json": {
+        "mtime": 1775491375.6156192,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Olympique de Marseille",
+            "Royale Union Saint-Gilloise",
+            "Olympique Marseille"
+        ]
+    },
+    "UEFA_Champions_League_J6_Villarreal_vs_K\u00f8benhavn-2025-12-10.json": {
+        "mtime": 1775491375.6262262,
+        "teams": [
+            "K\u00f8benhavn",
+            "Villarreal CF",
+            "FC K\u00f8benhavn",
+            "Villarreal"
+        ]
+    },
+    "UEFA_Champions_League_J7_Atalanta_vs_Athletic_Club-2026-01-21.json": {
+        "mtime": 1775491375.6355426,
+        "teams": [
+            "Athletic Club",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J7_Bayern_M\u00fcnchen_vs_Union_Saint-Gilloise-2026-01-21.json": {
+        "mtime": 1775491375.645509,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Bayern M\u00fcnchen",
+            "Royale Union Saint-Gilloise",
+            "FC Bayern M\u00fcnchen"
+        ]
+    },
+    "UEFA_Champions_League_J7_Bodo_Glimt_vs_Manchester_City-2026-01-20.json": {
+        "mtime": 1775491375.6668804,
+        "teams": [
+            "Bodo Glimt",
+            "Manchester City FC",
+            "FK Bod\u00f8 / Glimt",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J7_Chelsea_vs_Pafos-2026-01-21.json": {
+        "mtime": 1775491375.6749074,
+        "teams": [
+            "Pafos FC",
+            "Pafos",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J7_Galatasaray_vs_Atl\u00e9tico_de_Madrid-2026-01-21.json": {
+        "mtime": 1775491375.6944184,
+        "teams": [
+            "Galatasaray",
+            "Atl\u00e9tico de Madrid",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J7_Internazionale_vs_Arsenal-2026-01-20.json": {
+        "mtime": 1775491375.7025805,
+        "teams": [
+            "Arsenal",
+            "Internazionale",
+            "Arsenal FC",
+            "FC Internazionale Milano"
+        ]
+    },
+    "UEFA_Champions_League_J7_Juventus_vs_Benfica-2026-01-21.json": {
+        "mtime": 1775491375.7115786,
+        "teams": [
+            "Juventus FC",
+            "Benfica",
+            "Juventus",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J7_Kairat_vs_Club_Brugge-2026-01-20.json": {
+        "mtime": 1775491375.7205665,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Kairat",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J7_K\u00f8benhavn_vs_Napoli-2026-01-20.json": {
+        "mtime": 1775491375.728916,
+        "teams": [
+            "K\u00f8benhavn",
+            "Napoli",
+            "SSC Napoli",
+            "FC K\u00f8benhavn"
+        ]
+    },
+    "UEFA_Champions_League_J7_Newcastle_United_vs_PSV-2026-01-21.json": {
+        "mtime": 1775491375.7490115,
+        "teams": [
+            "Newcastle United FC",
+            "PSV Eindhoven",
+            "PSV",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J7_Olympiakos_Piraeus_vs_Bayer_Leverkusen-2026-01-20.json": {
+        "mtime": 1775491375.757013,
+        "teams": [
+            "Bayer Leverkusen",
+            "Olympiakos FC",
+            "Bayer 04 Leverkusen",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J7_Olympique_Marseille_vs_Liverpool-2026-01-21.json": {
+        "mtime": 1775491375.7653248,
+        "teams": [
+            "Olympique de Marseille",
+            "Olympique Marseille",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J7_Qaraba\u011f_vs_Eintracht_Frankfurt-2026-01-21.json": {
+        "mtime": 1775491375.774325,
+        "teams": [
+            "Qaraba\u011f",
+            "Eintracht Frankfurt",
+            "Qaraba\u011f A\u011fdam FK"
+        ]
+    },
+    "UEFA_Champions_League_J7_Real_Madrid_vs_Monaco-2026-01-20.json": {
+        "mtime": 1775491375.7834027,
+        "teams": [
+            "AS Monaco FC",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Monaco"
+        ]
+    },
+    "UEFA_Champions_League_J7_Slavia_Praha_vs_Barcelona-2026-01-21.json": {
+        "mtime": 1775491375.8032925,
+        "teams": [
+            "FC Barcelona",
+            "Slavia Praha",
+            "Barcelona",
+            "SK Slavia Praha"
+        ]
+    },
+    "UEFA_Champions_League_J7_Sporting_CP_vs_Paris_Saint-Germain-2026-01-20.json": {
+        "mtime": 1775491375.811907,
+        "teams": [
+            "Sporting CP",
+            "Paris Saint-Germain FC",
+            "Sporting Clube de Portugal",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J7_Tottenham_Hotspur_vs_Borussia_Dortmund-2026-01-20.json": {
+        "mtime": 1775491375.8209088,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Borussia Dortmund",
+            "BV Borussia 09 Dortmund",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J7_Villarreal_vs_Ajax-2026-01-20.json": {
+        "mtime": 1775491375.8289337,
+        "teams": [
+            "Ajax",
+            "Villarreal",
+            "Villarreal CF",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J8_Ajax_vs_Olympiakos_Piraeus-2026-01-28.json": {
+        "mtime": 1775491375.8358953,
+        "teams": [
+            "Olympiakos Piraeus",
+            "Ajax",
+            "Olympiakos FC",
+            "AFC Ajax"
+        ]
+    },
+    "UEFA_Champions_League_J8_Arsenal_vs_Kairat-2026-01-28.json": {
+        "mtime": 1775491375.845436,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Kairat",
+            "FK Kairat Almaty"
+        ]
+    },
+    "UEFA_Champions_League_J8_Athletic_Club_vs_Sporting_CP-2026-01-28.json": {
+        "mtime": 1775491375.8534124,
+        "teams": [
+            "Athletic Club",
+            "Sporting CP",
+            "Sporting Clube de Portugal"
+        ]
+    },
+    "UEFA_Champions_League_J8_Atl\u00e9tico_de_Madrid_vs_Bodo_Gimt-2026-01-28.json": {
+        "mtime": 1775491375.8608246,
+        "teams": [
+            "Bodo Gimt",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J8_Barcelona_vs_K\u00f8benhavn-2026-01-28.json": {
+        "mtime": 1775491375.8608246,
+        "teams": [
+            "FC Barcelona",
+            "K\u00f8benhavn",
+            "Barcelona",
+            "FC K\u00f8benhavn"
+        ]
+    },
+    "UEFA_Champions_League_J8_Bayer_Leverkusen_vs_Villarreal-2026-01-28.json": {
+        "mtime": 1775491375.8786364,
+        "teams": [
+            "Bayer Leverkusen",
+            "Villarreal",
+            "Villarreal CF",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "UEFA_Champions_League_J8_Benfica_vs_Real_Madrid-2026-01-28.json": {
+        "mtime": 1775491375.8870156,
+        "teams": [
+            "Benfica",
+            "Real Madrid",
+            "Real Madrid CF",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J8_Borussia_Dortmund_vs_Internazionale-2026-01-28.json": {
+        "mtime": 1775491375.8961065,
+        "teams": [
+            "FC Internazionale Milano",
+            "Internazionale",
+            "BV Borussia 09 Dortmund",
+            "Borussia Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J8_Club_Brugge_vs_Olympique_Marseille-2026-01-28.json": {
+        "mtime": 1775491375.9041255,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Olympique de Marseille",
+            "Olympique Marseille"
+        ]
+    },
+    "UEFA_Champions_League_J8_Eintracht_Frankfurt_vs_Tottenham_Hotspur-2026-01-28.json": {
+        "mtime": 1775491375.9126978,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Eintracht Frankfurt",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J8_Liverpool_vs_Qaraba\u011f-2026-01-28.json": {
+        "mtime": 1775491375.920591,
+        "teams": [
+            "Qaraba\u011f",
+            "Qaraba\u011f A\u011fdam FK",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J8_Manchester_City_vs_Galatasaray-2026-01-28.json": {
+        "mtime": 1775491375.9296064,
+        "teams": [
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J8_Monaco_vs_Juventus-2026-01-28.json": {
+        "mtime": 1775491375.9380078,
+        "teams": [
+            "AS Monaco FC",
+            "Juventus",
+            "Monaco",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J8_Napoli_vs_Chelsea-2026-01-28.json": {
+        "mtime": 1775491375.9456806,
+        "teams": [
+            "Napoli",
+            "SSC Napoli",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J8_PSV_vs_Bayern_M\u00fcnchen-2026-01-28.json": {
+        "mtime": 1775491375.9641669,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "PSV Eindhoven",
+            "FC Bayern M\u00fcnchen",
+            "PSV"
+        ]
+    },
+    "UEFA_Champions_League_J8_Pafos_vs_Slavia_Praha-2026-01-28.json": {
+        "mtime": 1775491375.9476814,
+        "teams": [
+            "Pafos FC",
+            "Slavia Praha",
+            "Pafos",
+            "SK Slavia Praha"
+        ]
+    },
+    "UEFA_Champions_League_J8_Paris_Saint-Germain_vs_Newcastle_United-2026-01-28.json": {
+        "mtime": 1775491375.9553475,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Newcastle United FC",
+            "Paris Saint-Germain",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J8_Union_Saint-Gilloise_vs_Atalanta-2026-01-28.json": {
+        "mtime": 1775491375.965165,
+        "teams": [
+            "Union Saint-Gilloise",
+            "Royale Union Saint-Gilloise",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J_Arsenal_vs_Bayer_Leverkusen-2026-03-17.json": {
+        "mtime": 1775491375.9731667,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "UEFA_Champions_League_J_Atalanta_vs_Bayern_M\u00fcnchen-2026-03-10.json": {
+        "mtime": 1775491375.9815357,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Atalanta Bergamasca Calcio",
+            "FC Bayern M\u00fcnchen",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J_Atalanta_vs_Borussia_Dortmund-2026-02-25.json": {
+        "mtime": 1775491376.030329,
+        "teams": [
+            "Borussia Dortmund",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J_Atl\u00e9tico_de_Madrid_vs_Club_Brugge-2026-02-24.json": {
+        "mtime": 1775491376.0381281,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J_Atl\u00e9tico_de_Madrid_vs_Tottenham_Hotspur-2026-03-10.json": {
+        "mtime": 1775491376.0465207,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J_Barcelona_vs_Newcastle_United-2026-03-18.json": {
+        "mtime": 1775491376.055339,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J_Bayer_Leverkusen_vs_Arsenal-2026-03-11.json": {
+        "mtime": 1775491376.0729065,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "UEFA_Champions_League_J_Bayer_Leverkusen_vs_Olympiakos_Piraeus-2026-02-24.json": {
+        "mtime": 1775491376.081457,
+        "teams": [
+            "Bayer Leverkusen",
+            "Olympiakos FC",
+            "Bayer 04 Leverkusen",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J_Bayern_M\u00fcnchen_vs_Atalanta-2026-03-18.json": {
+        "mtime": 1775491376.064895,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Atalanta Bergamasca Calcio",
+            "FC Bayern M\u00fcnchen",
+            "Atalanta"
+        ]
+    },
+    "UEFA_Champions_League_J_Benfica_vs_Real_Madrid-2026-02-17.json": {
+        "mtime": 1775491376.0906937,
+        "teams": [
+            "Benfica",
+            "Real Madrid",
+            "Real Madrid CF",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J_Bodo_vs_Internazionale-2026-02-18.json": {
+        "mtime": 1775491376.1195457,
+        "teams": [
+            "Internazionale",
+            "FK Bod\u00f8 / Glimt",
+            "Bodo",
+            "FC Internazionale Milano"
+        ]
+    },
+    "UEFA_Champions_League_J_Bod\u00f8__Glimt_vs_Sporting_CP-2026-03-11.json": {
+        "mtime": 1775491376.1281643,
+        "teams": [
+            "Sporting CP",
+            "Bod\u00f8  Glimt",
+            "Sporting Clube de Portugal",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J_Borussia_Dortmund_vs_Atalanta-2026-02-17.json": {
+        "mtime": 1775491376.1365633,
+        "teams": [
+            "Borussia Dortmund",
+            "Atalanta Bergamasca Calcio",
+            "Atalanta",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "UEFA_Champions_League_J_Chelsea_vs_Paris_Saint-Germain-2026-03-17.json": {
+        "mtime": 1775491376.145706,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Chelsea",
+            "Paris Saint-Germain",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Club_Brugge_vs_Atl\u00e9tico_de_Madrid-2026-02-18.json": {
+        "mtime": 1775491376.1545937,
+        "teams": [
+            "Club Brugge",
+            "Club Brugge KV",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J_Galatasaray_vs_Juventus-2026-02-17.json": {
+        "mtime": 1775491376.1631548,
+        "teams": [
+            "Galatasaray",
+            "Juventus",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Galatasaray_vs_Liverpool-2026-03-10.json": {
+        "mtime": 1775491376.1721559,
+        "teams": [
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J_Internazionale_vs_Bodo_Glimt-2026-02-24.json": {
+        "mtime": 1775491376.181282,
+        "teams": [
+            "FC Internazionale Milano",
+            "Internazionale",
+            "Bodo Glimt",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J_Juventus_vs_Galatasaray-2026-02-25.json": {
+        "mtime": 1775491376.2004213,
+        "teams": [
+            "Galatasaray",
+            "Juventus",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Juventus FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Liverpool_vs_Galatasaray-2026-03-18.json": {
+        "mtime": 1775491376.2207377,
+        "teams": [
+            "Galatasaray",
+            "Galatasaray Spor Kul\u00fcb\u00fc",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "UEFA_Champions_League_J_Manchester_City_vs_Real_Madrid-2026-03-17.json": {
+        "mtime": 1775491376.229759,
+        "teams": [
+            "Real Madrid",
+            "Manchester City FC",
+            "Real Madrid CF",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J_Monaco_vs_Paris_Saint-Germain-2026-02-17.json": {
+        "mtime": 1775491376.2391925,
+        "teams": [
+            "Monaco",
+            "AS Monaco FC",
+            "Paris Saint-Germain FC",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J_Newcastle_United_vs_Barcelona-2026-03-10.json": {
+        "mtime": 1775491376.249277,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J_Newcastle_United_vs_Qaraba\u011f-2026-02-24.json": {
+        "mtime": 1775491376.2584643,
+        "teams": [
+            "Qaraba\u011f",
+            "Newcastle United FC",
+            "Qaraba\u011f A\u011fdam FK",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J_Olympiakos_Piraeus_vs_Bayer_Leverkusen-2026-02-18.json": {
+        "mtime": 1775491376.2666194,
+        "teams": [
+            "Bayer Leverkusen",
+            "Olympiakos FC",
+            "Bayer 04 Leverkusen",
+            "Olympiakos Piraeus"
+        ]
+    },
+    "UEFA_Champions_League_J_Paris_Saint-Germain_vs_Chelsea-2026-03-11.json": {
+        "mtime": 1775491376.2756965,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Chelsea",
+            "Paris Saint-Germain",
+            "Chelsea FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Paris_Saint-Germain_vs_Monaco-2026-02-25.json": {
+        "mtime": 1775491376.2849069,
+        "teams": [
+            "AS Monaco FC",
+            "Paris Saint-Germain",
+            "Paris Saint-Germain FC",
+            "Monaco"
+        ]
+    },
+    "UEFA_Champions_League_J_Qaraba\u011f_vs_Newcastle_United-2026-02-18.json": {
+        "mtime": 1775491376.2939143,
+        "teams": [
+            "Qaraba\u011f",
+            "Newcastle United FC",
+            "Qaraba\u011f A\u011fdam FK",
+            "Newcastle United"
+        ]
+    },
+    "UEFA_Champions_League_J_Real_Madrid_vs_Benfica-2026-02-25.json": {
+        "mtime": 1775491376.304144,
+        "teams": [
+            "Benfica",
+            "Real Madrid",
+            "Real Madrid CF",
+            "SL Benfica"
+        ]
+    },
+    "UEFA_Champions_League_J_Real_Madrid_vs_Manchester_City-2026-03-11.json": {
+        "mtime": 1775491376.3136256,
+        "teams": [
+            "Real Madrid",
+            "Manchester City FC",
+            "Real Madrid CF",
+            "Manchester City"
+        ]
+    },
+    "UEFA_Champions_League_J_Sporting_CP_vs_Bod\u00f8__Glimt-2026-03-17.json": {
+        "mtime": 1775491376.331807,
+        "teams": [
+            "Sporting CP",
+            "Bod\u00f8  Glimt",
+            "Sporting Clube de Portugal",
+            "FK Bod\u00f8 / Glimt"
+        ]
+    },
+    "UEFA_Champions_League_J_Tottenham_Hotspur_vs_Atl\u00e9tico_de_Madrid-2026-03-18.json": {
+        "mtime": 1775491376.360893,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Atl\u00e9tico de Madrid",
+            "Club Atl\u00e9tico de Madrid",
+            "Tottenham Hotspur"
+        ]
+    },
+    "UEFA_Champions_League_J_Real_Madrid_vs_Bayern_M\u00fcnchen-2026-04-07.json": {
+        "mtime": 1775606419.9112985,
+        "teams": [
+            "FC Bayern M\u00fcnchen",
+            "Real Madrid",
+            "Real Madrid CF",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "UEFA_Champions_League_J_Sporting_CP_vs_Arsenal-2026-04-07.json": {
+        "mtime": 1775993220.672442,
+        "teams": [
+            "Sporting Clube de Portugal",
+            "Arsenal FC",
+            "Sporting CP",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J_Barcelona_vs_Atl\u00e9tico_de_Madrid-2026-04-08.json": {
+        "mtime": 1775690564.737665,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Barcelona"
+        ]
+    },
+    "UEFA_Champions_League_J_Paris_Saint-Germain_vs_Liverpool-2026-04-08.json": {
+        "mtime": 1775690571.4720817,
+        "teams": [
+            "Liverpool",
+            "Paris Saint-Germain"
+        ]
+    },
+    "UEFA_Champions_League_J_Atl\u00e9tico_de_Madrid_vs_Barcelona-2026-04-14.json": {
+        "mtime": 1776205883.583216,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Barcelona"
+        ]
+    },
+    "UEFA_Champions_League_J_Liverpool_vs_Paris_Saint-Germain-2026-04-14.json": {
+        "mtime": 1776245287.1604407,
+        "teams": [
+            "Paris Saint-Germain FC",
+            "Liverpool",
+            "Paris Saint-Germain",
+            "Liverpool FC"
+        ]
+    },
+    "UEFA_Champions_League_J_Arsenal_vs_Sporting_CP-2026-04-15.json": {
+        "mtime": 1776290783.0789137,
+        "teams": [
+            "Sporting CP",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J_Bayern_M\u00fcnchen_vs_Real_Madrid-2026-04-15.json": {
+        "mtime": 1776314394.9708962,
+        "teams": [
+            "Real Madrid",
+            "Real Madrid CF",
+            "FC Bayern M\u00fcnchen",
+            "Bayern M\u00fcnchen"
+        ]
+    }
+}

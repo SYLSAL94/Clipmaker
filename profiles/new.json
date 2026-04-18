@@ -1,0 +1,62 @@
+{
+    "ui_types": [],
+    "ui_exclude_types": [],
+    "ui_players": [
+        "Eric Garcia"
+    ],
+    "ui_teams": [],
+    "ui_opposition_teams": [],
+    "ui_opponents": [],
+    "ui_outcomes": [
+        "Successful"
+    ],
+    "ui_receivers": [],
+    "ui_positions": [],
+    "ui_exclude_positions": [],
+    "ui_start": [],
+    "ui_end": [],
+    "ui_adv": [
+        "adv_IS_DUEL",
+        "adv_SECOND_ASSIST",
+        "adv_BIG_CHANCE_CREATED",
+        "adv_ASSIST",
+        "adv_PENETRATING_CARRY_AREA",
+        "adv_PROGRESSIVE_ACTION_10M",
+        "adv_PASS_TYPE_FLICK_ON"
+    ],
+    "ui_adv_and_logic": false,
+    "ui_spatial_and_logic": false,
+    "ui_exclude_adv": [
+        "adv_NOT_VISIBLE"
+    ],
+    "ui_shot_goal_zones": [],
+    "ui_shot_dist_min": 0.0,
+    "ui_shot_dist_max": 0.0,
+    "ui_one_two_initiators": [],
+    "ui_one_two_returners": [],
+    "ui_prog_only": false,
+    "ui_prog_pass": 0.0,
+    "ui_prog_carry": 10.0,
+    "ui_xt_min": 0.005,
+    "ui_min_length": 0.0,
+    "ui_top_n": 50,
+    "ui_seq_pass_min": 0,
+    "ui_seq_pass_max": 0,
+    "ui_custom_text": "",
+    "ui_custom_text_size": 10,
+    "ui_custom_text_font": "Arial",
+    "ui_custom_text_color": "#000000",
+    "ui_custom_text_opacity": 0.0,
+    "ui_custom_text_bg": false,
+    "ui_custom_text_bg_opacity": 0.0,
+    "ui_replay_gap_on": false,
+    "ui_replay_gap_threshold": 8,
+    "ui_ot_init_prog": 0.0,
+    "ui_ot_init_xt": 0.0,
+    "ui_ot_ret_prog": 0.0,
+    "ui_ot_ret_xt": 0.0,
+    "ui_map_heatmap": true,
+    "ui_map_hull": true,
+    "ui_map_center": true,
+    "ui_map_names": true
+}

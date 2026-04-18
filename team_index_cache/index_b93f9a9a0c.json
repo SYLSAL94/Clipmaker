@@ -1,0 +1,26 @@
+{
+    "Super_Cup_J_Barcelona_vs_Athletic_Club-2026-01-07.json": {
+        "mtime": 1775491372.6590662,
+        "teams": [
+            "Athletic Club",
+            "Barcelona",
+            "FC Barcelona"
+        ]
+    },
+    "Super_Cup_J_Barcelona_vs_Real_Madrid-2026-01-11.json": {
+        "mtime": 1775491372.6824045,
+        "teams": [
+            "FC Barcelona",
+            "Barcelona",
+            "Real Madrid",
+            "Real Madrid CF"
+        ]
+    },
+    "Super_Cup_J_Atl\u00e9tico_de_Madrid_vs_Real_Madrid-2026-01-08.json": {
+        "mtime": 1775491372.6477802,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Real Madrid"
+        ]
+    }
+}

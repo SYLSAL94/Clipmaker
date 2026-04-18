@@ -1,0 +1,162 @@
+[
+    {
+        "name": "UEFA_Champions_League_J1_Bayern_M\u00fcnchen_vs_Chelsea-2025-09-17.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J2_Pafos_vs_Bayern_M\u00fcnchen-2025-09-30.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J3_Bayern_M\u00fcnchen_vs_Club_Brugge-2025-10-22.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J4_Paris_Saint-Germain_vs_Bayern_M\u00fcnchen-2025-11-04.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J5_Arsenal_vs_Bayern_M\u00fcnchen-2025-11-26.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J6_Bayern_M\u00fcnchen_vs_Sporting_CP-2025-12-09.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J7_Bayern_M\u00fcnchen_vs_Union_Saint-Gilloise-2026-01-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J8_PSV_vs_Bayern_M\u00fcnchen-2026-01-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Atalanta_vs_Bayern_M\u00fcnchen-2026-03-10.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Bayern_M\u00fcnchen_vs_Atalanta-2026-03-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Bayern_M\u00fcnchen_vs_Real_Madrid-2026-04-15.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "UEFA_Champions_League_J_Real_Madrid_vs_Bayern_M\u00fcnchen-2026-04-07.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\LDC_2025_2026",
+        "base_name": "LDC_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J10_Union_Berlin_vs_Bayern_M\u00fcnchen-2025-11-08.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J13_Stuttgart_vs_Bayern_M\u00fcnchen-2025-12-06.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J14_Bayern_M\u00fcnchen_vs_Mainz_05-2025-12-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J15_Heidenheim_vs_Bayern_M\u00fcnchen-2025-12-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J16_Bayern_M\u00fcnchen_vs_Wolfsburg-2026-01-11.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J17_K\u00f6ln_vs_Bayern_M\u00fcnchen-2026-01-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J18_RB_Leipzig_vs_Bayern_M\u00fcnchen-2026-01-17.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J19_Bayern_M\u00fcnchen_vs_Augsburg-2026-01-24.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J20_Hamburger_SV_vs_Bayern_M\u00fcnchen-2026-01-31.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J21_Bayern_M\u00fcnchen_vs_Hoffenheim-2026-02-08.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J22_Werder_Bremen_vs_Bayern_M\u00fcnchen-2026-02-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J23_Bayern_M\u00fcnchen_vs_Eintracht_Frankfurt-2026-02-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J24_Borussia_Dortmund_vs_Bayern_M\u00fcnchen-2026-02-28.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J25_Bayern_M\u00fcnchen_vs_Borussia_M'gladbach-2026-03-06.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J26_Bayer_Leverkusen_vs_Bayern_M\u00fcnchen-2026-03-14.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J27_Bayern_M\u00fcnchen_vs_Union_Berlin-2026-03-21.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J28_Freiburg_vs_Bayern_M\u00fcnchen-2026-04-04.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J29_St._Pauli_vs_Bayern_M\u00fcnchen-2026-04-11.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J7_Bayern_M\u00fcnchen_vs_Borussia_Dortmund-2025-10-18.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    },
+    {
+        "name": "Bundesliga_J9_Bayern_M\u00fcnchen_vs_Bayer_Leverkusen-2025-11-01.json",
+        "base_dir": "D:\\Montage video football\\VIDFOOT\\Matchs_configs\\Bundesliga_2025_2026",
+        "base_name": "Bundesliga_2025_2026"
+    }
+]

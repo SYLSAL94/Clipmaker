@@ -1,0 +1,56 @@
+{
+    "League_Cup_J_Arsenal_vs_Brighton_&_Hove_Albion-2025-10-29.json": {
+        "mtime": 1775491315.665356,
+        "teams": [
+            "Arsenal",
+            "Brighton & Hove Albion FC",
+            "Arsenal FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Chelsea-2026-02-03.json": {
+        "mtime": 1775491315.6733556,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Crystal_Palace-2025-12-23.json": {
+        "mtime": 1775491315.6813703,
+        "teams": [
+            "Arsenal",
+            "Crystal Palace FC",
+            "Arsenal FC",
+            "Crystal Palace"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Manchester_City-2026-03-22.json": {
+        "mtime": 1775491315.6891706,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "League_Cup_J_Chelsea_vs_Arsenal-2026-01-14.json": {
+        "mtime": 1775491315.690171,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "League_Cup_J_Port_Vale_vs_Arsenal-2025-09-24.json": {
+        "mtime": 1775491315.691171,
+        "teams": [
+            "Arsenal",
+            "Port Vale",
+            "Arsenal FC",
+            "Port Vale FC"
+        ]
+    }
+}

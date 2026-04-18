@@ -1,0 +1,1 @@
+{"ui_types": [], "ui_exclude_types": ["Ball Receipt*"], "ui_players": [], "ui_teams": [], "ui_outcomes": ["Successful"], "ui_receivers": [], "ui_positions": [], "ui_start": [], "ui_end": [], "ui_adv": [], "ui_exclude_adv": ["adv_NOT_VISIBLE"], "ui_prog_only": false, "ui_xt_min": 0.001, "ui_top_n": 0}

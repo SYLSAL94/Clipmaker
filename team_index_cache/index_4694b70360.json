@@ -1,0 +1,2813 @@
+{
+    "Premier_League_J10_Brighton_&_Hove_Albion_vs_Leeds_United-2025-11-01.json": {
+        "mtime": 1775491326.4080408,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Leeds United FC",
+            "Brighton & Hove Albion FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J10_Burnley_vs_Arsenal-2025-11-01.json": {
+        "mtime": 1775491326.4212773,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J10_Crystal_Palace_vs_Brentford-2025-11-01.json": {
+        "mtime": 1775491326.423277,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J10_Fulham_vs_Wolverhampton_Wanderers-2025-11-01.json": {
+        "mtime": 1775491326.4347994,
+        "teams": [
+            "Fulham FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J10_Liverpool_vs_Aston_Villa-2025-11-01.json": {
+        "mtime": 1775491326.4452648,
+        "teams": [
+            "Aston Villa",
+            "Aston Villa FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J10_Manchester_City_vs_AFC_Bournemouth-2025-11-02.json": {
+        "mtime": 1775491326.4542205,
+        "teams": [
+            "AFC Bournemouth",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J10_Nottingham_Forest_vs_Manchester_United-2025-11-01.json": {
+        "mtime": 1775491326.4552205,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J10_Sunderland_vs_Everton-2025-11-03.json": {
+        "mtime": 1775491326.45622,
+        "teams": [
+            "Everton FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Everton"
+        ]
+    },
+    "Premier_League_J10_Tottenham_Hotspur_vs_Chelsea-2025-11-01.json": {
+        "mtime": 1775491326.459277,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Chelsea",
+            "Tottenham Hotspur",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J10_West_Ham_United_vs_Newcastle_United-2025-11-02.json": {
+        "mtime": 1775491326.4604297,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J11_Aston_Villa_vs_AFC_Bournemouth-2025-11-09.json": {
+        "mtime": 1775491326.4614317,
+        "teams": [
+            "AFC Bournemouth",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J11_Brentford_vs_Newcastle_United-2025-11-09.json": {
+        "mtime": 1775491326.4628067,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J11_Chelsea_vs_Wolverhampton_Wanderers-2025-11-08.json": {
+        "mtime": 1775994037.1830926,
+        "teams": [
+            "Chelsea FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Chelsea"
+        ]
+    },
+    "Premier_League_J11_Crystal_Palace_vs_Brighton_&_Hove_Albion-2025-11-09.json": {
+        "mtime": 1775491326.4648354,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J11_Everton_vs_Fulham-2025-11-08.json": {
+        "mtime": 1775491326.4658346,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J11_Manchester_City_vs_Liverpool-2025-11-09.json": {
+        "mtime": 1775491326.4948206,
+        "teams": [
+            "Manchester City",
+            "Manchester City FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J11_Nottingham_Forest_vs_Leeds_United-2025-11-09.json": {
+        "mtime": 1775491326.4965851,
+        "teams": [
+            "Leeds United FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J11_Sunderland_vs_Arsenal-2025-11-08.json": {
+        "mtime": 1775491326.504265,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J11_Tottenham_Hotspur_vs_Manchester_United-2025-11-08.json": {
+        "mtime": 1775491326.506264,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Manchester United FC",
+            "Manchester United",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J11_West_Ham_United_vs_Burnley-2025-11-08.json": {
+        "mtime": 1775491326.507624,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J12_AFC_Bournemouth_vs_West_Ham_United-2025-11-22.json": {
+        "mtime": 1775491326.5086255,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "AFC Bournemouth"
+        ]
+    },
+    "Premier_League_J12_Arsenal_vs_Tottenham_Hotspur-2025-11-23.json": {
+        "mtime": 1775491326.5294287,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Arsenal FC",
+            "Tottenham Hotspur",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J12_Brighton_&_Hove_Albion_vs_Brentford-2025-11-22.json": {
+        "mtime": 1775491326.5319102,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Brighton & Hove Albion FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J12_Burnley_vs_Chelsea-2025-11-22.json": {
+        "mtime": 1775491326.5329196,
+        "teams": [
+            "Burnley",
+            "Chelsea",
+            "Chelsea FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J12_Fulham_vs_Sunderland-2025-11-22.json": {
+        "mtime": 1775491326.534933,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J12_Leeds_United_vs_Aston_Villa-2025-11-23.json": {
+        "mtime": 1775491326.5359707,
+        "teams": [
+            "Leeds United FC",
+            "Aston Villa FC",
+            "Aston Villa",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J12_Liverpool_vs_Nottingham_Forest-2025-11-22.json": {
+        "mtime": 1775491326.548354,
+        "teams": [
+            "Nottingham Forest FC",
+            "Nottingham Forest",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J12_Manchester_United_vs_Everton-2025-11-24.json": {
+        "mtime": 1775491326.548354,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J12_Newcastle_United_vs_Manchester_City-2025-11-22.json": {
+        "mtime": 1775491326.5638552,
+        "teams": [
+            "Newcastle United FC",
+            "Manchester City FC",
+            "Newcastle United",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J12_Wolverhampton_Wanderers_vs_Crystal_Palace-2025-11-22.json": {
+        "mtime": 1775491326.5648541,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Crystal Palace FC",
+            "Wolverhampton Wanderers FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J13_Aston_Villa_vs_Wolverhampton_Wanderers-2025-11-30.json": {
+        "mtime": 1775491326.5658433,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Aston Villa FC",
+            "Wolverhampton Wanderers FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J13_Brentford_vs_Burnley-2025-11-29.json": {
+        "mtime": 1775491326.5678413,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J13_Chelsea_vs_Arsenal-2025-11-30.json": {
+        "mtime": 1775491326.5758407,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J13_Crystal_Palace_vs_Manchester_United-2025-11-30.json": {
+        "mtime": 1775491326.578397,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J13_Everton_vs_Newcastle_United-2025-11-29.json": {
+        "mtime": 1775491326.579383,
+        "teams": [
+            "Newcastle United FC",
+            "Everton",
+            "Everton FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J13_Manchester_City_vs_Leeds_United-2025-11-29.json": {
+        "mtime": 1775491326.5997417,
+        "teams": [
+            "Leeds United FC",
+            "Manchester City",
+            "Manchester City FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J13_Nottingham_Forest_vs_Brighton_&_Hove_Albion-2025-11-30.json": {
+        "mtime": 1775491326.600744,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J13_Sunderland_vs_AFC_Bournemouth-2025-11-29.json": {
+        "mtime": 1775491326.6027417,
+        "teams": [
+            "AFC Bournemouth",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J13_Tottenham_Hotspur_vs_Fulham-2025-11-29.json": {
+        "mtime": 1775491326.6037416,
+        "teams": [
+            "Fulham FC",
+            "Tottenham Hotspur FC",
+            "Fulham",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J13_West_Ham_United_vs_Liverpool-2025-11-30.json": {
+        "mtime": 1775491326.6124258,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J14_AFC_Bournemouth_vs_Everton-2025-12-02.json": {
+        "mtime": 1775491326.6134255,
+        "teams": [
+            "AFC Bournemouth",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J14_Arsenal_vs_Brentford-2025-12-03.json": {
+        "mtime": 1775491326.6214306,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J14_Brighton_&_Hove_Albion_vs_Aston_Villa-2025-12-03.json": {
+        "mtime": 1775491326.6233213,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J14_Burnley_vs_Crystal_Palace-2025-12-03.json": {
+        "mtime": 1775491326.6243367,
+        "teams": [
+            "Crystal Palace FC",
+            "Burnley",
+            "Crystal Palace",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J14_Fulham_vs_Manchester_City-2025-12-02.json": {
+        "mtime": 1775491326.639632,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J14_Leeds_United_vs_Chelsea-2025-12-03.json": {
+        "mtime": 1775491326.6406612,
+        "teams": [
+            "Leeds United FC",
+            "Leeds United",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J14_Liverpool_vs_Sunderland-2025-12-03.json": {
+        "mtime": 1775491326.6494403,
+        "teams": [
+            "Sunderland",
+            "Sunderland AFC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J14_Manchester_United_vs_West_Ham_United-2025-12-04.json": {
+        "mtime": 1775491326.6514525,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "West Ham United FC",
+            "West Ham United"
+        ]
+    },
+    "Premier_League_J14_Newcastle_United_vs_Tottenham_Hotspur-2025-12-02.json": {
+        "mtime": 1775491326.652453,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Newcastle United FC",
+            "Newcastle United",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J14_Wolverhampton_Wanderers_vs_Nottingham_Forest-2025-12-03.json": {
+        "mtime": 1775491326.6535172,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Nottingham Forest",
+            "Wolverhampton Wanderers FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J15_AFC_Bournemouth_vs_Chelsea-2025-12-06.json": {
+        "mtime": 1775491326.654037,
+        "teams": [
+            "AFC Bournemouth",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J15_Aston_Villa_vs_Arsenal-2025-12-06.json": {
+        "mtime": 1775491326.6633916,
+        "teams": [
+            "Arsenal",
+            "Aston Villa FC",
+            "Arsenal FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J15_Brighton_&_Hove_Albion_vs_West_Ham_United-2025-12-07.json": {
+        "mtime": 1775491326.665403,
+        "teams": [
+            "Brighton & Hove Albion",
+            "West Ham United",
+            "West Ham United FC",
+            "Brighton & Hove Albion FC"
+        ]
+    },
+    "Premier_League_J15_Everton_vs_Nottingham_Forest-2025-12-06.json": {
+        "mtime": 1775491326.6664038,
+        "teams": [
+            "Everton FC",
+            "Nottingham Forest",
+            "Everton",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J15_Fulham_vs_Crystal_Palace-2025-12-07.json": {
+        "mtime": 1775491326.667403,
+        "teams": [
+            "Fulham FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J15_Leeds_United_vs_Liverpool-2025-12-06.json": {
+        "mtime": 1775491326.6693983,
+        "teams": [
+            "Leeds United FC",
+            "Leeds United",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J15_Manchester_City_vs_Sunderland-2025-12-06.json": {
+        "mtime": 1775491326.689124,
+        "teams": [
+            "Sunderland",
+            "Manchester City FC",
+            "Sunderland AFC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J15_Newcastle_United_vs_Burnley-2025-12-06.json": {
+        "mtime": 1775491326.6911414,
+        "teams": [
+            "Newcastle United FC",
+            "Burnley",
+            "Newcastle United",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J15_Tottenham_Hotspur_vs_Brentford-2025-12-06.json": {
+        "mtime": 1775491326.69214,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Brentford",
+            "Brentford FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J16_Arsenal_vs_Wolverhampton_Wanderers-2025-12-13.json": {
+        "mtime": 1775491326.7000952,
+        "teams": [
+            "Arsenal",
+            "Wolverhampton Wanderers",
+            "Arsenal FC",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J16_Brentford_vs_Leeds_United-2025-12-14.json": {
+        "mtime": 1775491326.7019093,
+        "teams": [
+            "Brentford FC",
+            "Leeds United FC",
+            "Brentford",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J16_Burnley_vs_Fulham-2025-12-13.json": {
+        "mtime": 1775491326.7029262,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J16_Chelsea_vs_Everton-2025-12-13.json": {
+        "mtime": 1775491326.7039256,
+        "teams": [
+            "Everton",
+            "Chelsea",
+            "Everton FC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J16_Crystal_Palace_vs_Manchester_City-2025-12-14.json": {
+        "mtime": 1775491326.7210426,
+        "teams": [
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J16_Liverpool_vs_Brighton_&_Hove_Albion-2025-12-13.json": {
+        "mtime": 1775491326.7389696,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J16_Manchester_United_vs_AFC_Bournemouth-2025-12-15.json": {
+        "mtime": 1775491326.7409725,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "AFC Bournemouth"
+        ]
+    },
+    "Premier_League_J16_Nottingham_Forest_vs_Tottenham_Hotspur-2025-12-14.json": {
+        "mtime": 1775491326.7429705,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J16_Sunderland_vs_Newcastle_United-2025-12-14.json": {
+        "mtime": 1775491326.7439706,
+        "teams": [
+            "Newcastle United FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J16_West_Ham_United_vs_Aston_Villa-2025-12-14.json": {
+        "mtime": 1775491326.745589,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J17_AFC_Bournemouth_vs_Burnley-2025-12-20.json": {
+        "mtime": 1775491326.7475743,
+        "teams": [
+            "AFC Bournemouth",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J17_Aston_Villa_vs_Manchester_United-2025-12-21.json": {
+        "mtime": 1775491326.748574,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J17_Brighton_&_Hove_Albion_vs_Sunderland-2025-12-20.json": {
+        "mtime": 1775491326.7495627,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J17_Everton_vs_Arsenal-2025-12-20.json": {
+        "mtime": 1775491326.758639,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J17_Fulham_vs_Nottingham_Forest-2025-12-22.json": {
+        "mtime": 1775491326.759748,
+        "teams": [
+            "Fulham FC",
+            "Nottingham Forest",
+            "Fulham",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J17_Leeds_United_vs_Crystal_Palace-2025-12-20.json": {
+        "mtime": 1775491326.760852,
+        "teams": [
+            "Leeds United FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J17_Manchester_City_vs_West_Ham_United-2025-12-20.json": {
+        "mtime": 1775491326.7698755,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J17_Newcastle_United_vs_Chelsea-2025-12-20.json": {
+        "mtime": 1775491326.7728631,
+        "teams": [
+            "Newcastle United FC",
+            "Chelsea",
+            "Newcastle United",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J17_Tottenham_Hotspur_vs_Liverpool-2025-12-20.json": {
+        "mtime": 1775491326.7798898,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Liverpool",
+            "Liverpool FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J17_Wolverhampton_Wanderers_vs_Brentford-2025-12-20.json": {
+        "mtime": 1775491326.7818804,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J18_Arsenal_vs_Brighton_&_Hove_Albion-2025-12-27.json": {
+        "mtime": 1775491326.7906265,
+        "teams": [
+            "Arsenal",
+            "Brighton & Hove Albion FC",
+            "Arsenal FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J18_Brentford_vs_AFC_Bournemouth-2025-12-27.json": {
+        "mtime": 1775491326.7926126,
+        "teams": [
+            "Brentford FC",
+            "AFC Bournemouth",
+            "Brentford"
+        ]
+    },
+    "Premier_League_J18_Burnley_vs_Everton-2025-12-27.json": {
+        "mtime": 1775491326.7936141,
+        "teams": [
+            "Burnley",
+            "Everton",
+            "Everton FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J18_Chelsea_vs_Aston_Villa-2025-12-27.json": {
+        "mtime": 1775491326.7946143,
+        "teams": [
+            "Aston Villa FC",
+            "Chelsea",
+            "Aston Villa",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J18_Crystal_Palace_vs_Tottenham_Hotspur-2025-12-28.json": {
+        "mtime": 1775491326.7953837,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J18_Liverpool_vs_Wolverhampton_Wanderers-2025-12-27.json": {
+        "mtime": 1775491326.804515,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J18_Manchester_United_vs_Newcastle_United-2025-12-26.json": {
+        "mtime": 1775491326.805527,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J18_Nottingham_Forest_vs_Manchester_City-2025-12-27.json": {
+        "mtime": 1775491326.8137245,
+        "teams": [
+            "Nottingham Forest",
+            "Manchester City FC",
+            "Nottingham Forest FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J18_Sunderland_vs_Leeds_United-2025-12-28.json": {
+        "mtime": 1775491326.8157246,
+        "teams": [
+            "Leeds United FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J18_West_Ham_United_vs_Fulham-2025-12-27.json": {
+        "mtime": 1775491326.8187244,
+        "teams": [
+            "Fulham FC",
+            "West Ham United",
+            "West Ham United FC",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J19_Arsenal_vs_Aston_Villa-2025-12-30.json": {
+        "mtime": 1775491326.826713,
+        "teams": [
+            "Arsenal",
+            "Aston Villa FC",
+            "Arsenal FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J19_Brentford_vs_Tottenham_Hotspur-2026-01-01.json": {
+        "mtime": 1775491326.8277135,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Brentford",
+            "Brentford FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J19_Burnley_vs_Newcastle_United-2025-12-30.json": {
+        "mtime": 1775491326.8287249,
+        "teams": [
+            "Newcastle United FC",
+            "Burnley",
+            "Newcastle United",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J19_Chelsea_vs_AFC_Bournemouth-2025-12-30.json": {
+        "mtime": 1775491326.8307247,
+        "teams": [
+            "AFC Bournemouth",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J19_Crystal_Palace_vs_Fulham-2026-01-01.json": {
+        "mtime": 1775491326.8318303,
+        "teams": [
+            "Fulham FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J19_Liverpool_vs_Leeds_United-2026-01-01.json": {
+        "mtime": 1775491326.8400433,
+        "teams": [
+            "Leeds United FC",
+            "Liverpool",
+            "Liverpool FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J19_Manchester_United_vs_Wolverhampton_Wanderers-2025-12-30.json": {
+        "mtime": 1775491326.841043,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J19_Nottingham_Forest_vs_Everton-2025-12-30.json": {
+        "mtime": 1775491326.8430429,
+        "teams": [
+            "Nottingham Forest FC",
+            "Everton",
+            "Nottingham Forest",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J19_Sunderland_vs_Manchester_City-2026-01-01.json": {
+        "mtime": 1775491326.8506958,
+        "teams": [
+            "Sunderland",
+            "Manchester City FC",
+            "Sunderland AFC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J19_West_Ham_United_vs_Brighton_&_Hove_Albion-2025-12-30.json": {
+        "mtime": 1775491326.8526947,
+        "teams": [
+            "Brighton & Hove Albion",
+            "West Ham United",
+            "West Ham United FC",
+            "Brighton & Hove Albion FC"
+        ]
+    },
+    "Premier_League_J1_Aston_Villa_vs_Newcastle_United-2025-08-16.json": {
+        "mtime": 1775491326.8536966,
+        "teams": [
+            "Newcastle United FC",
+            "Aston Villa FC",
+            "Aston Villa",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J1_Brighton_&_Hove_Albion_vs_Fulham-2025-08-16.json": {
+        "mtime": 1775491326.8547082,
+        "teams": [
+            "Fulham FC",
+            "Brighton & Hove Albion FC",
+            "Brighton & Hove Albion",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J1_Chelsea_vs_Crystal_Palace-2025-08-17.json": {
+        "mtime": 1775491326.8556955,
+        "teams": [
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J1_Leeds_United_vs_Everton-2025-08-18.json": {
+        "mtime": 1775491326.857695,
+        "teams": [
+            "Leeds United FC",
+            "Everton",
+            "Everton FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J1_Liverpool_vs_AFC_Bournemouth-2025-08-15.json": {
+        "mtime": 1775491326.8590808,
+        "teams": [
+            "AFC Bournemouth",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J1_Manchester_United_vs_Arsenal-2025-08-17.json": {
+        "mtime": 1775491326.8714921,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J1_Nottingham_Forest_vs_Brentford-2025-08-17.json": {
+        "mtime": 1775491326.8734918,
+        "teams": [
+            "Brentford FC",
+            "Nottingham Forest",
+            "Brentford",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J1_Sunderland_vs_West_Ham_United-2025-08-16.json": {
+        "mtime": 1775491326.8744884,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J1_Tottenham_Hotspur_vs_Burnley-2025-08-16.json": {
+        "mtime": 1775491326.8754883,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Burnley",
+            "Tottenham Hotspur",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J1_Wolverhampton_Wanderers_vs_Manchester_City-2025-08-16.json": {
+        "mtime": 1775491326.8774893,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J20_AFC_Bournemouth_vs_Arsenal-2026-01-03.json": {
+        "mtime": 1775491326.8949108,
+        "teams": [
+            "Arsenal",
+            "AFC Bournemouth",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J20_Aston_Villa_vs_Nottingham_Forest-2026-01-03.json": {
+        "mtime": 1775491326.897053,
+        "teams": [
+            "Aston Villa",
+            "Nottingham Forest",
+            "Aston Villa FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J20_Brighton_&_Hove_Albion_vs_Burnley-2026-01-03.json": {
+        "mtime": 1775491326.8980527,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J20_Everton_vs_Brentford-2026-01-04.json": {
+        "mtime": 1775491326.899052,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J20_Fulham_vs_Liverpool-2026-01-04.json": {
+        "mtime": 1775491326.9070528,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J20_Leeds_United_vs_Manchester_United-2026-01-04.json": {
+        "mtime": 1775491326.909232,
+        "teams": [
+            "Leeds United FC",
+            "Manchester United FC",
+            "Manchester United",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J20_Manchester_City_vs_Chelsea-2026-01-04.json": {
+        "mtime": 1775491326.911291,
+        "teams": [
+            "Chelsea",
+            "Manchester City",
+            "Manchester City FC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J20_Newcastle_United_vs_Crystal_Palace-2026-01-04.json": {
+        "mtime": 1775491326.911291,
+        "teams": [
+            "Crystal Palace FC",
+            "Newcastle United FC",
+            "Crystal Palace",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J20_Tottenham_Hotspur_vs_Sunderland-2026-01-04.json": {
+        "mtime": 1775491326.911291,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J20_Wolverhampton_Wanderers_vs_West_Ham_United-2026-01-03.json": {
+        "mtime": 1775491326.911291,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "West Ham United",
+            "West Ham United FC",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J21_AFC_Bournemouth_vs_Tottenham_Hotspur-2026-01-07.json": {
+        "mtime": 1775491326.911291,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "AFC Bournemouth",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J21_Arsenal_vs_Liverpool-2026-01-08.json": {
+        "mtime": 1775491326.9339874,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J21_Brentford_vs_Sunderland-2026-01-07.json": {
+        "mtime": 1775491326.9349933,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J21_Burnley_vs_Manchester_United-2026-01-07.json": {
+        "mtime": 1775491326.9361544,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J21_Crystal_Palace_vs_Aston_Villa-2026-01-07.json": {
+        "mtime": 1775491326.9381554,
+        "teams": [
+            "Aston Villa FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J21_Everton_vs_Wolverhampton_Wanderers-2026-01-07.json": {
+        "mtime": 1775491326.939154,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J21_Fulham_vs_Chelsea-2026-01-07.json": {
+        "mtime": 1775491326.9401546,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J21_Manchester_City_vs_Brighton_&_Hove_Albion-2026-01-07.json": {
+        "mtime": 1775491326.9586287,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J21_Newcastle_United_vs_Leeds_United-2026-01-07.json": {
+        "mtime": 1775491326.960754,
+        "teams": [
+            "Leeds United FC",
+            "Newcastle United FC",
+            "Newcastle United",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J21_West_Ham_United_vs_Nottingham_Forest-2026-01-06.json": {
+        "mtime": 1775491326.9617562,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J22_Aston_Villa_vs_Everton-2026-01-18.json": {
+        "mtime": 1775491326.9637554,
+        "teams": [
+            "Aston Villa",
+            "Aston Villa FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J22_Brighton_&_Hove_Albion_vs_AFC_Bournemouth-2026-01-19.json": {
+        "mtime": 1775491326.9647546,
+        "teams": [
+            "Brighton & Hove Albion",
+            "AFC Bournemouth",
+            "Brighton & Hove Albion FC"
+        ]
+    },
+    "Premier_League_J22_Chelsea_vs_Brentford-2026-01-17.json": {
+        "mtime": 1775491326.9657547,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J22_Leeds_United_vs_Fulham-2026-01-17.json": {
+        "mtime": 1775491326.9667559,
+        "teams": [
+            "Fulham FC",
+            "Leeds United FC",
+            "Fulham",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J22_Liverpool_vs_Burnley-2026-01-17.json": {
+        "mtime": 1775491326.9752212,
+        "teams": [
+            "Liverpool",
+            "Burnley",
+            "Liverpool FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J22_Manchester_United_vs_Manchester_City-2026-01-17.json": {
+        "mtime": 1775491326.98418,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J22_Nottingham_Forest_vs_Arsenal-2026-01-17.json": {
+        "mtime": 1775491326.992307,
+        "teams": [
+            "Arsenal",
+            "Nottingham Forest",
+            "Arsenal FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J22_Sunderland_vs_Crystal_Palace-2026-01-17.json": {
+        "mtime": 1775491326.9932983,
+        "teams": [
+            "Crystal Palace",
+            "Crystal Palace FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J22_Tottenham_Hotspur_vs_West_Ham_United-2026-01-17.json": {
+        "mtime": 1775491326.9942944,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "West Ham United",
+            "West Ham United FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J22_Wolverhampton_Wanderers_vs_Newcastle_United-2026-01-18.json": {
+        "mtime": 1775491326.9965086,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Newcastle United FC",
+            "Wolverhampton Wanderers FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J23_AFC_Bournemouth_vs_Liverpool-2026-01-24.json": {
+        "mtime": 1775491327.00553,
+        "teams": [
+            "AFC Bournemouth",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J23_Arsenal_vs_Manchester_United-2026-01-25.json": {
+        "mtime": 1775491327.0140214,
+        "teams": [
+            "Arsenal",
+            "Manchester United FC",
+            "Arsenal FC",
+            "Manchester United"
+        ]
+    },
+    "Premier_League_J23_Brentford_vs_Nottingham_Forest-2026-01-25.json": {
+        "mtime": 1775491327.0150218,
+        "teams": [
+            "Brentford FC",
+            "Nottingham Forest",
+            "Brentford",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J23_Burnley_vs_Tottenham_Hotspur-2026-01-24.json": {
+        "mtime": 1775491327.0160217,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Burnley",
+            "Tottenham Hotspur",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J23_Crystal_Palace_vs_Chelsea-2026-01-25.json": {
+        "mtime": 1775491327.0170217,
+        "teams": [
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J23_Everton_vs_Leeds_United-2026-01-26.json": {
+        "mtime": 1775491327.021022,
+        "teams": [
+            "Leeds United FC",
+            "Everton",
+            "Everton FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J23_Fulham_vs_Brighton_&_Hove_Albion-2026-01-24.json": {
+        "mtime": 1775491327.0220218,
+        "teams": [
+            "Fulham FC",
+            "Brighton & Hove Albion FC",
+            "Fulham",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J23_Manchester_City_vs_Wolverhampton_Wanderers-2026-01-24.json": {
+        "mtime": 1775491327.0418165,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J23_Newcastle_United_vs_Aston_Villa-2026-01-25.json": {
+        "mtime": 1775491327.043817,
+        "teams": [
+            "Newcastle United FC",
+            "Aston Villa FC",
+            "Aston Villa",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J23_West_Ham_United_vs_Sunderland-2026-01-24.json": {
+        "mtime": 1775491327.0448184,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J24_Aston_Villa_vs_Brentford-2026-02-01.json": {
+        "mtime": 1775491327.0458174,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J24_Brighton_&_Hove_Albion_vs_Everton-2026-01-31.json": {
+        "mtime": 1775491327.0468168,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J24_Chelsea_vs_West_Ham_United-2026-01-31.json": {
+        "mtime": 1775491327.048817,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J24_Leeds_United_vs_Arsenal-2026-01-31.json": {
+        "mtime": 1775491327.0589805,
+        "teams": [
+            "Arsenal",
+            "Leeds United FC",
+            "Arsenal FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J24_Liverpool_vs_Newcastle_United-2026-01-31.json": {
+        "mtime": 1775491327.0677512,
+        "teams": [
+            "Liverpool",
+            "Newcastle United FC",
+            "Liverpool FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J24_Manchester_United_vs_Fulham-2026-02-01.json": {
+        "mtime": 1775491327.0687523,
+        "teams": [
+            "Fulham FC",
+            "Manchester United FC",
+            "Fulham",
+            "Manchester United"
+        ]
+    },
+    "Premier_League_J24_Nottingham_Forest_vs_Crystal_Palace-2026-02-01.json": {
+        "mtime": 1775491327.0704336,
+        "teams": [
+            "Nottingham Forest",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J24_Sunderland_vs_Burnley-2026-02-02.json": {
+        "mtime": 1775491327.0714505,
+        "teams": [
+            "Sunderland",
+            "Burnley",
+            "Sunderland AFC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J24_Tottenham_Hotspur_vs_Manchester_City-2026-02-01.json": {
+        "mtime": 1775491327.0795486,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Manchester City",
+            "Manchester City FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J24_Wolverhampton_Wanderers_vs_AFC_Bournemouth-2026-01-31.json": {
+        "mtime": 1775491327.0817077,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "AFC Bournemouth",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J25_AFC_Bournemouth_vs_Aston_Villa-2026-02-07.json": {
+        "mtime": 1775491327.0827065,
+        "teams": [
+            "AFC Bournemouth",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J25_Arsenal_vs_Sunderland-2026-02-07.json": {
+        "mtime": 1775491327.0910254,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J25_Brighton_&_Hove_Albion_vs_Crystal_Palace-2026-02-08.json": {
+        "mtime": 1775491327.0920382,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J25_Burnley_vs_West_Ham_United-2026-02-07.json": {
+        "mtime": 1775491327.0950482,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J25_Fulham_vs_Everton-2026-02-07.json": {
+        "mtime": 1775491327.096905,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J25_Leeds_United_vs_Nottingham_Forest-2026-02-06.json": {
+        "mtime": 1775491327.0979333,
+        "teams": [
+            "Leeds United FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J25_Liverpool_vs_Manchester_City-2026-02-08.json": {
+        "mtime": 1775491327.1059244,
+        "teams": [
+            "Liverpool",
+            "Manchester City FC",
+            "Liverpool FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J25_Manchester_United_vs_Tottenham_Hotspur-2026-02-07.json": {
+        "mtime": 1775491327.1079245,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Manchester United FC",
+            "Manchester United",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J25_Newcastle_United_vs_Brentford-2026-02-07.json": {
+        "mtime": 1775491327.1092727,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J25_Wolverhampton_Wanderers_vs_Chelsea-2026-02-07.json": {
+        "mtime": 1775994081.7490354,
+        "teams": [
+            "Chelsea FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Chelsea"
+        ]
+    },
+    "Premier_League_J25_Wolverhampton_Wanderers_vs_Chelsea-2026-03-17.json": {
+        "mtime": 1774902118.9060247,
+        "teams": [
+            "Chelsea FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Chelsea"
+        ]
+    },
+    "Premier_League_J26_Aston_Villa_vs_Brighton_&_Hove_Albion-2026-02-11.json": {
+        "mtime": 1775491327.1213567,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J26_Brentford_vs_Arsenal-2026-02-12.json": {
+        "mtime": 1775491327.129937,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J26_Chelsea_vs_Leeds_United-2026-02-10.json": {
+        "mtime": 1775491327.131881,
+        "teams": [
+            "Leeds United FC",
+            "Leeds United",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J26_Crystal_Palace_vs_Burnley-2026-02-11.json": {
+        "mtime": 1775491327.132882,
+        "teams": [
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J26_Everton_vs_AFC_Bournemouth-2026-02-10.json": {
+        "mtime": 1775491327.1341655,
+        "teams": [
+            "AFC Bournemouth",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J26_Manchester_City_vs_Fulham-2026-02-11.json": {
+        "mtime": 1775491327.1424954,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J26_Nottingham_Forest_vs_Wolverhampton_Wanderers-2026-02-11.json": {
+        "mtime": 1775491327.1444933,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Nottingham Forest",
+            "Wolverhampton Wanderers FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J26_Sunderland_vs_Liverpool-2026-02-11.json": {
+        "mtime": 1775491327.1520004,
+        "teams": [
+            "Liverpool FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J26_Tottenham_Hotspur_vs_Newcastle_United-2026-02-10.json": {
+        "mtime": 1775491327.1530013,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Newcastle United FC",
+            "Newcastle United",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J26_West_Ham_United_vs_Manchester_United-2026-02-10.json": {
+        "mtime": 1775491327.1550002,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "West Ham United FC",
+            "West Ham United"
+        ]
+    },
+    "Premier_League_J27_Aston_Villa_vs_Leeds_United-2026-02-21.json": {
+        "mtime": 1775491327.1580026,
+        "teams": [
+            "Leeds United FC",
+            "Aston Villa FC",
+            "Aston Villa",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J27_Brentford_vs_Brighton_&_Hove_Albion-2026-02-21.json": {
+        "mtime": 1775491327.1591368,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Brighton & Hove Albion FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J27_Chelsea_vs_Burnley-2026-02-21.json": {
+        "mtime": 1775491327.160138,
+        "teams": [
+            "Burnley",
+            "Chelsea",
+            "Burnley FC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J27_Crystal_Palace_vs_Wolverhampton_Wanderers-2026-02-22.json": {
+        "mtime": 1775491327.1619856,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Crystal Palace FC",
+            "Wolverhampton Wanderers FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J27_Everton_vs_Manchester_United-2026-02-23.json": {
+        "mtime": 1775491327.1630037,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J27_Manchester_City_vs_Newcastle_United-2026-02-21.json": {
+        "mtime": 1775491327.171284,
+        "teams": [
+            "Manchester City",
+            "Newcastle United FC",
+            "Manchester City FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J27_Nottingham_Forest_vs_Liverpool-2026-02-22.json": {
+        "mtime": 1775491327.1812816,
+        "teams": [
+            "Nottingham Forest FC",
+            "Nottingham Forest",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J27_Sunderland_vs_Fulham-2026-02-22.json": {
+        "mtime": 1775491327.1834447,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J27_Tottenham_Hotspur_vs_Arsenal-2026-02-22.json": {
+        "mtime": 1775491327.2000854,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Arsenal FC",
+            "Arsenal",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J27_West_Ham_United_vs_AFC_Bournemouth-2026-02-21.json": {
+        "mtime": 1775491327.2030861,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "AFC Bournemouth"
+        ]
+    },
+    "Premier_League_J28_AFC_Bournemouth_vs_Sunderland-2026-02-28.json": {
+        "mtime": 1775491327.2040844,
+        "teams": [
+            "AFC Bournemouth",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J28_Arsenal_vs_Chelsea-2026-03-01.json": {
+        "mtime": 1775491327.2133155,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J28_Brighton_&_Hove_Albion_vs_Nottingham_Forest-2026-03-01.json": {
+        "mtime": 1775491327.214316,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J28_Burnley_vs_Brentford-2026-02-28.json": {
+        "mtime": 1775491327.2153153,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J28_Fulham_vs_Tottenham_Hotspur-2026-03-01.json": {
+        "mtime": 1775491327.2163153,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Fulham",
+            "Fulham FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J28_Leeds_United_vs_Manchester_City-2026-02-28.json": {
+        "mtime": 1775491327.228318,
+        "teams": [
+            "Leeds United FC",
+            "Leeds United",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J28_Liverpool_vs_West_Ham_United-2026-02-28.json": {
+        "mtime": 1775491327.2369952,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J28_Manchester_United_vs_Crystal_Palace-2026-03-01.json": {
+        "mtime": 1775491327.237994,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J28_Newcastle_United_vs_Everton-2026-02-28.json": {
+        "mtime": 1775491327.239996,
+        "teams": [
+            "Newcastle United FC",
+            "Everton",
+            "Everton FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J29_AFC_Bournemouth_vs_Brentford-2026-03-03.json": {
+        "mtime": 1775491327.2409935,
+        "teams": [
+            "Brentford FC",
+            "AFC Bournemouth",
+            "Brentford"
+        ]
+    },
+    "Premier_League_J29_Aston_Villa_vs_Chelsea-2026-03-04.json": {
+        "mtime": 1775491327.2419941,
+        "teams": [
+            "Aston Villa FC",
+            "Chelsea",
+            "Aston Villa",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J29_Brighton_&_Hove_Albion_vs_Arsenal-2026-03-04.json": {
+        "mtime": 1775491327.2508795,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J29_Everton_vs_Burnley-2026-03-03.json": {
+        "mtime": 1775491327.251878,
+        "teams": [
+            "Everton",
+            "Burnley",
+            "Everton FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J29_Fulham_vs_West_Ham_United-2026-03-04.json": {
+        "mtime": 1775491327.2528782,
+        "teams": [
+            "Fulham FC",
+            "West Ham United",
+            "West Ham United FC",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J29_Leeds_United_vs_Sunderland-2026-03-03.json": {
+        "mtime": 1775491327.253879,
+        "teams": [
+            "Leeds United FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J29_Manchester_City_vs_Nottingham_Forest-2026-03-04.json": {
+        "mtime": 1775491327.2625585,
+        "teams": [
+            "Nottingham Forest",
+            "Manchester City FC",
+            "Nottingham Forest FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J29_Newcastle_United_vs_Manchester_United-2026-03-04.json": {
+        "mtime": 1775491327.2655458,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J29_Tottenham_Hotspur_vs_Crystal_Palace-2026-03-05.json": {
+        "mtime": 1775491327.2675471,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J29_Wolverhampton_Wanderers_vs_Liverpool-2026-03-03.json": {
+        "mtime": 1775491327.2755468,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J2_AFC_Bournemouth_vs_Wolverhampton_Wanderers-2025-08-23.json": {
+        "mtime": 1775491327.2767062,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "AFC Bournemouth",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J2_Arsenal_vs_Leeds_United-2025-08-23.json": {
+        "mtime": 1775491327.2853343,
+        "teams": [
+            "Arsenal",
+            "Leeds United FC",
+            "Arsenal FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J2_Brentford_vs_Aston_Villa-2025-08-23.json": {
+        "mtime": 1775491327.2863328,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J2_Burnley_vs_Sunderland-2025-08-23.json": {
+        "mtime": 1775491327.287424,
+        "teams": [
+            "Sunderland",
+            "Burnley",
+            "Sunderland AFC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J2_Crystal_Palace_vs_Nottingham_Forest-2025-08-24.json": {
+        "mtime": 1775491327.289426,
+        "teams": [
+            "Nottingham Forest",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J2_Everton_vs_Brighton_&_Hove_Albion-2025-08-24.json": {
+        "mtime": 1775491327.2904277,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J2_Fulham_vs_Manchester_United-2025-08-24.json": {
+        "mtime": 1775491327.2914262,
+        "teams": [
+            "Fulham FC",
+            "Manchester United FC",
+            "Fulham",
+            "Manchester United"
+        ]
+    },
+    "Premier_League_J2_Manchester_City_vs_Tottenham_Hotspur-2025-08-23.json": {
+        "mtime": 1775491327.2924266,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Manchester City",
+            "Manchester City FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J2_Newcastle_United_vs_Liverpool-2025-08-25.json": {
+        "mtime": 1775491327.2934258,
+        "teams": [
+            "Newcastle United FC",
+            "Newcastle United",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J2_West_Ham_United_vs_Chelsea-2025-08-22.json": {
+        "mtime": 1775491327.297364,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J30_Arsenal_vs_Everton-2026-03-14.json": {
+        "mtime": 1775491327.3056743,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J30_Brentford_vs_Wolverhampton_Wanderers-2026-03-16.json": {
+        "mtime": 1775491327.3066623,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC"
+        ]
+    },
+    "Premier_League_J30_Burnley_vs_AFC_Bournemouth-2026-03-14.json": {
+        "mtime": 1775491327.3089058,
+        "teams": [
+            "AFC Bournemouth",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J30_Chelsea_vs_Newcastle_United-2026-03-14.json": {
+        "mtime": 1775491327.309907,
+        "teams": [
+            "Newcastle United FC",
+            "Chelsea",
+            "Newcastle United",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J30_Crystal_Palace_vs_Leeds_United-2026-03-15.json": {
+        "mtime": 1775491327.3130183,
+        "teams": [
+            "Leeds United FC",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J30_Liverpool_vs_Tottenham_Hotspur-2026-03-15.json": {
+        "mtime": 1775491327.3210182,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Liverpool",
+            "Liverpool FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J30_Manchester_United_vs_Aston_Villa-2026-03-15.json": {
+        "mtime": 1775491327.3220172,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J30_Nottingham_Forest_vs_Fulham-2026-03-15.json": {
+        "mtime": 1775491327.3230176,
+        "teams": [
+            "Fulham FC",
+            "Nottingham Forest",
+            "Fulham",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J30_Sunderland_vs_Brighton_&_Hove_Albion-2026-03-14.json": {
+        "mtime": 1775491327.3250165,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J30_West_Ham_United_vs_Manchester_City-2026-03-14.json": {
+        "mtime": 1775491327.3329046,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J31_AFC_Bournemouth_vs_Manchester_United-2026-03-20.json": {
+        "mtime": 1775491327.349958,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "AFC Bournemouth"
+        ]
+    },
+    "Premier_League_J31_Aston_Villa_vs_West_Ham_United-2026-03-22.json": {
+        "mtime": 1775491327.350961,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Aston Villa FC",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J31_Brighton_&_Hove_Albion_vs_Liverpool-2026-03-21.json": {
+        "mtime": 1775491327.3601255,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J31_Everton_vs_Chelsea-2026-03-21.json": {
+        "mtime": 1775491327.3611577,
+        "teams": [
+            "Everton",
+            "Chelsea",
+            "Everton FC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J31_Fulham_vs_Burnley-2026-03-21.json": {
+        "mtime": 1775491327.3611577,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J31_Leeds_United_vs_Brentford-2026-03-21.json": {
+        "mtime": 1775491327.3611577,
+        "teams": [
+            "Brentford FC",
+            "Leeds United FC",
+            "Brentford",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J31_Newcastle_United_vs_Sunderland-2026-03-22.json": {
+        "mtime": 1775491327.3611577,
+        "teams": [
+            "Newcastle United FC",
+            "Sunderland",
+            "Sunderland AFC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J31_Tottenham_Hotspur_vs_Nottingham_Forest-2026-03-22.json": {
+        "mtime": 1775491327.3661804,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J31_Wolverhampton_Wanderers_vs_Arsenal-2026-02-18.json": {
+        "mtime": 1775491327.3916936,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Arsenal FC",
+            "Wolverhampton Wanderers FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J3_Aston_Villa_vs_Crystal_Palace-2025-08-31.json": {
+        "mtime": 1775491327.3926983,
+        "teams": [
+            "Crystal Palace FC",
+            "Aston Villa FC",
+            "Crystal Palace",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J3_Brighton_&_Hove_Albion_vs_Manchester_City-2025-08-31.json": {
+        "mtime": 1775491327.3946958,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J3_Chelsea_vs_Fulham-2025-08-30.json": {
+        "mtime": 1775491327.3964572,
+        "teams": [
+            "Fulham FC",
+            "Fulham",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J3_Leeds_United_vs_Newcastle_United-2025-08-30.json": {
+        "mtime": 1775491327.397457,
+        "teams": [
+            "Leeds United FC",
+            "Newcastle United FC",
+            "Leeds United",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J3_Liverpool_vs_Arsenal-2025-08-31.json": {
+        "mtime": 1775491327.405154,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J3_Manchester_United_vs_Burnley-2025-08-30.json": {
+        "mtime": 1775491327.4081438,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J3_Nottingham_Forest_vs_West_Ham_United-2025-08-31.json": {
+        "mtime": 1775491327.4103327,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Nottingham Forest",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J3_Sunderland_vs_Brentford-2025-08-30.json": {
+        "mtime": 1775491327.4114156,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J3_Tottenham_Hotspur_vs_AFC_Bournemouth-2025-08-30.json": {
+        "mtime": 1775491327.4124174,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "AFC Bournemouth",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J3_Wolverhampton_Wanderers_vs_Everton-2025-08-30.json": {
+        "mtime": 1775491327.413418,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J4_AFC_Bournemouth_vs_Brighton_&_Hove_Albion-2025-09-13.json": {
+        "mtime": 1775491327.4151573,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "AFC Bournemouth"
+        ]
+    },
+    "Premier_League_J4_Arsenal_vs_Nottingham_Forest-2025-09-13.json": {
+        "mtime": 1775491327.4323902,
+        "teams": [
+            "Arsenal",
+            "Nottingham Forest",
+            "Arsenal FC",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J4_Brentford_vs_Chelsea-2025-09-13.json": {
+        "mtime": 1775491327.4345376,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J4_Burnley_vs_Liverpool-2025-09-14.json": {
+        "mtime": 1775491327.43574,
+        "teams": [
+            "Liverpool",
+            "Burnley",
+            "Liverpool FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J4_Crystal_Palace_vs_Sunderland-2025-09-13.json": {
+        "mtime": 1775491327.4367442,
+        "teams": [
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Sunderland AFC",
+            "Sunderland"
+        ]
+    },
+    "Premier_League_J4_Everton_vs_Aston_Villa-2025-09-13.json": {
+        "mtime": 1775491327.4397428,
+        "teams": [
+            "Aston Villa",
+            "Aston Villa FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J4_Fulham_vs_Leeds_United-2025-09-13.json": {
+        "mtime": 1775491327.4407413,
+        "teams": [
+            "Fulham FC",
+            "Leeds United FC",
+            "Fulham",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J4_Manchester_City_vs_Manchester_United-2025-09-14.json": {
+        "mtime": 1775491327.442744,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J4_Newcastle_United_vs_Wolverhampton_Wanderers-2025-09-13.json": {
+        "mtime": 1775491327.4437432,
+        "teams": [
+            "Newcastle United FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J4_West_Ham_United_vs_Tottenham_Hotspur-2025-09-13.json": {
+        "mtime": 1775491327.4447422,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "West Ham United",
+            "West Ham United FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J5_AFC_Bournemouth_vs_Newcastle_United-2025-09-21.json": {
+        "mtime": 1775491327.4457655,
+        "teams": [
+            "AFC Bournemouth",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J5_Arsenal_vs_Manchester_City-2025-09-21.json": {
+        "mtime": 1775491327.454824,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J5_Brighton_&_Hove_Albion_vs_Tottenham_Hotspur-2025-09-20.json": {
+        "mtime": 1775491327.4568162,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Brighton & Hove Albion FC",
+            "Brighton & Hove Albion",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J5_Burnley_vs_Nottingham_Forest-2025-09-20.json": {
+        "mtime": 1775491327.4578137,
+        "teams": [
+            "Nottingham Forest",
+            "Burnley",
+            "Nottingham Forest FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J5_Fulham_vs_Brentford-2025-09-20.json": {
+        "mtime": 1775491327.4589512,
+        "teams": [
+            "Fulham FC",
+            "Brentford",
+            "Fulham",
+            "Brentford FC"
+        ]
+    },
+    "Premier_League_J5_Liverpool_vs_Everton-2025-09-20.json": {
+        "mtime": 1775491327.4599533,
+        "teams": [
+            "Liverpool FC",
+            "Everton",
+            "Everton FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J5_Manchester_United_vs_Chelsea-2025-09-20.json": {
+        "mtime": 1775491327.4620793,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J5_Sunderland_vs_Aston_Villa-2025-09-21.json": {
+        "mtime": 1775491327.4630787,
+        "teams": [
+            "Aston Villa",
+            "Aston Villa FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J5_West_Ham_United_vs_Crystal_Palace-2025-09-20.json": {
+        "mtime": 1775491327.4640803,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J5_Wolverhampton_Wanderers_vs_Leeds_United-2025-09-20.json": {
+        "mtime": 1775491327.4660785,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Leeds United FC",
+            "Wolverhampton Wanderers FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J6_Aston_Villa_vs_Fulham-2025-09-28.json": {
+        "mtime": 1775491327.4670782,
+        "teams": [
+            "Fulham FC",
+            "Aston Villa FC",
+            "Aston Villa",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J6_Brentford_vs_Manchester_United-2025-09-27.json": {
+        "mtime": 1775491327.4700797,
+        "teams": [
+            "Brentford FC",
+            "Manchester United FC",
+            "Brentford",
+            "Manchester United"
+        ]
+    },
+    "Premier_League_J6_Chelsea_vs_Brighton_&_Hove_Albion-2025-09-27.json": {
+        "mtime": 1775491327.4720783,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Chelsea",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J6_Crystal_Palace_vs_Liverpool-2025-09-27.json": {
+        "mtime": 1775491327.4730773,
+        "teams": [
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J6_Everton_vs_West_Ham_United-2025-09-29.json": {
+        "mtime": 1775491327.4740767,
+        "teams": [
+            "West Ham United",
+            "West Ham United FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J6_Leeds_United_vs_AFC_Bournemouth-2025-09-27.json": {
+        "mtime": 1775491327.475077,
+        "teams": [
+            "Leeds United FC",
+            "AFC Bournemouth",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J6_Manchester_City_vs_Burnley-2025-09-27.json": {
+        "mtime": 1775491327.494035,
+        "teams": [
+            "Manchester City",
+            "Burnley",
+            "Manchester City FC",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J6_Newcastle_United_vs_Arsenal-2025-09-28.json": {
+        "mtime": 1775491327.5036068,
+        "teams": [
+            "Newcastle United FC",
+            "Arsenal FC",
+            "Newcastle United",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J6_Nottingham_Forest_vs_Sunderland-2025-09-27.json": {
+        "mtime": 1775491327.505407,
+        "teams": [
+            "Nottingham Forest FC",
+            "Sunderland",
+            "Nottingham Forest",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J6_Tottenham_Hotspur_vs_Wolverhampton_Wanderers-2025-09-27.json": {
+        "mtime": 1775491327.5064065,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J7_AFC_Bournemouth_vs_Fulham-2025-10-03.json": {
+        "mtime": 1775491327.5074062,
+        "teams": [
+            "Fulham FC",
+            "AFC Bournemouth",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J7_Arsenal_vs_West_Ham_United-2025-10-04.json": {
+        "mtime": 1775491327.516724,
+        "teams": [
+            "Arsenal",
+            "West Ham United",
+            "West Ham United FC",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J7_Aston_Villa_vs_Burnley-2025-10-05.json": {
+        "mtime": 1775491327.5187192,
+        "teams": [
+            "Aston Villa FC",
+            "Burnley",
+            "Aston Villa",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J7_Brentford_vs_Manchester_City-2025-10-05.json": {
+        "mtime": 1775491327.5197184,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Manchester City FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J7_Chelsea_vs_Liverpool-2025-10-04.json": {
+        "mtime": 1775491327.5207186,
+        "teams": [
+            "Liverpool",
+            "Chelsea",
+            "Liverpool FC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J7_Everton_vs_Crystal_Palace-2025-10-05.json": {
+        "mtime": 1775491327.5217185,
+        "teams": [
+            "Crystal Palace",
+            "Crystal Palace FC",
+            "Everton",
+            "Everton FC"
+        ]
+    },
+    "Premier_League_J7_Leeds_United_vs_Tottenham_Hotspur-2025-10-04.json": {
+        "mtime": 1775491327.5227187,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Leeds United FC",
+            "Leeds United",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J7_Manchester_United_vs_Sunderland-2025-10-04.json": {
+        "mtime": 1775491327.5247195,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J7_Newcastle_United_vs_Nottingham_Forest-2025-10-05.json": {
+        "mtime": 1775491327.525718,
+        "teams": [
+            "Nottingham Forest",
+            "Newcastle United FC",
+            "Nottingham Forest FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J7_Wolverhampton_Wanderers_vs_Brighton_&_Hove_Albion-2025-10-05.json": {
+        "mtime": 1775491327.5267901,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Brighton & Hove Albion FC",
+            "Wolverhampton Wanderers FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J8_Brighton_&_Hove_Albion_vs_Newcastle_United-2025-10-18.json": {
+        "mtime": 1775491327.5277672,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Newcastle United FC",
+            "Newcastle United"
+        ]
+    },
+    "Premier_League_J8_Burnley_vs_Leeds_United-2025-10-18.json": {
+        "mtime": 1775491327.5287652,
+        "teams": [
+            "Leeds United",
+            "Leeds United FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J8_Crystal_Palace_vs_AFC_Bournemouth-2025-10-18.json": {
+        "mtime": 1775491327.5297651,
+        "teams": [
+            "AFC Bournemouth",
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J8_Fulham_vs_Arsenal-2025-10-18.json": {
+        "mtime": 1775491327.539027,
+        "teams": [
+            "Fulham FC",
+            "Arsenal FC",
+            "Arsenal",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J8_Liverpool_vs_Manchester_United-2025-10-19.json": {
+        "mtime": 1775491327.5480564,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J8_Manchester_City_vs_Everton-2025-10-18.json": {
+        "mtime": 1775491327.5490544,
+        "teams": [
+            "Everton",
+            "Manchester City FC",
+            "Everton FC",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J8_Nottingham_Forest_vs_Chelsea-2025-10-18.json": {
+        "mtime": 1775491327.5500586,
+        "teams": [
+            "Nottingham Forest",
+            "Chelsea",
+            "Nottingham Forest FC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J8_Sunderland_vs_Wolverhampton_Wanderers-2025-10-18.json": {
+        "mtime": 1775491327.552055,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Sunderland",
+            "Sunderland AFC"
+        ]
+    },
+    "Premier_League_J8_Tottenham_Hotspur_vs_Aston_Villa-2025-10-19.json": {
+        "mtime": 1775491327.5530548,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Aston Villa FC",
+            "Aston Villa",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J8_West_Ham_United_vs_Brentford-2025-10-20.json": {
+        "mtime": 1775491327.5540547,
+        "teams": [
+            "Brentford FC",
+            "West Ham United",
+            "West Ham United FC",
+            "Brentford"
+        ]
+    },
+    "Premier_League_J9_AFC_Bournemouth_vs_Nottingham_Forest-2025-10-26.json": {
+        "mtime": 1775491327.5550544,
+        "teams": [
+            "AFC Bournemouth",
+            "Nottingham Forest",
+            "Nottingham Forest FC"
+        ]
+    },
+    "Premier_League_J9_Arsenal_vs_Crystal_Palace-2025-10-26.json": {
+        "mtime": 1775491327.5642824,
+        "teams": [
+            "Arsenal",
+            "Crystal Palace FC",
+            "Crystal Palace",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J9_Aston_Villa_vs_Manchester_City-2025-10-26.json": {
+        "mtime": 1775491327.5722806,
+        "teams": [
+            "Aston Villa FC",
+            "Manchester City FC",
+            "Aston Villa",
+            "Manchester City"
+        ]
+    },
+    "Premier_League_J9_Brentford_vs_Liverpool-2025-10-25.json": {
+        "mtime": 1775491327.5742807,
+        "teams": [
+            "Brentford FC",
+            "Brentford",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "Premier_League_J9_Chelsea_vs_Sunderland-2025-10-25.json": {
+        "mtime": 1775491327.5752807,
+        "teams": [
+            "Sunderland",
+            "Chelsea",
+            "Sunderland AFC",
+            "Chelsea FC"
+        ]
+    },
+    "Premier_League_J9_Everton_vs_Tottenham_Hotspur-2025-10-26.json": {
+        "mtime": 1775491327.576281,
+        "teams": [
+            "Tottenham Hotspur FC",
+            "Everton",
+            "Everton FC",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J9_Leeds_United_vs_West_Ham_United-2025-10-24.json": {
+        "mtime": 1775491327.5772815,
+        "teams": [
+            "Leeds United FC",
+            "West Ham United FC",
+            "West Ham United",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J9_Manchester_United_vs_Brighton_&_Hove_Albion-2025-10-25.json": {
+        "mtime": 1775491327.5812576,
+        "teams": [
+            "Manchester United",
+            "Manchester United FC",
+            "Brighton & Hove Albion FC",
+            "Brighton & Hove Albion"
+        ]
+    },
+    "Premier_League_J9_Newcastle_United_vs_Fulham-2025-10-25.json": {
+        "mtime": 1775491327.581865,
+        "teams": [
+            "Fulham FC",
+            "Newcastle United FC",
+            "Newcastle United",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J9_Wolverhampton_Wanderers_vs_Burnley-2025-10-26.json": {
+        "mtime": 1775491327.5828638,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Burnley",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J32_Arsenal_vs_AFC_Bournemouth-2026-04-11.json": {
+        "mtime": 1775993416.6037216,
+        "teams": [
+            "AFC Bournemouth",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J32_Brentford_vs_Everton-2026-04-11.json": {
+        "mtime": 1775945986.1674042,
+        "teams": [
+            "Everton",
+            "Brentford"
+        ]
+    },
+    "Premier_League_J32_Burnley_vs_Brighton_&_Hove_Albion-2026-04-11.json": {
+        "mtime": 1775945986.1694024,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Burnley"
+        ]
+    },
+    "Premier_League_J32_Liverpool_vs_Fulham-2026-04-11.json": {
+        "mtime": 1775946807.2163272,
+        "teams": [
+            "Liverpool",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J32_West_Ham_United_vs_Wolverhampton_Wanderers-2026-04-10.json": {
+        "mtime": 1775946807.2207434,
+        "teams": [
+            "West Ham United",
+            "Wolverhampton Wanderers"
+        ]
+    },
+    "Premier_League_J32_Chelsea_vs_Manchester_City-2026-04-12.json": {
+        "mtime": 1776042268.571297,
+        "teams": [
+            "Manchester City",
+            "Chelsea"
+        ]
+    },
+    "Premier_League_J32_Crystal_Palace_vs_Newcastle_United-2026-04-12.json": {
+        "mtime": 1776040663.3631501,
+        "teams": [
+            "Newcastle United",
+            "Crystal Palace"
+        ]
+    },
+    "Premier_League_J32_Nottingham_Forest_vs_Aston_Villa-2026-04-12.json": {
+        "mtime": 1776040663.3688185,
+        "teams": [
+            "Aston Villa",
+            "Nottingham Forest"
+        ]
+    },
+    "Premier_League_J32_Sunderland_vs_Tottenham_Hotspur-2026-04-12.json": {
+        "mtime": 1776040663.3759727,
+        "teams": [
+            "Sunderland",
+            "Tottenham Hotspur"
+        ]
+    },
+    "Premier_League_J32_Manchester_United_vs_Leeds_United-2026-04-13.json": {
+        "mtime": 1776116420.4303823,
+        "teams": [
+            "Manchester United",
+            "Leeds United"
+        ]
+    }
+}

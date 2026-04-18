@@ -1,0 +1,450 @@
+{
+    "FA_Cup_J_Arsenal_vs_Wigan_Athletic-2026-02-15.json": {
+        "mtime": 1774435665.8970199,
+        "teams": [
+            "Arsenal FC",
+            "Wigan Athletic FC",
+            "Arsenal",
+            "Wigan Athletic"
+        ]
+    },
+    "FA_Cup_J_Mansfield_Town_vs_Arsenal-2026-03-07.json": {
+        "mtime": 1775316660.7355697,
+        "teams": [
+            "Mansfield Town FC",
+            "Mansfield Town",
+            "Arsenal",
+            "Arsenal FC"
+        ]
+    },
+    "FA_Cup_J_Portsmouth_vs_Arsenal-2026-01-11.json": {
+        "mtime": 1774435545.0601637,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Portsmouth",
+            "Portsmouth FC"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Brighton_&_Hove_Albion-2025-10-29.json": {
+        "mtime": 1774274743.863867,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Arsenal FC",
+            "Arsenal",
+            "Brighton & Hove Albion FC"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Chelsea-2026-02-03.json": {
+        "mtime": 1774274810.6120899,
+        "teams": [
+            "Chelsea FC",
+            "Arsenal FC",
+            "Chelsea",
+            "Arsenal"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Crystal_Palace-2025-12-23.json": {
+        "mtime": 1774274876.5870335,
+        "teams": [
+            "Crystal Palace",
+            "Arsenal FC",
+            "Arsenal",
+            "Crystal Palace FC"
+        ]
+    },
+    "League_Cup_J_Arsenal_vs_Manchester_City-2026-03-22.json": {
+        "mtime": 1774274942.7626152,
+        "teams": [
+            "Manchester City",
+            "Manchester City FC",
+            "Arsenal",
+            "Arsenal FC"
+        ]
+    },
+    "League_Cup_J_Chelsea_vs_Arsenal-2026-01-14.json": {
+        "mtime": 1774275025.2451012,
+        "teams": [
+            "Chelsea FC",
+            "Arsenal FC",
+            "Chelsea",
+            "Arsenal"
+        ]
+    },
+    "League_Cup_J_Port_Vale_vs_Arsenal-2025-09-24.json": {
+        "mtime": 1774275078.2098389,
+        "teams": [
+            "Port Vale",
+            "Arsenal FC",
+            "Port Vale FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J10_Burnley_vs_Arsenal-2025-11-01.json": {
+        "mtime": 1773996443.4667768,
+        "teams": [
+            "Arsenal FC",
+            "Burnley",
+            "Arsenal",
+            "Burnley FC"
+        ]
+    },
+    "Premier_League_J11_Sunderland_vs_Arsenal-2025-11-08.json": {
+        "mtime": 1773996443.468763,
+        "teams": [
+            "Sunderland",
+            "Arsenal FC",
+            "Sunderland AFC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J12_Arsenal_vs_Tottenham_Hotspur-2025-11-23.json": {
+        "mtime": 1773996443.4717743,
+        "teams": [
+            "Tottenham Hotspur",
+            "Tottenham Hotspur FC",
+            "Arsenal",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J13_Chelsea_vs_Arsenal-2025-11-30.json": {
+        "mtime": 1773996443.4737637,
+        "teams": [
+            "Chelsea FC",
+            "Arsenal FC",
+            "Chelsea",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J14_Arsenal_vs_Brentford-2025-12-03.json": {
+        "mtime": 1773996443.487776,
+        "teams": [
+            "Brentford FC",
+            "Arsenal FC",
+            "Brentford",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J15_Aston_Villa_vs_Arsenal-2025-12-06.json": {
+        "mtime": 1773996443.4887755,
+        "teams": [
+            "Arsenal FC",
+            "Aston Villa FC",
+            "Arsenal",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J16_Arsenal_vs_Wolverhampton_Wanderers-2025-12-13.json": {
+        "mtime": 1773996443.4897685,
+        "teams": [
+            "Arsenal FC",
+            "Wolverhampton Wanderers FC",
+            "Wolverhampton Wanderers",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J17_Everton_vs_Arsenal-2025-12-20.json": {
+        "mtime": 1773996443.4907663,
+        "teams": [
+            "Arsenal FC",
+            "Everton FC",
+            "Arsenal",
+            "Everton"
+        ]
+    },
+    "Premier_League_J18_Arsenal_vs_Brighton_&_Hove_Albion-2025-12-27.json": {
+        "mtime": 1773996443.4917653,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Arsenal FC",
+            "Arsenal",
+            "Brighton & Hove Albion FC"
+        ]
+    },
+    "Premier_League_J19_Arsenal_vs_Aston_Villa-2025-12-30.json": {
+        "mtime": 1773996443.4927657,
+        "teams": [
+            "Arsenal FC",
+            "Aston Villa FC",
+            "Arsenal",
+            "Aston Villa"
+        ]
+    },
+    "Premier_League_J1_Manchester_United_vs_Arsenal-2025-08-17.json": {
+        "mtime": 1773996443.4972918,
+        "teams": [
+            "Manchester United FC",
+            "Manchester United",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J20_AFC_Bournemouth_vs_Arsenal-2026-01-03.json": {
+        "mtime": 1773996443.4982908,
+        "teams": [
+            "AFC Bournemouth",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J21_Arsenal_vs_Liverpool-2026-01-08.json": {
+        "mtime": 1773996443.4992917,
+        "teams": [
+            "Liverpool",
+            "Arsenal FC",
+            "Arsenal",
+            "Liverpool FC"
+        ]
+    },
+    "Premier_League_J22_Nottingham_Forest_vs_Arsenal-2026-01-17.json": {
+        "mtime": 1773996443.5008059,
+        "teams": [
+            "Nottingham Forest FC",
+            "Arsenal FC",
+            "Arsenal",
+            "Nottingham Forest"
+        ]
+    },
+    "Premier_League_J23_Arsenal_vs_Manchester_United-2026-01-25.json": {
+        "mtime": 1773996443.5018175,
+        "teams": [
+            "Manchester United FC",
+            "Manchester United",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J24_Leeds_United_vs_Arsenal-2026-01-31.json": {
+        "mtime": 1773996443.5028152,
+        "teams": [
+            "Arsenal FC",
+            "Leeds United",
+            "Leeds United FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J25_Arsenal_vs_Sunderland-2026-02-07.json": {
+        "mtime": 1773996443.5038173,
+        "teams": [
+            "Sunderland",
+            "Arsenal FC",
+            "Sunderland AFC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J26_Brentford_vs_Arsenal-2026-02-12.json": {
+        "mtime": 1773996443.5048165,
+        "teams": [
+            "Brentford FC",
+            "Arsenal FC",
+            "Brentford",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J27_Tottenham_Hotspur_vs_Arsenal-2026-02-22.json": {
+        "mtime": 1773996443.5068161,
+        "teams": [
+            "Tottenham Hotspur",
+            "Tottenham Hotspur FC",
+            "Arsenal",
+            "Arsenal FC"
+        ]
+    },
+    "Premier_League_J28_Arsenal_vs_Chelsea-2026-03-01.json": {
+        "mtime": 1773996443.5068161,
+        "teams": [
+            "Chelsea FC",
+            "Arsenal FC",
+            "Chelsea",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J29_Brighton_&_Hove_Albion_vs_Arsenal-2026-03-04.json": {
+        "mtime": 1773996443.508818,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Arsenal FC",
+            "Arsenal",
+            "Brighton & Hove Albion FC"
+        ]
+    },
+    "Premier_League_J2_Arsenal_vs_Leeds_United-2025-08-23.json": {
+        "mtime": 1773996443.5109153,
+        "teams": [
+            "Arsenal FC",
+            "Arsenal",
+            "Leeds United FC",
+            "Leeds United"
+        ]
+    },
+    "Premier_League_J30_Arsenal_vs_Everton-2026-03-14.json": {
+        "mtime": 1773996443.5119061,
+        "teams": [
+            "Arsenal FC",
+            "Everton FC",
+            "Arsenal",
+            "Everton"
+        ]
+    },
+    "Premier_League_J31_Wolverhampton_Wanderers_vs_Arsenal-2026-02-18.json": {
+        "mtime": 1773996443.512902,
+        "teams": [
+            "Arsenal FC",
+            "Wolverhampton Wanderers FC",
+            "Wolverhampton Wanderers",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J3_Liverpool_vs_Arsenal-2025-08-31.json": {
+        "mtime": 1773996443.5259838,
+        "teams": [
+            "Liverpool",
+            "Arsenal FC",
+            "Arsenal",
+            "Liverpool FC"
+        ]
+    },
+    "Premier_League_J4_Arsenal_vs_Nottingham_Forest-2025-09-13.json": {
+        "mtime": 1773996443.5269852,
+        "teams": [
+            "Nottingham Forest FC",
+            "Arsenal FC",
+            "Arsenal",
+            "Nottingham Forest"
+        ]
+    },
+    "Premier_League_J5_Arsenal_vs_Manchester_City-2025-09-21.json": {
+        "mtime": 1773996443.528983,
+        "teams": [
+            "Manchester City",
+            "Arsenal FC",
+            "Manchester City FC",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J6_Newcastle_United_vs_Arsenal-2025-09-28.json": {
+        "mtime": 1773996443.534996,
+        "teams": [
+            "Newcastle United",
+            "Arsenal FC",
+            "Arsenal",
+            "Newcastle United FC"
+        ]
+    },
+    "Premier_League_J7_Arsenal_vs_West_Ham_United-2025-10-04.json": {
+        "mtime": 1773996443.5359848,
+        "teams": [
+            "West Ham United FC",
+            "Arsenal FC",
+            "West Ham United",
+            "Arsenal"
+        ]
+    },
+    "Premier_League_J8_Fulham_vs_Arsenal-2025-10-18.json": {
+        "mtime": 1773996443.537996,
+        "teams": [
+            "Arsenal FC",
+            "Arsenal",
+            "Fulham FC",
+            "Fulham"
+        ]
+    },
+    "Premier_League_J9_Arsenal_vs_Crystal_Palace-2025-10-26.json": {
+        "mtime": 1773996443.5501242,
+        "teams": [
+            "Crystal Palace",
+            "Arsenal FC",
+            "Arsenal",
+            "Crystal Palace FC"
+        ]
+    },
+    "UEFA_Champions_League_J1_Athletic_Club_vs_Arsenal-2025-09-16.json": {
+        "mtime": 1773997207.1645892,
+        "teams": [
+            "Athletic Club",
+            "Arsenal FC",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J2_Arsenal_vs_Olympiakos_Piraeus-2025-10-01.json": {
+        "mtime": 1773997207.1746376,
+        "teams": [
+            "Arsenal FC",
+            "Arsenal",
+            "Olympiakos Piraeus",
+            "Olympiakos CFP"
+        ]
+    },
+    "UEFA_Champions_League_J3_Arsenal_vs_Atl\u00e9tico_de_Madrid-2025-10-21.json": {
+        "mtime": 1773997207.1848228,
+        "teams": [
+            "Atl\u00e9tico de Madrid",
+            "Arsenal FC",
+            "Arsenal",
+            "Club Atl\u00e9tico de Madrid"
+        ]
+    },
+    "UEFA_Champions_League_J4_Slavia_Praha_vs_Arsenal-2025-11-04.json": {
+        "mtime": 1773997207.1848228,
+        "teams": [
+            "Slavia Praha",
+            "Arsenal FC",
+            "SK Slavia Praha",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J5_Arsenal_vs_Bayern_M\u00fcnchen-2025-11-26.json": {
+        "mtime": 1773997207.1848228,
+        "teams": [
+            "FC Bayern M\u00fcnchen",
+            "Arsenal FC",
+            "Arsenal",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "UEFA_Champions_League_J6_Club_Brugge_vs_Arsenal-2025-12-10.json": {
+        "mtime": 1773997207.2009768,
+        "teams": [
+            "Arsenal FC",
+            "Club Brugge KV",
+            "Arsenal",
+            "Club Brugge"
+        ]
+    },
+    "UEFA_Champions_League_J7_Internazionale_vs_Arsenal-2026-01-20.json": {
+        "mtime": 1774291975.2565658,
+        "teams": [
+            "Internazionale",
+            "Arsenal FC",
+            "FC Internazionale Milano",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J8_Arsenal_vs_Kairat-2026-01-28.json": {
+        "mtime": 1774275729.5779588,
+        "teams": [
+            "Arsenal FC",
+            "FK Kairat Almaty",
+            "Kairat",
+            "Arsenal"
+        ]
+    },
+    "UEFA_Champions_League_J_Arsenal_vs_Bayer_Leverkusen-2026-03-17.json": {
+        "mtime": 1773997207.2298467,
+        "teams": [
+            "Bayer Leverkusen",
+            "Arsenal FC",
+            "Arsenal",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "UEFA_Champions_League_J_Bayer_Leverkusen_vs_Arsenal-2026-03-11.json": {
+        "mtime": 1773997207.2298467,
+        "teams": [
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "Arsenal",
+            "Arsenal FC"
+        ]
+    }
+}

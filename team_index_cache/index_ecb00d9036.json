@@ -1,0 +1,2237 @@
+{
+    "Bundesliga_J10_Bayer_Leverkusen_vs_Heidenheim-2025-11-08.json": {
+        "mtime": 1775491333.9063556,
+        "teams": [
+            "Heidenheim",
+            "Bayer Leverkusen",
+            "1. FC Heidenheim 1846",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J10_Borussia_M'gladbach_vs_K\u00f6ln-2025-11-08.json": {
+        "mtime": 1775491333.9074936,
+        "teams": [
+            "K\u00f6ln",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J10_Eintracht_Frankfurt_vs_Mainz_05-2025-11-09.json": {
+        "mtime": 1775491333.9085565,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Eintracht Frankfurt",
+            "Mainz 05"
+        ]
+    },
+    "Bundesliga_J10_Freiburg_vs_St._Pauli-2025-11-09.json": {
+        "mtime": 1775491333.9105575,
+        "teams": [
+            "Freiburg",
+            "St. Pauli",
+            "SC Freiburg",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J10_Hamburger_SV_vs_Borussia_Dortmund-2025-11-08.json": {
+        "mtime": 1775491333.9117217,
+        "teams": [
+            "Borussia Dortmund",
+            "Hamburger SV",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J10_Hoffenheim_vs_RB_Leipzig-2025-11-08.json": {
+        "mtime": 1775491333.9127393,
+        "teams": [
+            "Hoffenheim",
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J10_Stuttgart_vs_Augsburg-2025-11-09.json": {
+        "mtime": 1775491333.91375,
+        "teams": [
+            "Stuttgart",
+            "Augsburg",
+            "VfB Stuttgart 1893",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J10_Union_Berlin_vs_Bayern_M\u00fcnchen-2025-11-08.json": {
+        "mtime": 1775491333.9446063,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "FC Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J10_Werder_Bremen_vs_Wolfsburg-2025-11-07.json": {
+        "mtime": 1775491333.9462628,
+        "teams": [
+            "Werder Bremen",
+            "VfL Wolfsburg",
+            "Wolfsburg",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J11_Augsburg_vs_Hamburger_SV-2025-11-22.json": {
+        "mtime": 1775491333.9472613,
+        "teams": [
+            "Augsburg",
+            "Hamburger SV",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J11_Bayern_M\u00fcnchen_vs_Freiburg-2025-11-22.json": {
+        "mtime": 1775491333.948261,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Freiburg",
+            "FC Bayern M\u00fcnchen",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J11_Borussia_Dortmund_vs_Stuttgart-2025-11-22.json": {
+        "mtime": 1775491333.9492614,
+        "teams": [
+            "Borussia Dortmund",
+            "VfB Stuttgart 1893",
+            "Stuttgart",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J11_Heidenheim_vs_Borussia_M'gladbach-2025-11-22.json": {
+        "mtime": 1775491333.9512956,
+        "teams": [
+            "Heidenheim",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J11_K\u00f6ln_vs_Eintracht_Frankfurt-2025-11-22.json": {
+        "mtime": 1775491333.9523122,
+        "teams": [
+            "Eintracht Frankfurt",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J11_Mainz_05_vs_Hoffenheim-2025-11-21.json": {
+        "mtime": 1775491333.9542663,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J11_RB_Leipzig_vs_Werder_Bremen-2025-11-23.json": {
+        "mtime": 1775491333.9547975,
+        "teams": [
+            "Werder Bremen",
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J11_St._Pauli_vs_Union_Berlin-2025-11-23.json": {
+        "mtime": 1775491333.9567187,
+        "teams": [
+            "St. Pauli",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J11_Wolfsburg_vs_Bayer_Leverkusen-2025-11-22.json": {
+        "mtime": 1775491333.9577315,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J12_Bayer_Leverkusen_vs_Borussia_Dortmund-2025-11-29.json": {
+        "mtime": 1775491333.959904,
+        "teams": [
+            "Borussia Dortmund",
+            "Bayer 04 Leverkusen",
+            "Bayer Leverkusen",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J12_Bayern_M\u00fcnchen_vs_St._Pauli-2025-11-29.json": {
+        "mtime": 1775491333.958905,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "St. Pauli",
+            "FC Bayern M\u00fcnchen",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J12_Borussia_M'gladbach_vs_RB_Leipzig-2025-11-28.json": {
+        "mtime": 1775491333.9609041,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J12_Eintracht_Frankfurt_vs_Wolfsburg-2025-11-30.json": {
+        "mtime": 1775491333.9620118,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Eintracht Frankfurt"
+        ]
+    },
+    "Bundesliga_J12_Freiburg_vs_Mainz_05-2025-11-30.json": {
+        "mtime": 1775491333.963014,
+        "teams": [
+            "Freiburg",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J12_Hamburger_SV_vs_Stuttgart-2025-11-30.json": {
+        "mtime": 1775491333.964013,
+        "teams": [
+            "Stuttgart",
+            "VfB Stuttgart 1893",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J12_Hoffenheim_vs_Augsburg-2025-11-29.json": {
+        "mtime": 1775491333.966015,
+        "teams": [
+            "Augsburg",
+            "FC Augsburg",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J12_Union_Berlin_vs_Heidenheim-2025-11-29.json": {
+        "mtime": 1775491333.9670155,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "1. FC Heidenheim 1846",
+            "Heidenheim"
+        ]
+    },
+    "Bundesliga_J12_Werder_Bremen_vs_K\u00f6ln-2025-11-29.json": {
+        "mtime": 1775491333.9680133,
+        "teams": [
+            "Werder Bremen",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J13_Augsburg_vs_Bayer_Leverkusen-2025-12-06.json": {
+        "mtime": 1775491333.9720132,
+        "teams": [
+            "Augsburg",
+            "Bayer Leverkusen",
+            "FC Augsburg",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J13_Borussia_Dortmund_vs_Hoffenheim-2025-12-07.json": {
+        "mtime": 1775491333.9730165,
+        "teams": [
+            "Borussia Dortmund",
+            "Hoffenheim",
+            "BV Borussia 09 Dortmund",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J13_Hamburger_SV_vs_Werder_Bremen-2025-12-07.json": {
+        "mtime": 1775491333.9750147,
+        "teams": [
+            "Werder Bremen",
+            "Hamburger SV",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J13_Heidenheim_vs_Freiburg-2025-12-06.json": {
+        "mtime": 1775491333.9761162,
+        "teams": [
+            "Freiburg",
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J13_K\u00f6ln_vs_St._Pauli-2025-12-06.json": {
+        "mtime": 1775491333.9766543,
+        "teams": [
+            "St. Pauli",
+            "K\u00f6ln",
+            "FC St. Pauli",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J13_Mainz_05_vs_Borussia_M'gladbach-2025-12-05.json": {
+        "mtime": 1775491333.9786348,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J13_RB_Leipzig_vs_Eintracht_Frankfurt-2025-12-06.json": {
+        "mtime": 1775491333.9797685,
+        "teams": [
+            "Eintracht Frankfurt",
+            "RasenBallsport Leipzig",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J13_Stuttgart_vs_Bayern_M\u00fcnchen-2025-12-06.json": {
+        "mtime": 1775491333.988669,
+        "teams": [
+            "Stuttgart",
+            "Bayern M\u00fcnchen",
+            "VfB Stuttgart 1893",
+            "FC Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J13_Wolfsburg_vs_Union_Berlin-2025-12-06.json": {
+        "mtime": 1775491333.9896686,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Union Berlin",
+            "1. FC Union Berlin"
+        ]
+    },
+    "Bundesliga_J14_Bayer_Leverkusen_vs_K\u00f6ln-2025-12-13.json": {
+        "mtime": 1775491334.0080626,
+        "teams": [
+            "K\u00f6ln",
+            "Bayer 04 Leverkusen",
+            "Bayer Leverkusen",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J14_Bayern_M\u00fcnchen_vs_Mainz_05-2025-12-14.json": {
+        "mtime": 1775491334.007056,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "FC Bayern M\u00fcnchen",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J14_Borussia_M'gladbach_vs_Wolfsburg-2025-12-13.json": {
+        "mtime": 1775491334.0092473,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J14_Eintracht_Frankfurt_vs_Augsburg-2025-12-13.json": {
+        "mtime": 1775491334.0102472,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Augsburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J14_Freiburg_vs_Borussia_Dortmund-2025-12-14.json": {
+        "mtime": 1775491334.0112467,
+        "teams": [
+            "Borussia Dortmund",
+            "Freiburg",
+            "SC Freiburg",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J14_Hoffenheim_vs_Hamburger_SV-2025-12-13.json": {
+        "mtime": 1775491334.012364,
+        "teams": [
+            "Hamburger SV",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J14_St._Pauli_vs_Heidenheim-2025-12-13.json": {
+        "mtime": 1775491334.0133653,
+        "teams": [
+            "Heidenheim",
+            "St. Pauli",
+            "1. FC Heidenheim 1846",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J14_Union_Berlin_vs_RB_Leipzig-2025-12-12.json": {
+        "mtime": 1775491334.0153654,
+        "teams": [
+            "Union Berlin",
+            "RasenBallsport Leipzig",
+            "1. FC Union Berlin",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J14_Werder_Bremen_vs_Stuttgart-2025-12-14.json": {
+        "mtime": 1775491334.0187857,
+        "teams": [
+            "Werder Bremen",
+            "VfB Stuttgart 1893",
+            "Stuttgart",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J15_Augsburg_vs_Werder_Bremen-2025-12-20.json": {
+        "mtime": 1775491334.019891,
+        "teams": [
+            "Werder Bremen",
+            "Augsburg",
+            "FC Augsburg",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J15_Borussia_Dortmund_vs_Borussia_M'gladbach-2025-12-19.json": {
+        "mtime": 1775491334.020907,
+        "teams": [
+            "Borussia Dortmund",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J15_Hamburger_SV_vs_Eintracht_Frankfurt-2025-12-20.json": {
+        "mtime": 1775491334.0229063,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J15_Heidenheim_vs_Bayern_M\u00fcnchen-2025-12-21.json": {
+        "mtime": 1775491334.0306199,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Heidenheim",
+            "FC Bayern M\u00fcnchen",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J15_K\u00f6ln_vs_Union_Berlin-2025-12-20.json": {
+        "mtime": 1775491334.033542,
+        "teams": [
+            "K\u00f6ln",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J15_Mainz_05_vs_St._Pauli-2025-12-21.json": {
+        "mtime": 1775491334.034544,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "St. Pauli",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J15_RB_Leipzig_vs_Bayer_Leverkusen-2025-12-20.json": {
+        "mtime": 1775491334.0356927,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J15_Stuttgart_vs_Hoffenheim-2025-12-20.json": {
+        "mtime": 1775491334.03759,
+        "teams": [
+            "Stuttgart",
+            "VfB Stuttgart 1893",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J15_Wolfsburg_vs_Freiburg-2025-12-20.json": {
+        "mtime": 1775491334.0386071,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Freiburg",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J16_Bayer_Leverkusen_vs_Stuttgart-2026-01-10.json": {
+        "mtime": 1775491334.0505602,
+        "teams": [
+            "Stuttgart",
+            "VfB Stuttgart 1893",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J16_Bayern_M\u00fcnchen_vs_Wolfsburg-2026-01-11.json": {
+        "mtime": 1775491334.0485597,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "FC Bayern M\u00fcnchen",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J16_Borussia_M'gladbach_vs_Augsburg-2026-01-11.json": {
+        "mtime": 1775491334.0515597,
+        "teams": [
+            "Augsburg",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J16_Eintracht_Frankfurt_vs_Borussia_Dortmund-2026-01-09.json": {
+        "mtime": 1775491334.0525618,
+        "teams": [
+            "Borussia Dortmund",
+            "Eintracht Frankfurt",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J16_Freiburg_vs_Hamburger_SV-2026-01-10.json": {
+        "mtime": 1775491334.0535614,
+        "teams": [
+            "Freiburg",
+            "Hamburger SV",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J16_Heidenheim_vs_K\u00f6ln-2026-01-10.json": {
+        "mtime": 1775491334.0544007,
+        "teams": [
+            "K\u00f6ln",
+            "1. FC Heidenheim 1846",
+            "1. FC K\u00f6ln",
+            "Heidenheim"
+        ]
+    },
+    "Bundesliga_J16_Union_Berlin_vs_Mainz_05-2026-01-10.json": {
+        "mtime": 1775491334.0564227,
+        "teams": [
+            "Union Berlin",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "1. FC Union Berlin"
+        ]
+    },
+    "Bundesliga_J17_Augsburg_vs_Union_Berlin-2026-01-15.json": {
+        "mtime": 1775491334.0574105,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "FC Augsburg",
+            "Augsburg"
+        ]
+    },
+    "Bundesliga_J17_Borussia_Dortmund_vs_Werder_Bremen-2026-01-13.json": {
+        "mtime": 1775491334.058411,
+        "teams": [
+            "Borussia Dortmund",
+            "Werder Bremen",
+            "BV Borussia 09 Dortmund",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J17_Hoffenheim_vs_Borussia_M'gladbach-2026-01-14.json": {
+        "mtime": 1775491334.059538,
+        "teams": [
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J17_K\u00f6ln_vs_Bayern_M\u00fcnchen-2026-01-14.json": {
+        "mtime": 1775491334.0682766,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "K\u00f6ln",
+            "FC Bayern M\u00fcnchen",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J17_Mainz_05_vs_Heidenheim-2026-01-13.json": {
+        "mtime": 1775491334.0702777,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "1. FC Heidenheim 1846",
+            "Heidenheim"
+        ]
+    },
+    "Bundesliga_J17_RB_Leipzig_vs_Freiburg-2026-01-14.json": {
+        "mtime": 1775491334.0712807,
+        "teams": [
+            "Freiburg",
+            "RasenBallsport Leipzig",
+            "SC Freiburg",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J17_Stuttgart_vs_Eintracht_Frankfurt-2026-01-13.json": {
+        "mtime": 1775491334.0722792,
+        "teams": [
+            "Stuttgart",
+            "Eintracht Frankfurt",
+            "VfB Stuttgart 1893"
+        ]
+    },
+    "Bundesliga_J17_Wolfsburg_vs_St._Pauli-2026-01-14.json": {
+        "mtime": 1775491334.0920138,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "St. Pauli",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J18_Augsburg_vs_Freiburg-2026-01-18.json": {
+        "mtime": 1775491334.0936172,
+        "teams": [
+            "Freiburg",
+            "Augsburg",
+            "SC Freiburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J18_Borussia_Dortmund_vs_St._Pauli-2026-01-17.json": {
+        "mtime": 1775491334.0946145,
+        "teams": [
+            "Borussia Dortmund",
+            "St. Pauli",
+            "FC St. Pauli",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J18_Hamburger_SV_vs_Borussia_M'gladbach-2026-01-17.json": {
+        "mtime": 1775491334.0966372,
+        "teams": [
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J18_Hoffenheim_vs_Bayer_Leverkusen-2026-01-17.json": {
+        "mtime": 1775491334.0976348,
+        "teams": [
+            "Hoffenheim",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J18_K\u00f6ln_vs_Mainz_05-2026-01-17.json": {
+        "mtime": 1775491334.0986342,
+        "teams": [
+            "K\u00f6ln",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J18_RB_Leipzig_vs_Bayern_M\u00fcnchen-2026-01-17.json": {
+        "mtime": 1775491334.1074135,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "RasenBallsport Leipzig",
+            "FC Bayern M\u00fcnchen",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J18_Stuttgart_vs_Union_Berlin-2026-01-18.json": {
+        "mtime": 1775491334.110889,
+        "teams": [
+            "Stuttgart",
+            "Union Berlin",
+            "VfB Stuttgart 1893",
+            "1. FC Union Berlin"
+        ]
+    },
+    "Bundesliga_J18_Werder_Bremen_vs_Eintracht_Frankfurt-2026-01-16.json": {
+        "mtime": 1775491334.1124773,
+        "teams": [
+            "Werder Bremen",
+            "Eintracht Frankfurt",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J18_Wolfsburg_vs_Heidenheim-2026-01-17.json": {
+        "mtime": 1775491334.1134963,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Heidenheim",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J19_Bayer_Leverkusen_vs_Werder_Bremen-2026-01-24.json": {
+        "mtime": 1775491334.1224918,
+        "teams": [
+            "Werder Bremen",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J19_Bayern_M\u00fcnchen_vs_Augsburg-2026-01-24.json": {
+        "mtime": 1775491334.121509,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Augsburg",
+            "FC Bayern M\u00fcnchen",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J19_Borussia_M'gladbach_vs_Stuttgart-2026-01-25.json": {
+        "mtime": 1775491334.124491,
+        "teams": [
+            "Stuttgart",
+            "Borussia M'gladbach",
+            "VfB Stuttgart 1893",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J19_Eintracht_Frankfurt_vs_Hoffenheim-2026-01-24.json": {
+        "mtime": 1775491334.1274927,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J19_Freiburg_vs_K\u00f6ln-2026-01-25.json": {
+        "mtime": 1775491334.1284914,
+        "teams": [
+            "Freiburg",
+            "K\u00f6ln",
+            "SC Freiburg",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J19_Heidenheim_vs_RB_Leipzig-2026-01-24.json": {
+        "mtime": 1775491334.1294913,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "1. FC Heidenheim 1846",
+            "RB Leipzig",
+            "Heidenheim"
+        ]
+    },
+    "Bundesliga_J19_Mainz_05_vs_Wolfsburg-2026-01-24.json": {
+        "mtime": 1775491334.1314907,
+        "teams": [
+            "Wolfsburg",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "VfL Wolfsburg"
+        ]
+    },
+    "Bundesliga_J19_St._Pauli_vs_Hamburger_SV-2026-01-23.json": {
+        "mtime": 1775491334.1324925,
+        "teams": [
+            "St. Pauli",
+            "Hamburger SV",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J19_Union_Berlin_vs_Borussia_Dortmund-2026-01-24.json": {
+        "mtime": 1775491334.1334944,
+        "teams": [
+            "Borussia Dortmund",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J1_Bayer_Leverkusen_vs_Hoffenheim-2025-08-23.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "Hoffenheim",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J1_Bayern_M\u00fcnchen_vs_RB_Leipzig-2025-08-22.json": {
+        "mtime": 1775491334.1346483,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "RasenBallsport Leipzig",
+            "FC Bayern M\u00fcnchen",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J1_Borussia_M'gladbach_vs_Hamburger_SV-2025-08-24.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J1_Eintracht_Frankfurt_vs_Werder_Bremen-2025-08-23.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "Werder Bremen",
+            "Eintracht Frankfurt",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J1_Freiburg_vs_Augsburg-2025-08-23.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "Freiburg",
+            "Augsburg",
+            "SC Freiburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J1_Heidenheim_vs_Wolfsburg-2025-08-23.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Heidenheim",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J1_Mainz_05_vs_K\u00f6ln-2025-08-24.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "K\u00f6ln",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J1_St._Pauli_vs_Borussia_Dortmund-2025-08-23.json": {
+        "mtime": 1775491334.1357257,
+        "teams": [
+            "Borussia Dortmund",
+            "St. Pauli",
+            "FC St. Pauli",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J1_Union_Berlin_vs_Stuttgart-2025-08-23.json": {
+        "mtime": 1775491334.146067,
+        "teams": [
+            "Stuttgart",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "VfB Stuttgart 1893"
+        ]
+    },
+    "Bundesliga_J20_Augsburg_vs_St._Pauli-2026-01-31.json": {
+        "mtime": 1775491334.148066,
+        "teams": [
+            "Augsburg",
+            "St. Pauli",
+            "FC Augsburg",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J20_Borussia_Dortmund_vs_Heidenheim-2026-02-01.json": {
+        "mtime": 1775491334.1490698,
+        "teams": [
+            "Borussia Dortmund",
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J20_Eintracht_Frankfurt_vs_Bayer_Leverkusen-2026-01-31.json": {
+        "mtime": 1775491334.150067,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J20_Hamburger_SV_vs_Bayern_M\u00fcnchen-2026-01-31.json": {
+        "mtime": 1775491334.1719658,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J20_Hoffenheim_vs_Union_Berlin-2026-01-31.json": {
+        "mtime": 1775491334.1738052,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J20_K\u00f6ln_vs_Wolfsburg-2026-01-30.json": {
+        "mtime": 1775491334.1758184,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J20_RB_Leipzig_vs_Mainz_05-2026-01-31.json": {
+        "mtime": 1775491334.177519,
+        "teams": [
+            "Mainz 05",
+            "1. FSV Mainz 05",
+            "RasenBallsport Leipzig",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J20_Stuttgart_vs_Freiburg-2026-02-01.json": {
+        "mtime": 1775491334.1785204,
+        "teams": [
+            "Stuttgart",
+            "Freiburg",
+            "VfB Stuttgart 1893",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J20_Werder_Bremen_vs_Borussia_M'gladbach-2026-01-31.json": {
+        "mtime": 1775491334.1798759,
+        "teams": [
+            "Werder Bremen",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J21_Bayern_M\u00fcnchen_vs_Hoffenheim-2026-02-08.json": {
+        "mtime": 1775491334.191749,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J21_Borussia_M'gladbach_vs_Bayer_Leverkusen-2026-02-07.json": {
+        "mtime": 1775491334.1927495,
+        "teams": [
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J21_Freiburg_vs_Werder_Bremen-2026-02-07.json": {
+        "mtime": 1775491334.1947496,
+        "teams": [
+            "Werder Bremen",
+            "Freiburg",
+            "SC Freiburg",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J21_Heidenheim_vs_Hamburger_SV-2026-02-07.json": {
+        "mtime": 1775491334.2128985,
+        "teams": [
+            "Heidenheim",
+            "Hamburger SV",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J21_K\u00f6ln_vs_RB_Leipzig-2026-02-08.json": {
+        "mtime": 1775491334.213912,
+        "teams": [
+            "K\u00f6ln",
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J21_Mainz_05_vs_Augsburg-2026-02-07.json": {
+        "mtime": 1775491334.2159,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Augsburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J21_St._Pauli_vs_Stuttgart-2026-02-07.json": {
+        "mtime": 1775491334.2168987,
+        "teams": [
+            "Stuttgart",
+            "St. Pauli",
+            "VfB Stuttgart 1893",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J21_Union_Berlin_vs_Eintracht_Frankfurt-2026-02-06.json": {
+        "mtime": 1775491334.2179115,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Union Berlin",
+            "1. FC Union Berlin"
+        ]
+    },
+    "Bundesliga_J21_Wolfsburg_vs_Borussia_Dortmund-2026-02-07.json": {
+        "mtime": 1775491334.2189112,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "BV Borussia 09 Dortmund",
+            "Borussia Dortmund"
+        ]
+    },
+    "Bundesliga_J22_Augsburg_vs_Heidenheim-2026-02-15.json": {
+        "mtime": 1775491334.219897,
+        "teams": [
+            "Augsburg",
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J22_Bayer_Leverkusen_vs_St._Pauli-2026-02-14.json": {
+        "mtime": 1775491334.2208972,
+        "teams": [
+            "St. Pauli",
+            "FC St. Pauli",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J22_Borussia_Dortmund_vs_Mainz_05-2026-02-13.json": {
+        "mtime": 1775491334.2248974,
+        "teams": [
+            "Borussia Dortmund",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J22_Eintracht_Frankfurt_vs_Borussia_M'gladbach-2026-02-14.json": {
+        "mtime": 1775491334.225952,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J22_Hamburger_SV_vs_Union_Berlin-2026-02-14.json": {
+        "mtime": 1775491334.2265046,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J22_Hoffenheim_vs_Freiburg-2026-02-14.json": {
+        "mtime": 1775491334.2274685,
+        "teams": [
+            "Freiburg",
+            "SC Freiburg",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J22_RB_Leipzig_vs_Wolfsburg-2026-02-15.json": {
+        "mtime": 1775491334.2295,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "RasenBallsport Leipzig",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J22_Stuttgart_vs_K\u00f6ln-2026-02-14.json": {
+        "mtime": 1775491334.2304828,
+        "teams": [
+            "Stuttgart",
+            "K\u00f6ln",
+            "VfB Stuttgart 1893",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J22_Werder_Bremen_vs_Bayern_M\u00fcnchen-2026-02-14.json": {
+        "mtime": 1775491334.2571518,
+        "teams": [
+            "Werder Bremen",
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J23_Bayern_M\u00fcnchen_vs_Eintracht_Frankfurt-2026-02-21.json": {
+        "mtime": 1775491334.2665496,
+        "teams": [
+            "Eintracht Frankfurt",
+            "FC Bayern M\u00fcnchen",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J23_Freiburg_vs_Borussia_M'gladbach-2026-02-22.json": {
+        "mtime": 1775491334.267934,
+        "teams": [
+            "Freiburg",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J23_Heidenheim_vs_Stuttgart-2026-02-22.json": {
+        "mtime": 1775491334.2689807,
+        "teams": [
+            "Stuttgart",
+            "Heidenheim",
+            "VfB Stuttgart 1893",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J23_K\u00f6ln_vs_Hoffenheim-2026-02-21.json": {
+        "mtime": 1775491334.2699938,
+        "teams": [
+            "Hoffenheim",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J23_Mainz_05_vs_Hamburger_SV-2026-02-20.json": {
+        "mtime": 1775491334.2709935,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J23_RB_Leipzig_vs_Borussia_Dortmund-2026-02-21.json": {
+        "mtime": 1775491334.2725377,
+        "teams": [
+            "Borussia Dortmund",
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J23_St._Pauli_vs_Werder_Bremen-2026-02-22.json": {
+        "mtime": 1775491334.2735515,
+        "teams": [
+            "Werder Bremen",
+            "St. Pauli",
+            "FC St. Pauli",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J23_Union_Berlin_vs_Bayer_Leverkusen-2026-02-21.json": {
+        "mtime": 1775491334.2745516,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J23_Wolfsburg_vs_Augsburg-2026-02-21.json": {
+        "mtime": 1775491334.2755516,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Augsburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J24_Augsburg_vs_K\u00f6ln-2026-02-27.json": {
+        "mtime": 1775491334.277639,
+        "teams": [
+            "K\u00f6ln",
+            "Augsburg",
+            "FC Augsburg",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J24_Bayer_Leverkusen_vs_Mainz_05-2026-02-28.json": {
+        "mtime": 1775491334.280161,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J24_Borussia_Dortmund_vs_Bayern_M\u00fcnchen-2026-02-28.json": {
+        "mtime": 1775491334.2976196,
+        "teams": [
+            "Borussia Dortmund",
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J24_Borussia_M'gladbach_vs_Union_Berlin-2026-02-28.json": {
+        "mtime": 1775491334.29962,
+        "teams": [
+            "Borussia M'gladbach",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J24_Eintracht_Frankfurt_vs_Freiburg-2026-03-01.json": {
+        "mtime": 1775491334.300861,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Freiburg",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J24_Hamburger_SV_vs_RB_Leipzig-2026-03-01.json": {
+        "mtime": 1775491334.3018773,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "Hamburger SV",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J24_Hoffenheim_vs_St._Pauli-2026-02-28.json": {
+        "mtime": 1775491334.3028772,
+        "teams": [
+            "Hoffenheim",
+            "St. Pauli",
+            "FC St. Pauli",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J24_Stuttgart_vs_Wolfsburg-2026-03-01.json": {
+        "mtime": 1775491334.3038764,
+        "teams": [
+            "Stuttgart",
+            "VfL Wolfsburg",
+            "VfB Stuttgart 1893",
+            "Wolfsburg"
+        ]
+    },
+    "Bundesliga_J24_Werder_Bremen_vs_Heidenheim-2026-02-28.json": {
+        "mtime": 1775491334.3053105,
+        "teams": [
+            "Werder Bremen",
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J25_Bayern_M\u00fcnchen_vs_Borussia_M'gladbach-2026-03-06.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Borussia M'gladbach",
+            "FC Bayern M\u00fcnchen",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J25_Freiburg_vs_Bayer_Leverkusen-2026-03-07.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Freiburg",
+            "Bayer Leverkusen",
+            "SC Freiburg",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J25_Heidenheim_vs_Hoffenheim-2026-03-07.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J25_K\u00f6ln_vs_Borussia_Dortmund-2026-03-07.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Borussia Dortmund",
+            "K\u00f6ln",
+            "BV Borussia 09 Dortmund",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J25_Mainz_05_vs_Stuttgart-2026-03-07.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Stuttgart",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "VfB Stuttgart 1893"
+        ]
+    },
+    "Bundesliga_J25_RB_Leipzig_vs_Augsburg-2026-03-07.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "Augsburg",
+            "FC Augsburg",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J25_St._Pauli_vs_Eintracht_Frankfurt-2026-03-08.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Eintracht Frankfurt",
+            "St. Pauli",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J25_Union_Berlin_vs_Werder_Bremen-2026-03-08.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Werder Bremen",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J25_Wolfsburg_vs_Hamburger_SV-2026-03-07.json": {
+        "mtime": 1775491334.3108315,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J26_Bayer_Leverkusen_vs_Bayern_M\u00fcnchen-2026-03-14.json": {
+        "mtime": 1775491334.3323667,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J26_Borussia_Dortmund_vs_Augsburg-2026-03-14.json": {
+        "mtime": 1775491334.333505,
+        "teams": [
+            "Borussia Dortmund",
+            "Augsburg",
+            "FC Augsburg",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J26_Borussia_M'gladbach_vs_St._Pauli-2026-03-13.json": {
+        "mtime": 1775491334.334508,
+        "teams": [
+            "St. Pauli",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J26_Eintracht_Frankfurt_vs_Heidenheim-2026-03-14.json": {
+        "mtime": 1775491334.3358672,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Heidenheim",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J26_Freiburg_vs_Union_Berlin-2026-03-15.json": {
+        "mtime": 1775491334.3368807,
+        "teams": [
+            "Freiburg",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J26_Hamburger_SV_vs_K\u00f6ln-2026-03-14.json": {
+        "mtime": 1775491334.3383408,
+        "teams": [
+            "K\u00f6ln",
+            "Hamburger SV",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J26_Hoffenheim_vs_Wolfsburg-2026-03-14.json": {
+        "mtime": 1775491334.3393688,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J26_Stuttgart_vs_RB_Leipzig-2026-03-15.json": {
+        "mtime": 1775491334.340361,
+        "teams": [
+            "Stuttgart",
+            "RasenBallsport Leipzig",
+            "VfB Stuttgart 1893",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J26_Werder_Bremen_vs_Mainz_05-2026-03-15.json": {
+        "mtime": 1775491334.3432522,
+        "teams": [
+            "Werder Bremen",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J27_Augsburg_vs_Stuttgart-2026-03-22.json": {
+        "mtime": 1775491334.3449783,
+        "teams": [
+            "Stuttgart",
+            "Augsburg",
+            "VfB Stuttgart 1893",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J27_Bayern_M\u00fcnchen_vs_Union_Berlin-2026-03-21.json": {
+        "mtime": 1775491334.354173,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "FC Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J27_Borussia_Dortmund_vs_Hamburger_SV-2026-03-21.json": {
+        "mtime": 1775491334.3551822,
+        "teams": [
+            "Borussia Dortmund",
+            "Hamburger SV",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J27_Heidenheim_vs_Bayer_Leverkusen-2026-03-21.json": {
+        "mtime": 1775491334.3589664,
+        "teams": [
+            "Heidenheim",
+            "Bayer Leverkusen",
+            "1. FC Heidenheim 1846",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J27_K\u00f6ln_vs_Borussia_M'gladbach-2026-03-21.json": {
+        "mtime": 1775491334.359981,
+        "teams": [
+            "K\u00f6ln",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J27_Mainz_05_vs_Eintracht_Frankfurt-2026-03-22.json": {
+        "mtime": 1775491334.3609986,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Eintracht Frankfurt"
+        ]
+    },
+    "Bundesliga_J27_RB_Leipzig_vs_Hoffenheim-2026-03-20.json": {
+        "mtime": 1775491334.3609986,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J27_St._Pauli_vs_Freiburg-2026-03-22.json": {
+        "mtime": 1775491334.3609986,
+        "teams": [
+            "Freiburg",
+            "St. Pauli",
+            "SC Freiburg",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J27_Wolfsburg_vs_Werder_Bremen-2026-03-21.json": {
+        "mtime": 1775491334.3609986,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Werder Bremen",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J2_Augsburg_vs_Bayern_M\u00fcnchen-2025-08-30.json": {
+        "mtime": 1775491341.9721777,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Augsburg",
+            "FC Bayern M\u00fcnchen",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J2_Borussia_Dortmund_vs_Union_Berlin-2025-08-31.json": {
+        "mtime": 1775491341.9731777,
+        "teams": [
+            "Borussia Dortmund",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J2_Hamburger_SV_vs_St._Pauli-2025-08-29.json": {
+        "mtime": 1775491341.9741783,
+        "teams": [
+            "St. Pauli",
+            "Hamburger SV",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J2_Hoffenheim_vs_Eintracht_Frankfurt-2025-08-30.json": {
+        "mtime": 1775491341.976178,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J2_K\u00f6ln_vs_Freiburg-2025-08-31.json": {
+        "mtime": 1775491341.9771814,
+        "teams": [
+            "Freiburg",
+            "K\u00f6ln",
+            "SC Freiburg",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J2_RB_Leipzig_vs_Heidenheim-2025-08-30.json": {
+        "mtime": 1775491341.9781775,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "1. FC Heidenheim 1846",
+            "RB Leipzig",
+            "Heidenheim"
+        ]
+    },
+    "Bundesliga_J2_Stuttgart_vs_Borussia_M'gladbach-2025-08-30.json": {
+        "mtime": 1775491341.9812677,
+        "teams": [
+            "Stuttgart",
+            "Borussia M'gladbach",
+            "VfB Stuttgart 1893",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J2_Werder_Bremen_vs_Bayer_Leverkusen-2025-08-30.json": {
+        "mtime": 1775491341.9827845,
+        "teams": [
+            "Werder Bremen",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J2_Wolfsburg_vs_Mainz_05-2025-08-31.json": {
+        "mtime": 1775491341.983925,
+        "teams": [
+            "1. FSV Mainz 05",
+            "VfL Wolfsburg",
+            "Mainz 05",
+            "Wolfsburg"
+        ]
+    },
+    "Bundesliga_J3_Bayer_Leverkusen_vs_Eintracht_Frankfurt-2025-09-12.json": {
+        "mtime": 1775491341.9860263,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J3_Bayern_M\u00fcnchen_vs_Hamburger_SV-2025-09-13.json": {
+        "mtime": 1775491341.9849415,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J3_Borussia_M'gladbach_vs_Werder_Bremen-2025-09-14.json": {
+        "mtime": 1775491341.9876392,
+        "teams": [
+            "Werder Bremen",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J3_Freiburg_vs_Stuttgart-2025-09-13.json": {
+        "mtime": 1775491341.9886532,
+        "teams": [
+            "Stuttgart",
+            "Freiburg",
+            "VfB Stuttgart 1893",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J3_Heidenheim_vs_Borussia_Dortmund-2025-09-13.json": {
+        "mtime": 1775491341.9898124,
+        "teams": [
+            "Borussia Dortmund",
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J3_Mainz_05_vs_RB_Leipzig-2025-09-13.json": {
+        "mtime": 1775491341.990829,
+        "teams": [
+            "Mainz 05",
+            "1. FSV Mainz 05",
+            "RasenBallsport Leipzig",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J3_St._Pauli_vs_Augsburg-2025-09-14.json": {
+        "mtime": 1775491341.992229,
+        "teams": [
+            "Augsburg",
+            "St. Pauli",
+            "FC Augsburg",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J3_Union_Berlin_vs_Hoffenheim-2025-09-13.json": {
+        "mtime": 1775491341.993241,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J3_Wolfsburg_vs_K\u00f6ln-2025-09-13.json": {
+        "mtime": 1775491341.9967535,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J4_Augsburg_vs_Mainz_05-2025-09-20.json": {
+        "mtime": 1775491341.997755,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Augsburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J4_Bayer_Leverkusen_vs_Borussia_M'gladbach-2025-09-21.json": {
+        "mtime": 1775491341.9987545,
+        "teams": [
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J4_Borussia_Dortmund_vs_Wolfsburg-2025-09-21.json": {
+        "mtime": 1775491341.9997575,
+        "teams": [
+            "Borussia Dortmund",
+            "VfL Wolfsburg",
+            "Wolfsburg",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J4_Eintracht_Frankfurt_vs_Union_Berlin-2025-09-21.json": {
+        "mtime": 1775491342.0017536,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Union Berlin",
+            "1. FC Union Berlin"
+        ]
+    },
+    "Bundesliga_J4_Hamburger_SV_vs_Heidenheim-2025-09-20.json": {
+        "mtime": 1775491342.0027535,
+        "teams": [
+            "Heidenheim",
+            "Hamburger SV",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J4_Hoffenheim_vs_Bayern_M\u00fcnchen-2025-09-20.json": {
+        "mtime": 1775491342.0037556,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J4_RB_Leipzig_vs_K\u00f6ln-2025-09-20.json": {
+        "mtime": 1775491342.0054624,
+        "teams": [
+            "K\u00f6ln",
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J4_Stuttgart_vs_St._Pauli-2025-09-19.json": {
+        "mtime": 1775491342.0064611,
+        "teams": [
+            "Stuttgart",
+            "St. Pauli",
+            "VfB Stuttgart 1893",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J4_Werder_Bremen_vs_Freiburg-2025-09-20.json": {
+        "mtime": 1775491342.007461,
+        "teams": [
+            "Werder Bremen",
+            "Freiburg",
+            "SC Freiburg",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J5_Bayern_M\u00fcnchen_vs_Werder_Bremen-2025-09-26.json": {
+        "mtime": 1775491342.0086324,
+        "teams": [
+            "Werder Bremen",
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J5_Borussia_M'gladbach_vs_Eintracht_Frankfurt-2025-09-27.json": {
+        "mtime": 1775491342.011795,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J5_Freiburg_vs_Hoffenheim-2025-09-28.json": {
+        "mtime": 1775491342.01379,
+        "teams": [
+            "Freiburg",
+            "SC Freiburg",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J5_Heidenheim_vs_Augsburg-2025-09-27.json": {
+        "mtime": 1775491342.0147903,
+        "teams": [
+            "Heidenheim",
+            "Augsburg",
+            "1. FC Heidenheim 1846",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J5_K\u00f6ln_vs_Stuttgart-2025-09-28.json": {
+        "mtime": 1775491342.0157926,
+        "teams": [
+            "Stuttgart",
+            "K\u00f6ln",
+            "VfB Stuttgart 1893",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J5_Mainz_05_vs_Borussia_Dortmund-2025-09-27.json": {
+        "mtime": 1775491342.0167904,
+        "teams": [
+            "Borussia Dortmund",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J5_St._Pauli_vs_Bayer_Leverkusen-2025-09-27.json": {
+        "mtime": 1775491342.0187912,
+        "teams": [
+            "St. Pauli",
+            "Bayer 04 Leverkusen",
+            "Bayer Leverkusen",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J5_Union_Berlin_vs_Hamburger_SV-2025-09-28.json": {
+        "mtime": 1775491342.0197895,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J5_Wolfsburg_vs_RB_Leipzig-2025-09-27.json": {
+        "mtime": 1775491342.0207908,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "RasenBallsport Leipzig",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J6_Augsburg_vs_Wolfsburg-2025-10-04.json": {
+        "mtime": 1775491342.0217898,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Augsburg",
+            "FC Augsburg"
+        ]
+    },
+    "Bundesliga_J6_Bayer_Leverkusen_vs_Union_Berlin-2025-10-04.json": {
+        "mtime": 1775491342.0237892,
+        "teams": [
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J6_Borussia_Dortmund_vs_RB_Leipzig-2025-10-04.json": {
+        "mtime": 1775491342.0247896,
+        "teams": [
+            "Borussia Dortmund",
+            "RasenBallsport Leipzig",
+            "RB Leipzig",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J6_Borussia_M'gladbach_vs_Freiburg-2025-10-05.json": {
+        "mtime": 1775491342.0282748,
+        "teams": [
+            "Freiburg",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J6_Eintracht_Frankfurt_vs_Bayern_M\u00fcnchen-2025-10-04.json": {
+        "mtime": 1775491342.0292134,
+        "teams": [
+            "Eintracht Frankfurt",
+            "FC Bayern M\u00fcnchen",
+            "Bayern M\u00fcnchen"
+        ]
+    },
+    "Bundesliga_J6_Hamburger_SV_vs_Mainz_05-2025-10-05.json": {
+        "mtime": 1775491342.0302224,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J6_Hoffenheim_vs_K\u00f6ln-2025-10-03.json": {
+        "mtime": 1775491342.0312219,
+        "teams": [
+            "Hoffenheim",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J6_Stuttgart_vs_Heidenheim-2025-10-05.json": {
+        "mtime": 1775491342.0330458,
+        "teams": [
+            "Stuttgart",
+            "Heidenheim",
+            "VfB Stuttgart 1893",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J6_Werder_Bremen_vs_St._Pauli-2025-10-04.json": {
+        "mtime": 1775491342.034178,
+        "teams": [
+            "Werder Bremen",
+            "St. Pauli",
+            "FC St. Pauli",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J7_Bayern_M\u00fcnchen_vs_Borussia_Dortmund-2025-10-18.json": {
+        "mtime": 1775491342.042274,
+        "teams": [
+            "Borussia Dortmund",
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J7_Freiburg_vs_Eintracht_Frankfurt-2025-10-19.json": {
+        "mtime": 1775491342.0442753,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Freiburg",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J7_Heidenheim_vs_Werder_Bremen-2025-10-18.json": {
+        "mtime": 1775491342.045752,
+        "teams": [
+            "Werder Bremen",
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J7_K\u00f6ln_vs_Augsburg-2025-10-18.json": {
+        "mtime": 1775491342.0466912,
+        "teams": [
+            "K\u00f6ln",
+            "Augsburg",
+            "FC Augsburg",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J7_Mainz_05_vs_Bayer_Leverkusen-2025-10-18.json": {
+        "mtime": 1775491342.047689,
+        "teams": [
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J7_RB_Leipzig_vs_Hamburger_SV-2025-10-18.json": {
+        "mtime": 1775491342.0486887,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "Hamburger SV",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J7_St._Pauli_vs_Hoffenheim-2025-10-19.json": {
+        "mtime": 1775491342.04969,
+        "teams": [
+            "Hoffenheim",
+            "St. Pauli",
+            "FC St. Pauli",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J7_Union_Berlin_vs_Borussia_M'gladbach-2025-10-17.json": {
+        "mtime": 1775491342.0516891,
+        "teams": [
+            "Borussia M'gladbach",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J7_Wolfsburg_vs_Stuttgart-2025-10-18.json": {
+        "mtime": 1775491342.0536892,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "VfB Stuttgart 1893",
+            "Stuttgart"
+        ]
+    },
+    "Bundesliga_J8_Augsburg_vs_RB_Leipzig-2025-10-25.json": {
+        "mtime": 1775491342.0549464,
+        "teams": [
+            "RasenBallsport Leipzig",
+            "Augsburg",
+            "FC Augsburg",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J8_Bayer_Leverkusen_vs_Freiburg-2025-10-26.json": {
+        "mtime": 1775491342.0560217,
+        "teams": [
+            "Freiburg",
+            "Bayer Leverkusen",
+            "SC Freiburg",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J8_Borussia_Dortmund_vs_K\u00f6ln-2025-10-25.json": {
+        "mtime": 1775491342.059105,
+        "teams": [
+            "Borussia Dortmund",
+            "K\u00f6ln",
+            "1. FC K\u00f6ln",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J8_Borussia_M'gladbach_vs_Bayern_M\u00fcnchen-2025-10-25.json": {
+        "mtime": 1775491342.0601084,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Borussia M'gladbach",
+            "FC Bayern M\u00fcnchen",
+            "Borussia VfL M\u00f6nchengladbach"
+        ]
+    },
+    "Bundesliga_J8_Eintracht_Frankfurt_vs_St._Pauli-2025-10-25.json": {
+        "mtime": 1775491342.061203,
+        "teams": [
+            "Eintracht Frankfurt",
+            "St. Pauli",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J8_Hamburger_SV_vs_Wolfsburg-2025-10-25.json": {
+        "mtime": 1775491342.062204,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J8_Hoffenheim_vs_Heidenheim-2025-10-25.json": {
+        "mtime": 1775491342.0632033,
+        "teams": [
+            "Heidenheim",
+            "1. FC Heidenheim 1846",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J8_Stuttgart_vs_Mainz_05-2025-10-26.json": {
+        "mtime": 1775491342.0642033,
+        "teams": [
+            "Stuttgart",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "VfB Stuttgart 1893"
+        ]
+    },
+    "Bundesliga_J8_Werder_Bremen_vs_Union_Berlin-2025-10-24.json": {
+        "mtime": 1775491342.0652032,
+        "teams": [
+            "Werder Bremen",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J9_Augsburg_vs_Borussia_Dortmund-2025-10-31.json": {
+        "mtime": 1775491342.0672047,
+        "teams": [
+            "Borussia Dortmund",
+            "Augsburg",
+            "FC Augsburg",
+            "BV Borussia 09 Dortmund"
+        ]
+    },
+    "Bundesliga_J9_Bayern_M\u00fcnchen_vs_Bayer_Leverkusen-2025-11-01.json": {
+        "mtime": 1775491342.0752158,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "FC Bayern M\u00fcnchen",
+            "Bayer Leverkusen",
+            "Bayer 04 Leverkusen"
+        ]
+    },
+    "Bundesliga_J9_Heidenheim_vs_Eintracht_Frankfurt-2025-11-01.json": {
+        "mtime": 1775491342.0772045,
+        "teams": [
+            "Eintracht Frankfurt",
+            "Heidenheim",
+            "1. FC Heidenheim 1846"
+        ]
+    },
+    "Bundesliga_J9_K\u00f6ln_vs_Hamburger_SV-2025-11-02.json": {
+        "mtime": 1775491342.0782037,
+        "teams": [
+            "K\u00f6ln",
+            "Hamburger SV",
+            "1. FC K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J9_Mainz_05_vs_Werder_Bremen-2025-11-01.json": {
+        "mtime": 1775491342.0792036,
+        "teams": [
+            "Werder Bremen",
+            "1. FSV Mainz 05",
+            "Mainz 05",
+            "SV Werder Bremen"
+        ]
+    },
+    "Bundesliga_J9_RB_Leipzig_vs_Stuttgart-2025-11-01.json": {
+        "mtime": 1775491342.0802033,
+        "teams": [
+            "Stuttgart",
+            "RasenBallsport Leipzig",
+            "VfB Stuttgart 1893",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J9_St._Pauli_vs_Borussia_M'gladbach-2025-11-01.json": {
+        "mtime": 1775491342.0816696,
+        "teams": [
+            "St. Pauli",
+            "Borussia M'gladbach",
+            "Borussia VfL M\u00f6nchengladbach",
+            "FC St. Pauli"
+        ]
+    },
+    "Bundesliga_J9_Union_Berlin_vs_Freiburg-2025-11-01.json": {
+        "mtime": 1775491342.0826437,
+        "teams": [
+            "Freiburg",
+            "Union Berlin",
+            "1. FC Union Berlin",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J9_Wolfsburg_vs_Hoffenheim-2025-11-02.json": {
+        "mtime": 1775491342.083772,
+        "teams": [
+            "Wolfsburg",
+            "VfL Wolfsburg",
+            "Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ]
+    },
+    "Bundesliga_J28_Freiburg_vs_Bayern_M\u00fcnchen-2026-04-04.json": {
+        "mtime": 1775491341.9574206,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "Freiburg",
+            "FC Bayern M\u00fcnchen",
+            "SC Freiburg"
+        ]
+    },
+    "Bundesliga_J28_Bayer_Leverkusen_vs_Wolfsburg-2026-04-04.json": {
+        "mtime": 1775491334.3828032,
+        "teams": [
+            "Wolfsburg",
+            "Bayer Leverkusen"
+        ]
+    },
+    "Bundesliga_J28_Borussia_M'gladbach_vs_Heidenheim-2026-04-04.json": {
+        "mtime": 1775491334.3839135,
+        "teams": [
+            "Heidenheim",
+            "Borussia M'gladbach"
+        ]
+    },
+    "Bundesliga_J28_Eintracht_Frankfurt_vs_K\u00f6ln-2026-04-05.json": {
+        "mtime": 1775491334.3849173,
+        "teams": [
+            "Eintracht Frankfurt",
+            "K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J28_Hamburger_SV_vs_Augsburg-2026-04-04.json": {
+        "mtime": 1775491341.9663978,
+        "teams": [
+            "Augsburg",
+            "Hamburger SV"
+        ]
+    },
+    "Bundesliga_J28_Hoffenheim_vs_Mainz_05-2026-04-04.json": {
+        "mtime": 1775491341.968163,
+        "teams": [
+            "Mainz 05",
+            "Hoffenheim"
+        ]
+    },
+    "Bundesliga_J28_Stuttgart_vs_Borussia_Dortmund-2026-04-04.json": {
+        "mtime": 1775491341.9691818,
+        "teams": [
+            "Stuttgart",
+            "Borussia Dortmund"
+        ]
+    },
+    "Bundesliga_J28_Union_Berlin_vs_St._Pauli-2026-04-05.json": {
+        "mtime": 1775491341.9701812,
+        "teams": [
+            "Union Berlin",
+            "St. Pauli"
+        ]
+    },
+    "Bundesliga_J28_Werder_Bremen_vs_RB_Leipzig-2026-04-04.json": {
+        "mtime": 1775491341.9711773,
+        "teams": [
+            "Werder Bremen",
+            "RB Leipzig"
+        ]
+    },
+    "Bundesliga_J29_Augsburg_vs_Hoffenheim-2026-04-10.json": {
+        "mtime": 1775946893.6053636,
+        "teams": [
+            "Hoffenheim",
+            "Augsburg"
+        ]
+    },
+    "Bundesliga_J29_Borussia_Dortmund_vs_Bayer_Leverkusen-2026-04-11.json": {
+        "mtime": 1775945781.2311263,
+        "teams": [
+            "Borussia Dortmund",
+            "Bayer Leverkusen"
+        ]
+    },
+    "Bundesliga_J29_Heidenheim_vs_Union_Berlin-2026-04-11.json": {
+        "mtime": 1775945781.2331252,
+        "teams": [
+            "Union Berlin",
+            "Heidenheim"
+        ]
+    },
+    "Bundesliga_J29_RB_Leipzig_vs_Borussia_M'gladbach-2026-04-11.json": {
+        "mtime": 1775945781.237126,
+        "teams": [
+            "RB Leipzig",
+            "Borussia M'gladbach"
+        ]
+    },
+    "Bundesliga_J29_St._Pauli_vs_Bayern_M\u00fcnchen-2026-04-11.json": {
+        "mtime": 1775946902.733986,
+        "teams": [
+            "Bayern M\u00fcnchen",
+            "St. Pauli"
+        ]
+    },
+    "Bundesliga_J29_Wolfsburg_vs_Eintracht_Frankfurt-2026-04-11.json": {
+        "mtime": 1775945781.2451262,
+        "teams": [
+            "Wolfsburg",
+            "Eintracht Frankfurt"
+        ]
+    },
+    "Bundesliga_J29_K\u00f6ln_vs_Werder_Bremen-2026-04-12.json": {
+        "mtime": 1776041344.4055688,
+        "teams": [
+            "Werder Bremen",
+            "K\u00f6ln"
+        ]
+    },
+    "Bundesliga_J29_Mainz_05_vs_Freiburg-2026-04-12.json": {
+        "mtime": 1776041344.4187863,
+        "teams": [
+            "Mainz 05",
+            "Freiburg"
+        ]
+    },
+    "Bundesliga_J29_Stuttgart_vs_Hamburger_SV-2026-04-12.json": {
+        "mtime": 1776041344.4673362,
+        "teams": [
+            "Hamburger SV",
+            "Stuttgart"
+        ]
+    }
+}

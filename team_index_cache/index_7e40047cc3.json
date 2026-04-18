@@ -1,0 +1,47 @@
+{
+    "Copa_del_Rey_J_Albacete_vs_Barcelona-2026-02-03.json": {
+        "mtime": 1775491354.3560262,
+        "teams": [
+            "Albacete",
+            "Albacete Balompi\u00e9",
+            "Barcelona",
+            "FC Barcelona"
+        ]
+    },
+    "Copa_del_Rey_J_Atl\u00e9tico_de_Madrid_vs_Barcelona-2026-02-12.json": {
+        "mtime": 1775491354.4042544,
+        "teams": [
+            "Club Atl\u00e9tico de Madrid",
+            "Barcelona",
+            "Atl\u00e9tico de Madrid",
+            "FC Barcelona"
+        ]
+    },
+    "Copa_del_Rey_J_Barcelona_vs_Atl\u00e9tico_de_Madrid-2026-03-03.json": {
+        "mtime": 1775491354.427068,
+        "teams": [
+            "Club Atl\u00e9tico de Madrid",
+            "Barcelona",
+            "Atl\u00e9tico de Madrid",
+            "FC Barcelona"
+        ]
+    },
+    "Copa_del_Rey_J_Guadalajara_vs_Barcelona-2025-12-16.json": {
+        "mtime": 1775491354.4616456,
+        "teams": [
+            "CD Guadalajara",
+            "Guadalajara",
+            "Barcelona",
+            "FC Barcelona"
+        ]
+    },
+    "Copa_del_Rey_J_Racing_de_Santander_vs_Barcelona-2026-01-15.json": {
+        "mtime": 1775491354.4797866,
+        "teams": [
+            "Racing de Santander",
+            "Barcelona",
+            "Real Racing Club",
+            "FC Barcelona"
+        ]
+    }
+}

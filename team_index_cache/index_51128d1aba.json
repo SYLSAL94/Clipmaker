@@ -1,0 +1,101 @@
+{
+    "FA_Cup_J_Arsenal_vs_Wigan_Athletic-2026-02-15.json": {
+        "mtime": 1775491315.6998084,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Wigan Athletic FC",
+            "Wigan Athletic"
+        ]
+    },
+    "FA_Cup_J_Liverpool_vs_Barnsley-2026-01-12.json": {
+        "mtime": 1775491315.7654757,
+        "teams": [
+            "Barnsley",
+            "Barnsley FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "FA_Cup_J_Liverpool_vs_Brighton_&_Hove_Albion-2026-02-14.json": {
+        "mtime": 1775491315.7674606,
+        "teams": [
+            "Brighton & Hove Albion",
+            "Brighton & Hove Albion FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "FA_Cup_J_Manchester_City_vs_Exeter_City-2026-01-10.json": {
+        "mtime": 1775491315.7684622,
+        "teams": [
+            "Exeter City FC",
+            "Manchester City FC",
+            "Exeter City",
+            "Manchester City"
+        ]
+    },
+    "FA_Cup_J_Manchester_City_vs_Liverpool-2026-04-04.json": {
+        "mtime": 1775491325.49488,
+        "teams": [
+            "Manchester City",
+            "Manchester City FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    },
+    "FA_Cup_J_Manchester_City_vs_Salford_City-2026-02-14.json": {
+        "mtime": 1775491325.548586,
+        "teams": [
+            "Manchester City",
+            "Salford City FC",
+            "Manchester City FC",
+            "Salford City"
+        ]
+    },
+    "FA_Cup_J_Mansfield_Town_vs_Arsenal-2026-03-07.json": {
+        "mtime": 1775491325.5573642,
+        "teams": [
+            "Arsenal",
+            "Arsenal FC",
+            "Mansfield Town",
+            "Mansfield Town FC"
+        ]
+    },
+    "FA_Cup_J_Newcastle_United_vs_Manchester_City-2026-03-07.json": {
+        "mtime": 1775491325.5583625,
+        "teams": [
+            "Newcastle United FC",
+            "Manchester City FC",
+            "Newcastle United",
+            "Manchester City"
+        ]
+    },
+    "FA_Cup_J_Portsmouth_vs_Arsenal-2026-01-11.json": {
+        "mtime": 1775491325.5665257,
+        "teams": [
+            "Arsenal",
+            "Portsmouth",
+            "Arsenal FC",
+            "Portsmouth FC"
+        ]
+    },
+    "FA_Cup_J_Southampton_vs_Arsenal-2026-04-04.json": {
+        "mtime": 1775491325.5677881,
+        "teams": [
+            "Arsenal",
+            "Southampton FC",
+            "Arsenal FC",
+            "Southampton"
+        ]
+    },
+    "FA_Cup_J_Wolverhampton_Wanderers_vs_Liverpool-2026-03-06.json": {
+        "mtime": 1775491325.568891,
+        "teams": [
+            "Wolverhampton Wanderers",
+            "Wolverhampton Wanderers FC",
+            "Liverpool FC",
+            "Liverpool"
+        ]
+    }
+}

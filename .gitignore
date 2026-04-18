@@ -1,0 +1,18 @@
+# Fichiers de sécurité (CRITIQUE)
+.env
+secrets.toml
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers temporaires Python et Système
+__pycache__/
+*.pyc
+.DS_Store
+
+# Dossiers de médias (si tu en as encore en local)
+temp/
+output/
+
+temp_previews/

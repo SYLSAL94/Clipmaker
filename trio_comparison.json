@@ -1,0 +1,106 @@
+{
+    "local": [
+        {
+            "id": NaN,
+            "eventId": NaN,
+            "cumulative_mins": 0.0002,
+            "x": 46.41,
+            "y": 29.104,
+            "endX": 45.255,
+            "endY": 35.496,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": NaN,
+            "cumulative_mins": 0.1835333333333333,
+            "x": 44.94,
+            "y": 43.52,
+            "endX": 46.62,
+            "endY": 38.148,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": NaN,
+            "cumulative_mins": 0.2168666666666667,
+            "x": 46.83000000000001,
+            "y": 14.892,
+            "endX": 59.85,
+            "endY": 7.004000000000001,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": NaN,
+            "cumulative_mins": 0.2668666666666666,
+            "x": 57.33000000000001,
+            "y": 15.64,
+            "endX": 50.61000000000001,
+            "endY": 17.816,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": NaN,
+            "cumulative_mins": 0.3502,
+            "x": 40.63500000000001,
+            "y": 35.088,
+            "endX": 42.0,
+            "endY": 39.57600000000001,
+            "qualifiers.type.displayName": "takeOns"
+        }
+    ],
+    "external": [
+        {
+            "id": NaN,
+            "eventId": 3.5,
+            "cumulative_mins": 0.025,
+            "x": 46.41,
+            "y": 29.104,
+            "endX": 45.255,
+            "endY": 35.496,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": 8.5,
+            "cumulative_mins": 0.2,
+            "x": 44.94,
+            "y": 43.52,
+            "endX": 46.62,
+            "endY": 38.148,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": 9.5,
+            "cumulative_mins": 0.241666666666667,
+            "x": 46.83,
+            "y": 14.892,
+            "endX": 59.85,
+            "endY": 7.004,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": 10.5,
+            "cumulative_mins": 0.308333333333333,
+            "x": 57.33,
+            "y": 15.64,
+            "endX": 50.61,
+            "endY": 17.816,
+            "qualifiers.type.displayName": "takeOns"
+        },
+        {
+            "id": NaN,
+            "eventId": 11.5,
+            "cumulative_mins": 0.366666666666667,
+            "x": 40.635,
+            "y": 35.088,
+            "endX": 42.0,
+            "endY": 39.576,
+            "qualifiers.type.displayName": "takeOns"
+        }
+    ]
+}
