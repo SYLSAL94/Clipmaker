@@ -13,6 +13,9 @@ import platform
 import pandas as pd
 import streamlit as st
 import re
+from sqlalchemy import create_engine, text
+from dotenv import load_dotenv
+from r2_manager import upload_stream_to_r2
 
 from ui_match_utils import (
     extract_match_keywords_from_filenames,
@@ -74,33 +77,33 @@ def render_tab_config(
             "ui_half_filter": st.session_state.get("ui_half_filter", "Both halves"),
         }
 
-    def save_match_config():
-        name = st.session_state.get("ui_match_config_name", "").strip()
-        if name:
-            if " | " in name:
-                name = name.split(" | ")[-1].strip()
-            name = name.replace("/", "_").replace("\\", "_")
-            if not name.endswith(".json"):
-                name += ".json"
-            path = os.path.join(MATCH_CONFIG_DIR, name)
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-            config = get_current_matching_config()
-            with open(path, "w", encoding="utf-8") as f:
-                json.dump(config, f, indent=4)
-            st.session_state.ui_sel_match_config = name
-            st.success(f"Configuration '{name}' sauvegardée.")
-
-    def update_match_config():
-        name = st.session_state.get("ui_sel_match_config", "")
-        if name:
-            if " | " in name:
-                name = name.split(" | ")[-1].strip()
-            path = os.path.join(MATCH_CONFIG_DIR, name)
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-            config = get_current_matching_config()
-            with open(path, "w", encoding="utf-8") as f:
-                json.dump(config, f, indent=4)
-            st.success(f"Configuration '{name}' mise à jour.")
+    def save_match_config_to_db(match_name, video_key, data_key, ui_config):
+        """Enregistre la configuration du match directement dans PostgreSQL"""
+        # SÉCURITÉ : Chargement silencieux des variables d'environnement
+        load_dotenv('/home/datafoot/.env')
+        DB_PWD = os.getenv('POSTGRES_PWD')
+        
+        # Connexion à ton conteneur Docker
+        DB_URL = f"postgresql://analyst_admin:{DB_PWD}@127.0.0.1:5432/datafoot_db"
+        engine = create_engine(DB_URL)
+        
+        try:
+            with engine.connect() as conn:
+                # Upsert : Met à jour si le match existe, sinon l'insère
+                query = text("""
+                    INSERT INTO match_configs (match_name, r2_video_key, r2_data_key, ui_config)
+                    VALUES (:n, :v, :d, :c)
+                    ON CONFLICT (match_name) DO UPDATE SET
+                    r2_video_key = EXCLUDED.r2_video_key,
+                    r2_data_key = EXCLUDED.r2_data_key,
+                    ui_config = EXCLUDED.ui_config
+                """)
+                conn.execute(query, {"n": match_name, "v": video_key, "d": data_key, "c": json.dumps(ui_config)})
+                conn.commit()
+            return True
+        except Exception as e:
+            st.error(f"❌ Erreur SQL lors de l'enregistrement : {e}")
+            return False
 
     def load_match_config():
         name = st.session_state.get("ui_sel_match_config", "")
@@ -335,124 +338,49 @@ def render_tab_config(
                 st.info("Sélectionnez un match pour voir le diagnostic.")
 
     # =========================================================================
-    # SOURCE FILES
+    # SOURCE FILES (ZERO-DISK CLOUD INGESTION)
     # =========================================================================
-    st.subheader("📁 Fichiers Source")
-    split_video = st.checkbox("Match is split into two separate video files (1st/2nd half)", key="ui_split_video", on_change=update_match_config)
+    st.subheader("☁️ Ingestion Cloud (Zéro-Disque)")
+    match_name = st.text_input("Nom du Match (ex: Alaves_vs_Levante)", key="new_match_name")
 
-    vc1, vc2, vc3 = st.columns([4, 0.8, 0.8])
-    with vc1:
-        lbl1 = "1st Half Video File" if split_video else "Video File"
-        video_path = st.text_input(lbl1, value=st.session_state.video_path, placeholder="Click Browse or paste full path", on_change=update_match_config)
-        st.session_state.video_path = video_path
-    with vc2:
-        st.write("")
-        st.write("")
-        if platform.system() == "Windows":
-            if st.button("Browse", key="browse_video", use_container_width=True):
-                init_dir = get_initial_dir(st.session_state.video_path)
-                picked = browse_file([("Video files", "*.mp4 *.mkv *.avi *.mov *.ts"), ("All files", "*.*")], initialdir=init_dir)
-                if picked:
-                    st.session_state.video_path = picked
-                    safe_rerun()
-        else:
-            # Check for GDrive
-            if "drive.google.com" in st.session_state.video_path:
-                st.success("Lien Google Drive détecté")
+    col1, col2 = st.columns(2)
+    with col1:
+        video_file = st.file_uploader("🎬 Vidéo (.mp4)", type=["mp4", "mkv", "ts"])
+    with col2:
+        opta_file = st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"])
+
+    if st.button("🚀 Uploader et Sauvegarder", type="primary") and video_file and opta_file and match_name:
+        with st.spinner("Transfert vers Cloudflare R2..."):
+            # Les "clés" sont les chemins virtuels dans ton bucket theanalyste-clips
+            video_key = f"videos/{match_name}.mp4"
+            data_key = f"data/{match_name}.xlsx"
+            
+            # Envoi en streaming (RAM -> R2)
+            success_v = upload_stream_to_r2(video_file, video_key)
+            # Pas besoin de seek(0) si upload_stream_to_r2 le fait déjà, mais par sécu :
+            video_file.seek(0) 
+            
+            success_d = upload_stream_to_r2(opta_file, data_key)
+            opta_file.seek(0) 
+
+            if success_v and success_d:
+                # Injection dans PostgreSQL de la config UI (les réglages)
+                ui_config_dict = {
+                    "use_crop": st.session_state.get("ui_use_crop", False),
+                    "crop_params": st.session_state.get("ui_crop_params", {}),
+                    "periods": {
+                        "half1": st.session_state.get("ui_half1", ""),
+                        "half2": st.session_state.get("ui_half2", ""),
+                        "half3": st.session_state.get("ui_half3", ""),
+                        "half4": st.session_state.get("ui_half4", "")
+                    }
+                }
+                
+                if save_match_config_to_db(match_name, video_key, data_key, ui_config_dict):
+                    st.success("✅ Match synchronisé avec succès sur le Cloud et PostgreSQL !")
+                    st.balloons()
             else:
-                st.info("Collez un lien GDrive ci-contre")
-    with vc3:
-        st.write("")
-        st.write("")
-        if st.button("📂", key="open_video", help="Ouvrir l'emplacement", use_container_width=True):
-            open_file_location(st.session_state.video_path)
-
-    if split_video:
-        v2c1, v2c2, v2c3 = st.columns([4, 0.8, 0.8])
-        with v2c1:
-            video2_path = st.text_input("2nd Half Video File", value=st.session_state.video2_path, placeholder="Click Browse or paste full path", on_change=update_match_config)
-            st.session_state.video2_path = video2_path
-        with v2c2:
-            st.write("")
-            st.write("")
-            if platform.system() == "Windows":
-                if st.button("Browse", key="browse_video2", use_container_width=True):
-                    init_dir = get_initial_dir(st.session_state.video2_path)
-                    picked = browse_file([("Video files", "*.mp4 *.mkv *.avi *.mov *.ts"), ("All files", "*.*")], initialdir=init_dir)
-                    if picked:
-                        st.session_state.video2_path = picked
-                        safe_rerun()
-            else:
-                st.button("Browse", key="browse_video2", use_container_width=True, disabled=True, help="Désactivé sur VPS")
-        with v2c3:
-            st.write("")
-            st.write("")
-            if st.button("📂", key="open_video2", help="Ouvrir l'emplacement", use_container_width=True):
-                open_file_location(st.session_state.video2_path)
-    else:
-        video2_path = ""
-
-    cc1, cc2, cc3 = st.columns([4, 0.8, 0.8])
-    with cc1:
-        csv_path = st.text_input("CSV File", value=st.session_state.csv_path, placeholder="Click Browse or paste full path", on_change=update_match_config)
-        st.session_state.csv_path = csv_path
-    with cc2:
-        st.write("")
-        st.write("")
-        if platform.system() == "Windows":
-            if st.button("Browse", key="browse_csv", use_container_width=True):
-                init_dir = get_initial_dir(st.session_state.csv_path)
-                picked = browse_file([("Match Event files", "*.csv *.xlsx *.xls"), ("All files", "*.*")], initialdir=init_dir)
-                if picked:
-                    st.session_state.csv_path = picked
-                    st.session_state.opta_processed = False
-                    st.session_state.opta_df = None
-                    st.session_state.df_preview = None
-                    safe_rerun()
-        else:
-            # SERVER SIDE FILE LISTER - Focused on VIDFOOT
-            project_root = "/home/datafoot" if platform.system() == "Linux" else "."
-            vidfoot_dir = os.path.join(project_root, "VIDFOOT")
-            
-            if not os.path.exists(vidfoot_dir):
-                try: os.makedirs(vidfoot_dir, exist_ok=True)
-                except: pass
-            
-            # --- UPLOAD SECTION ---
-            with st.expander("📤 Upload vers VIDFOOT", expanded=False):
-                uploaded_files = st.file_uploader("Ajouter des fichiers Excel/CSV", type=["csv", "xlsx", "xls"], key="vidfoot_uploader", accept_multiple_files=True)
-                if uploaded_files:
-                    count = 0
-                    for uploaded_file in uploaded_files:
-                        target_path = os.path.join(vidfoot_dir, uploaded_file.name)
-                        if not os.path.exists(target_path): # Avoid redundant writes if not needed, or just overwrite
-                            with open(target_path, "wb") as f:
-                                f.write(uploaded_file.getbuffer())
-                            count += 1
-                    if count > 0:
-                        st.success(f"{count} fichier(s) sauvegardé(s) dans VIDFOOT !")
-                        st.rerun()
-            
-            # --- SELECT SECTION ---
-            try:
-                available_files = sorted([f for f in os.listdir(vidfoot_dir) if f.lower().endswith(('.csv', '.xlsx', '.xls'))])
-                if available_files:
-                    selected_f = st.selectbox("Sélectionner dans VIDFOOT", [""] + available_files, key="server_csv_selector", label_visibility="collapsed")
-                    if selected_f:
-                        new_path = os.path.join(vidfoot_dir, selected_f)
-                        if new_path != st.session_state.csv_path:
-                            st.session_state.csv_path = new_path
-                            st.session_state.opta_processed = False
-                            st.rerun()
-                else:
-                    st.warning("⚠️ Dossier VIDFOOT vide. Utilisez l'expandeur ci-dessus pour uploader.")
-            except Exception as e:
-                st.error(f"Erreur d'accès au dossier VIDFOOT")
-    with cc3:
-        st.write("")
-        st.write("")
-        if st.button("📂", key="open_csv", help="Ouvrir l'emplacement", use_container_width=True):
-            open_file_location(st.session_state.csv_path)
+                st.error("Erreur lors de l'upload vers Cloudflare R2.")
 
     # Opta Processing
     clean_csv_path = csv_path.strip().strip("\"'")

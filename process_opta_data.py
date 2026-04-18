@@ -52,23 +52,21 @@ class OptaProcessor:
         # String comparison
         if str(v) == str(value):
             return True
-            
-        return False
-
-    def process_file(self, file_path: str, log_callback=None) -> List[Dict]:
+              def process_file_stream(self, file_stream, file_name: str, log_callback=None) -> List[Dict]:
+        """ZERO-DISK : Lit directement le flux binaire de Streamlit via openpyxl ou pandas"""
         def log(msg):
             if log_callback: log_callback(msg)
             else: print(msg)
 
-        log(f"--- Ouverture du fichier : {os.path.basename(file_path)}")
-        ext = os.path.splitext(file_path)[1].lower()
+        log(f"--- Ingestion en mémoire : {file_name}")
+        ext = os.path.splitext(file_name)[1].lower()
         rows = []
         df_header_info = {}
         
         if ext in ['.txt', '.json']:
             log("Parsing du format JSON/JSONP Opta...")
-            with open(file_path, 'r', encoding='utf-8') as f:
-                text = f.read()
+            # For bytes stream, decode to text
+            text = file_stream.read().decode('utf-8')
             # Handle JSONP
             start = text.find('(')
             end = text.rfind(')')
@@ -114,7 +112,7 @@ class OptaProcessor:
             }
             
             # Known qualifier mapping (fallback to ID strings if unknown)
-            q_map = {131: 'Team player formation', 130: 'Team formation', 59: 'Jersey number', 227: 'Resume', 197: 'Team kit', 194: 'Captain', 44: 'Player position', 30: 'Involved', 127: 'Direction of Play', 279: 'Kick Off', 213: 'Angle', 212: 'Length', 56: 'Zone', 140: 'Pass End X', 141: 'Pass End Y', 1: 'Long ball', 155: 'Chipped', 233: 'Opposite related event ID', 285: 'Defensive', 286: 'Offensive', 3: 'Head pass', 168: 'Flick-on', 157: 'Launch', 178: 'Standing', 154: 'Intentional\\nassist', 20: 'Right footed', 210: 'Assist', 218: '2nd assist', 2: 'Cross', 224: 'Out-swinger', 55: 'Related event ID', 328: 'First Touch', 22: 'Regular play', 29: 'Assisted', 17: 'Box-centre', 230: 'GK X blocked', 102: 'Goal mouth y coordinate', 231: 'GK Y Coordinate', 103: 'Goal mouth z coordinate', 75: 'Right', 15: 'Head', 13: 'Foul', 152: 'Direct', 265: 'Attempted Tackle', 189: 'Not visible', 5: 'Free kick taken', 0: 'None', 295: 'Shirt Pull/Holding', 167: 'Out of play', 107: 'Throw-in', 156: 'Lay-off', 146: 'Blocked x co-ordinate', 133: 'Deflection', 215: 'Individual Play', 147: 'Blocked y co-ordinate', 76: 'Low left', 18: 'Out of box-centre', 180: 'Stooping', 182: 'Hands', 177: 'Collected', 72: 'Left footed', 345: 'Overhit Cross', 237: 'Low', 124: 'Goal Kick', 73: 'Left', 6: 'Corner taken', 223: 'In-swinger', 77: 'High left', 136: 'Keeper Touched', 113: 'Strong', 196: 'Switch of play', 236: 'Blocked\\nPass', 82: 'Blocked', 80: 'Low right', 25: 'From corner', 94: 'Def block', 225: 'Straight', 108: 'Volley', 121: 'Swerve Right', 174: 'Parried danger', 179: 'Diving', 211: 'Overrun', 4: 'Through ball', 78: 'Low centre', 139: 'Own Player', 64: 'Box-left', 228: 'Own Shot Blocked', 74: 'High', 123: 'Keeper Throw', 7: 'Players caught offside', 241: 'Indirect', 23: 'Fast Break', 294: 'Shove/push', 31: 'Yellow Card', 63: 'Box-right', 199: 'Gk kick from hands', 300: 'Solo run', 79: 'High centre', 88: 'High claim', 170: 'Leading to goal', 214: 'Big Chance', 16: 'Small box- centre', 264: 'Aerial Foul', 57: 'End type', 185: 'Blocked cross', 138: 'Hit Woodwork', 275: 'Hit Bar', 173: 'Parried safe', 42: 'Tactical', 292: 'Detailed Position ID', 293: 'Position Side ID', 145: 'Formation slot', 287: 'Over-arm', 14: 'Last line', 83: 'Close left', 283: 'Coach ID', 184: "Dissent", 62: "Box-deep right", 100: "Six yard blocked", 101: "Saved off line", 41: "Injury", 81: "High Right", 319: "Captain change", 120: "Swerve Left", 85: "Close high"}
+            q_map = {131: 'Team player formation', 130: 'Team formation', 59: 'Jersey number', 227: 'Resume', 197: 'Team kit', 194: 'Captain', 44: 'Player position', 30: 'Involved', 127: 'Direction of Play', 279: 'Kick Off', 213: 'Angle', 212: 'Length', 56: 'Zone', 140: 'Pass End X', 141: 'Pass End Y', 1: 'Long ball', 155: 'Chipped', 233: 'Opposite related event ID', 285: 'Defensive', 286: 'Offensive', 3: 'Head pass', 168: 'Flick-on', 157: 'Launch', 178: 'Standing', 154: 'Intentional\nassist', 20: 'Right footed', 210: 'Assist', 218: '2nd assist', 2: 'Cross', 224: 'Out-swinger', 55: 'Related event ID', 328: 'First Touch', 22: 'Regular play', 29: 'Assisted', 17: 'Box-centre', 230: 'GK X blocked', 102: 'Goal mouth y coordinate', 231: 'GK Y Coordinate', 103: 'Goal mouth z coordinate', 75: 'Right', 15: 'Head', 13: 'Foul', 152: 'Direct', 265: 'Attempted Tackle', 189: 'Not visible', 5: 'Free kick taken', 0: 'None', 295: 'Shirt Pull/Holding', 167: 'Out of play', 107: 'Throw-in', 156: 'Lay-off', 146: 'Blocked x co-ordinate', 133: 'Deflection', 215: 'Individual Play', 147: 'Blocked y co-ordinate', 76: 'Low left', 18: 'Out of box-centre', 180: 'Stooping', 182: 'Hands', 177: 'Collected', 72: 'Left footed', 345: 'Overhit Cross', 237: 'Low', 124: 'Goal Kick', 73: 'Left', 6: 'Corner taken', 223: 'In-swinger', 77: 'High left', 136: 'Keeper Touched', 113: 'Strong', 196: 'Switch of play', 236: 'Blocked\nPass', 82: 'Blocked', 80: 'Low right', 25: 'From corner', 94: 'Def block', 225: 'Straight', 108: 'Volley', 121: 'Swerve Right', 174: 'Parried danger', 179: 'Diving', 211: 'Overrun', 4: 'Through ball', 78: 'Low centre', 139: 'Own Player', 64: 'Box-left', 228: 'Own Shot Blocked', 74: 'High', 123: 'Keeper Throw', 7: 'Players caught offside', 241: 'Indirect', 23: 'Fast Break', 294: 'Shove/push', 31: 'Yellow Card', 63: 'Box-right', 199: 'Gk kick from hands', 300: 'Solo run', 79: 'High centre', 88: 'High claim', 170: 'Leading to goal', 214: 'Big Chance', 16: 'Small box- centre', 264: 'Aerial Foul', 57: 'End type', 185: 'Blocked cross', 138: 'Hit Woodwork', 275: 'Hit Bar', 173: 'Parried safe', 42: 'Tactical', 292: 'Detailed Position ID', 293: 'Position Side ID', 145: 'Formation slot', 287: 'Over-arm', 14: 'Last line', 83: 'Close left', 283: 'Coach ID', 184: "Dissent", 62: "Box-deep right", 100: "Six yard blocked", 101: "Saved off line", 41: "Injury", 81: "High Right", 319: "Captain change", 120: "Swerve Left", 85: "Close high"}
             
             for ev in events:
                 # --- 1. Basic properties ---
@@ -167,9 +165,12 @@ class OptaProcessor:
             df = pd.DataFrame(rows)
             
         elif ext in ['.xlsx', '.xls']:
-            df = pd.read_excel(file_path)
-            # Replicate header logic for home/away
-            df_header = pd.read_excel(file_path, header=None, nrows=3)
+            # Lecture 100% en mémoire vive (RAM)
+            df = pd.read_excel(file_stream, engine='openpyxl')
+            
+            # Remise à zéro du curseur pour la 2ème lecture du header
+            file_stream.seek(0)
+            df_header = pd.read_excel(file_stream, header=None, nrows=3, engine='openpyxl')
             rows = df.to_dict('records')
         else:
             encodings = ['utf-8', 'latin-1', 'cp1252', 'utf-16']
@@ -177,16 +178,20 @@ class OptaProcessor:
             df_header = None
             for enc in encodings:
                 try:
-                    df = pd.read_csv(file_path, encoding=enc)
-                    df_header = pd.read_csv(file_path, header=None, nrows=3, encoding=enc)
+                    # On remet le curseur au début pour chaque tentative
+                    file_stream.seek(0)
+                    df = pd.read_csv(file_stream, encoding=enc)
+                    file_stream.seek(0)
+                    df_header = pd.read_csv(file_stream, header=None, nrows=3, encoding=enc)
                     break
-                except UnicodeDecodeError:
+                except (UnicodeDecodeError, Exception):
                     continue
             
             if df is None:
-                # Fallback to default if all fail (will likely raise the error again)
-                df = pd.read_csv(file_path)
-                df_header = pd.read_csv(file_path, header=None, nrows=3)
+                file_stream.seek(0)
+                df = pd.read_csv(file_stream)
+                file_stream.seek(0)
+                df_header = pd.read_csv(file_stream, header=None, nrows=3)
             rows = df.to_dict('records')
         
         # Metadata extraction
