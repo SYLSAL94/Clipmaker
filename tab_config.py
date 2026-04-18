@@ -83,7 +83,6 @@ def render_tab_config(
 
     def update_match_config():
         """Mise à jour via le nouveau système SQL (Redirection)"""
-        # On pourrait ici implémenter une logique de mise à jour SQL simplifiée
         st.info("La mise à jour se fait désormais par l'interface Cloud en bas.")
 
     def save_match_config_to_db(match_name, video_key, data_key, ui_config):
@@ -93,26 +92,67 @@ def render_tab_config(
         DB_PWD = os.getenv('POSTGRES_PWD')
         
         # Connexion à ton conteneur Docker
-        DB_URL = f"postgresql://analyst_admin:{DB_PWD}@127.0.0.1:5432/datafoot_db"
-        engine = create_engine(DB_URL)
-        
         try:
+            engine = create_engine(f"postgresql://postgres:{DB_PWD}@localhost:5432/postgres")
             with engine.connect() as conn:
-                # Upsert : Met à jour si le match existe, sinon l'insère
+                # On utilise JSONB pour ui_config
+                import json
+                ui_config_json = json.dumps(ui_config)
+                
                 query = text("""
                     INSERT INTO match_configs (match_name, r2_video_key, r2_data_key, ui_config)
-                    VALUES (:n, :v, :d, :c)
-                    ON CONFLICT (match_name) DO UPDATE SET
-                    r2_video_key = EXCLUDED.r2_video_key,
-                    r2_data_key = EXCLUDED.r2_data_key,
-                    ui_config = EXCLUDED.ui_config
+                    VALUES (:m, :v, :d, :c)
+                    ON CONFLICT (match_name) 
+                    DO UPDATE SET 
+                        r2_video_key = EXCLUDED.r2_video_key,
+                        r2_data_key = EXCLUDED.r2_data_key,
+                        ui_config = EXCLUDED.ui_config,
+                        updated_at = CURRENT_TIMESTAMP;
                 """)
-                conn.execute(query, {"n": match_name, "v": video_key, "d": data_key, "c": json.dumps(ui_config)})
+                conn.execute(query, {"m": match_name, "v": video_key, "d": data_key, "c": ui_config_json})
                 conn.commit()
             return True
         except Exception as e:
-            st.error(f"❌ Erreur SQL lors de l'enregistrement : {e}")
+            st.error(f"Erreur PostgreSQL : {e}")
             return False
+
+    def associate_match_callback():
+        """Callback pour l'association Cloud (évite StreamlitAPIException)"""
+        m_name = st.session_state.get("new_match_name_h")
+        v1 = st.session_state.get("sel_r2_v1")
+        v2 = st.session_state.get("sel_r2_v2")
+        opta = st.session_state.get("d_up_h")
+        split = st.session_state.get("ui_split_video_h", False)
+        
+        if not (m_name and v1 and opta):
+            st.session_state.last_assoc_error = "Veuillez remplir tous les champs."
+            return
+
+        data_key = f"data/{m_name}.xlsx"
+        if upload_stream_to_r2(opta, data_key):
+            ui_cfg = {
+                "split_video": split,
+                "r2_video_key_h2": v2 if split else None,
+                "use_crop": st.session_state.get("ui_use_crop", False),
+                "crop_params": st.session_state.get("ui_crop_params", {}),
+                "periods": {
+                    "half1": st.session_state.get("ui_half1", ""),
+                    "half2": st.session_state.get("ui_half2", ""),
+                    "half3": st.session_state.get("ui_half3", ""),
+                    "half4": st.session_state.get("ui_half4", "")
+                }
+            }
+            if save_match_config_to_db(m_name, v1, data_key, ui_cfg):
+                # ICI on peut modifier session_state car on est en mode CALLBACK
+                st.session_state.video_path = v1
+                st.session_state.video2_path = v2 if split else ""
+                st.session_state.csv_path = data_key
+                st.session_state.ui_sel_match_config = m_name
+                st.session_state.assoc_success = True
+            else:
+                st.session_state.last_assoc_error = "Erreur SQL."
+        else:
+            st.session_state.last_assoc_error = "Erreur R2."
 
     def load_match_config():
         name = st.session_state.get("ui_sel_match_config", "")
@@ -368,65 +408,34 @@ def render_tab_config(
 
     available_v = st.session_state.r2_available_videos
     
-    selected_video_key = ""
-    selected_video_key_h2 = ""
-    
     if not available_v:
         st.warning("⚠️ Aucune vidéo trouvée sur Cloudflare R2. Uploadez vos fichiers dans le dossier 'videos/' via Cyberduck ou R2 Web UI.")
     else:
-        split_video = st.checkbox("Le match est fractionné en 2 fichiers (Mi-temps 1 & 2)", key="ui_split_video")
+        st.checkbox("Le match est fractionné en 2 fichiers (Mi-temps 1 & 2)", key="ui_split_video_h")
         
         c_v1, c_v2 = st.columns(2)
         with c_v1:
-            selected_video_key = st.selectbox("🎬 Vidéo 1 (ou Match complet)", [""] + available_v, key="sel_r2_v1")
+            st.selectbox("🎬 Vidéo 1 (ou Match complet)", [""] + available_v, key="sel_r2_v1")
         with c_v2:
-            if split_video:
-                selected_video_key_h2 = st.selectbox("🎬 Vidéo 2 (2ème mi-temps)", [""] + available_v, key="sel_r2_v2")
+            if st.session_state.get("ui_split_video_h"):
+                st.selectbox("🎬 Vidéo 2 (2ème mi-temps)", [""] + available_v, key="sel_r2_v2")
 
         # 2. L'upload du fichier Excel (Très léger pour la RAM)
         st.divider()
         col_d1, col_d2 = st.columns(2)
         with col_d1:
-            match_name = st.text_input("Nom du Match (ex: LALIGA_Alaves_Levante)", key="new_match_name_h")
+            st.text_input("Nom du Match (ex: LALIGA_Alaves_Levante)", key="new_match_name_h")
         with col_d2:
-            opta_file = st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"], key="d_up_h")
+            st.file_uploader("📊 Données Opta (.xlsx)", type=["xlsx"], key="d_up_h")
 
-        can_associate = selected_video_key and opta_file and match_name
-        if split_video:
-            can_associate = can_associate and selected_video_key_h2
-
-        if st.button("🚀 Associer et Sauvegarder", type="primary", disabled=not can_associate):
-            with st.spinner("Lien Vidéo 🔗 Données Opta..."):
-                data_key = f"data/{match_name}.xlsx"
-                
-                # Envoi uniquement de l'Excel vers R2 (la vidéo y est déjà !)
-                if upload_stream_to_r2(opta_file, data_key):
-                    
-                    # Injection SQL avec les clés R2
-                    ui_config_dict = {
-                        "split_video": split_video,
-                        "r2_video_key_h2": selected_video_key_h2,
-                        "use_crop": st.session_state.get("ui_use_crop", False),
-                        "crop_params": st.session_state.get("ui_crop_params", {}),
-                        "periods": {
-                            "half1": st.session_state.get("ui_half1", ""),
-                            "half2": st.session_state.get("ui_half2", ""),
-                            "half3": st.session_state.get("ui_half3", ""),
-                            "half4": st.session_state.get("ui_half4", "")
-                        }
-                    }
-                    
-                    if save_match_config_to_db(match_name, selected_video_key, data_key, ui_config_dict):
-                        # Mise à jour immédiate du session_state pour permettre les tests de timestamps/vidéos
-                        st.session_state.video_path = selected_video_key
-                        st.session_state.video2_path = selected_video_key_h2 if selected_video_key_h2 else ""
-                        st.session_state.csv_path = data_key
-                        st.session_state.ui_sel_match_config = match_name # On sélectionne le match
-                        
-                        st.success(f"✅ Match '{match_name}' synchronisé ! Vidéo et Excel liés dans PostgreSQL.")
-                        st.balloons()
-                else:
-                    st.error("Erreur lors de l'upload des données Opta vers R2.")
+        if st.button("🚀 Associer et Sauvegarder", type="primary", on_click=associate_match_callback):
+            if st.session_state.get("assoc_success"):
+                st.success("✅ Match synchronisé ! Vidéo et Excel liés dans PostgreSQL.")
+                st.balloons()
+                del st.session_state.assoc_success
+            elif st.session_state.get("last_assoc_error"):
+                st.error(f"Erreur : {st.session_state.last_assoc_error}")
+                del st.session_state.last_assoc_error
 
     # Opta Processing
     clean_csv_path = csv_path.strip().strip("\"'")
