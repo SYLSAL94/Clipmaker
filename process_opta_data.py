@@ -566,10 +566,19 @@ class OptaProcessor:
             if 'qualifiers' in df.columns:
                 df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(clean_dict_nans(x)) if isinstance(x, dict) else x)
 
+            # --- 🆔 FORCAGE UNICITE ID (Anti-Duplicate / Anti-Nan) ---
+            # On utilise le nom du match et l'index Pandas pour garantir un ID unique et sans 'nan'
+            df['id'] = df['matchName'].astype(str) + '_' + df.index.astype(str)
+
             # Ingestion massive via to_sql
             print(f"Insertion imminente de {len(df)} lignes en base...")
-            df.to_sql('opta_events', con=conn, if_exists='append', index=False, method='multi', chunksize=1000)
-            conn.commit()
+            try:
+                df.to_sql('opta_events', con=conn, if_exists='append', index=False, method='multi', chunksize=1000)
+                conn.commit()
+            except Exception as e:
+                # Capture et affichage de l'erreur PostgreSQL brute (orig)
+                print(f"❌ Erreur SQL native : {getattr(e, 'orig', e)}")
+                raise e
 
         log("✅ Ingestion PostgreSQL terminée avec succès.")
         return True
