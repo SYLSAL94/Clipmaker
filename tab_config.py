@@ -168,12 +168,17 @@ def render_tab_config(
                 except Exception as e:
                     st.warning(f"⚠️ Match associé mais erreur d'ingestion des événements : {e}")
 
-                # Sync Session State
-                st.session_state.video_path = v1
-                st.session_state.video2_path = v2 if split else ""
-                st.session_state.csv_path = data_key
+                st.success(f"🚀 Match '{m_name}' synchronisé avec le Cloud (PostgreSQL + R2) !")
+
+                # --- 🔄 AUTO-SWITCH & REFRESH ---
                 st.session_state.ui_sel_match_config = m_name
+                st.session_state.ui_match_config_name = m_name
+                st.session_state.opta_processed = False
+                st.session_state.opta_df = None
                 st.session_state.assoc_success = True
+                
+                # On rerun pour que l'orchestrateur (app_streamlit.py) détecte le changement
+                st.rerun()
             else:
                 st.session_state.last_assoc_error = "Erreur SQL lors de l'enregistrement."
         else:
