@@ -512,51 +512,48 @@ class OptaProcessor:
             log("⚠️ Aucun événement à ingérer.")
             return False
 
-        try:
-            # 1. Préparation des identifiants
-            load_dotenv('/home/datafoot/.env')
-            DB_PWD = os.getenv('POSTGRES_PWD')
-            if not DB_PWD:
-                log("❌ POSTGRES_PWD manquante dans le .env")
-                return False
+        # 1. Préparation des identifiants
+        load_dotenv('/home/datafoot/.env')
+        DB_PWD = os.getenv('POSTGRES_PWD')
+        if not DB_PWD:
+            log("❌ POSTGRES_PWD manquante dans le .env")
+            return False
 
-            # 2. Conversion et Filtrage Strict (Architecture DevOps)
-            df = pd.DataFrame(all_events)
-            
-            target_cols = ['id', 'matchName', 'teamName', 'playerName', 'minute', 'second', 'type', 'qualifiers']
-            
-            # Sécurité : Si une colonne manque, on la crée vide
-            for col in target_cols:
-                if col not in df.columns:
-                    df[col] = None
+        # 2. Conversion et Filtrage Strict (Architecture DevOps)
+        df = pd.DataFrame(all_events)
+
+        target_cols = ['id', 'matchName', 'teamName', 'playerName', 'minute', 'second', 'type', 'qualifiers']
+
+        # Sécurité : Si une colonne manque, on la crée vide
+        for col in target_cols:
+            if col not in df.columns:
+                df[col] = None
+
+        # Application du masque de colonnes (On ignore le surplus pour PostgreSQL)
+        df = df[target_cols]
+
+        # 3. Connexion et Ingestion
+        db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
+        engine = create_engine(db_url)
+
+        match_name = all_events[0].get('matchName', 'Unknown Match')
+
+        with engine.connect() as conn:
+            # Nettoyage des anciennes données pour ce match (Évite les doublons)
+            log(f"🧹 Nettoyage des anciens événements pour : {match_name}")
+            conn.execute(text("DELETE FROM opta_events WHERE \"matchName\" = :m"), {"m": match_name})
             
             # Sérialisation des dictionnaires complexes (qualifiers) en JSON pour SQL
             if 'qualifiers' in df.columns:
                 df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(x) if isinstance(x, dict) else x)
 
-            # Application du masque de colonnes (On ignore le surplus pour PostgreSQL)
-            df = df[target_cols]
+            # Ingestion massive via to_sql
+            print(f"Insertion imminente de {len(df)} lignes en base...")
+            df.to_sql('opta_events', con=conn, if_exists='append', index=False, method='multi', chunksize=1000)
+            conn.commit()
 
-            # 3. Connexion et Ingestion
-            db_url = f"postgresql://analyst_admin:{DB_PWD}@localhost:5432/datafoot_db"
-            engine = create_engine(db_url)
-            
-            match_name = all_events[0].get('matchName', 'Unknown Match')
-            
-            with engine.begin() as conn:
-                # Nettoyage des anciennes données pour ce match (Évite les doublons)
-                log(f"🧹 Nettoyage des anciens événements pour : {match_name}")
-                conn.execute(text("DELETE FROM opta_events WHERE \"matchName\" = :m"), {"m": match_name})
-                
-                # Ingestion massive via to_sql
-                log(f"🚀 Ingestion SQL de {len(df)} événements...")
-                df.to_sql('opta_events', con=conn, if_exists='append', index=False, method='multi', chunksize=1000)
-            
-            log("✅ Ingestion PostgreSQL terminée avec succès.")
-            return True
-        except Exception as e:
-            log(f"❌ Erreur lors de l'ingestion SQL : {e}")
-            return False
+        log("✅ Ingestion PostgreSQL terminée avec succès.")
+        return True
 
     def process_file(self, file_path: str, log_callback=None) -> List[Dict]:
         """Compatibilité descendante pour les appels par chemin de fichier."""
