@@ -218,7 +218,7 @@ def render_tab_batch(
                                 if not os.path.exists(cache_p):
                                     with st.spinner(f"Traitement {item['name']}..."):
                                         processor = OptaProcessor()
-                                        events = processor.process_file(csv_p)
+                                        events = processor.process_file(csv_p, forced_match_name=item["name"].replace(".json", ""))
                                         df = pd.DataFrame(events)
                                         df.to_csv(cache_p, index=False)
                                     st.toast(f"✅ Cache créé pour '{item['name']}'.")
@@ -268,7 +268,7 @@ def render_tab_batch(
                     cache_p = get_opta_cache_path(csv_p)
                     if not os.path.exists(cache_p):
                         processor = OptaProcessor()
-                        events = processor.process_file(csv_p)
+                        events = processor.process_file(csv_p, forced_match_name=m_name.replace(".json", ""))
                         df = pd.DataFrame(events)
                         df.to_csv(cache_p, index=False)
                         return f"✅ {m_name} : Cache créé."
@@ -326,7 +326,7 @@ def render_tab_batch(
                     
                     # Core processing call
                     processor = OptaProcessor()
-                    events = processor.process_file(csv_p)
+                    events = processor.process_file(csv_p, forced_match_name=m_name.replace(".json", ""))
                     df = pd.DataFrame(events)
                     df.to_csv(cache_p, index=False)
                     

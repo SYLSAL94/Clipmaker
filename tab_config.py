@@ -162,8 +162,8 @@ def render_tab_config(
                 from process_opta_data import OptaProcessor
                 try:
                     processor = OptaProcessor()
-                    # On utilise le buffer DB dédié pour éviter les collisions
-                    events = processor.process_file_stream(db_buffer, opta.name)
+                    # On utilise le buffer DB dédié pour éviter les collisions et on force l'ID métier de l'UI
+                    events = processor.process_file_stream(db_buffer, opta.name, forced_match_name=m_name)
                     processor.ingest_to_db(events)
                 except Exception as e:
                     st.warning(f"⚠️ Match associé mais erreur d'ingestion des événements : {e}")

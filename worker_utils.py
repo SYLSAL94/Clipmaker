@@ -61,7 +61,7 @@ def process_task(args):
         final_cache_path = get_opta_cache_path(raw_csv)
         
         processor = OptaProcessor()
-        processed_events = processor.process_file(raw_csv)
+        processed_events = processor.process_file(raw_csv, forced_match_name=config_name.replace(".json", ""))
         pd.DataFrame(processed_events).to_csv(final_cache_path, index=False)
         return True, config_name
     except Exception as e:

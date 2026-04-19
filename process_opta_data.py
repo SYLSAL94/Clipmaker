@@ -8,6 +8,16 @@ from typing import List, Dict, Any, Optional
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 
+def clean_dict_nans(obj):
+    """Nettoyage récursif pour transformer les NaNs (incompatibles JSONB) en None."""
+    if isinstance(obj, dict):
+        return {k: clean_dict_nans(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [clean_dict_nans(v) for v in obj]
+    elif pd.isna(obj): # Gère np.nan, float('nan') et None
+        return None
+    return obj
+
 class OptaProcessor:
     def __init__(self):
         self.duel_types = ['Tackle', 'TakeOn', 'Aerial', 'Foul', 'Dispossessed', 'Interception', 'BlockedPass', 'Challenge']
@@ -504,10 +514,12 @@ class OptaProcessor:
         return all_events
 
     def ingest_to_db(self, all_events: List[Dict], log_callback=None):
-        """
-        ZERO-DISK : Ingeste les événements traités directement dans PostgreSQL (datafoot_db).
+        """ZERO-DISK : Ingeste les événements traités directement dans PostgreSQL (datafoot_db).
         Utilise SQLAlchemy pour la performance et la sécurité.
         """
+        # --- 🧹 DEEP CLEAN JSONB (Anti-Nan Crash) ---
+        all_events = clean_dict_nans(all_events)
+
         def log(msg):
             if log_callback: log_callback(msg)
             else: print(msg)
@@ -552,7 +564,7 @@ class OptaProcessor:
 
             # Sérialisation des dictionnaires complexes (qualifiers) en JSON pour SQL
             if 'qualifiers' in df.columns:
-                df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(x) if isinstance(x, dict) else x)
+                df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(clean_dict_nans(x)) if isinstance(x, dict) else x)
 
             # Ingestion massive via to_sql
             print(f"Insertion imminente de {len(df)} lignes en base...")
