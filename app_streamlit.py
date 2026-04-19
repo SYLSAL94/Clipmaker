@@ -427,7 +427,7 @@ def main():
                     st.session_state.opta_df = df_sql
                     st.session_state.opta_processed = True
                     # Mise à jour automatique des menus déroulants de la barre latérale
-                    extract_ui_filters_options(df_sql)
+                    extract_ui_filters_options(df_sql, 'shortName', FLAT_ZONES)
                     st.toast(f"✅ {len(df_sql)} événements chargés depuis PostgreSQL.")
                 else:
                     st.error(f"❌ Impossible de trouver les données pour '{match_id}' dans PostgreSQL.")
