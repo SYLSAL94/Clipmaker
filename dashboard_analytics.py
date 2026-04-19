@@ -89,6 +89,8 @@ def compute_player_leaderboard(df, name_col):
     return None
 
 def extract_ui_filters_options(df, name_col, flat_zones):
+    # Sécurité anti-doublons de colonnes (JSONB/SQL joins)
+    df = df.loc[:, ~df.columns.duplicated()].copy()
     team_col = "teamName" if "teamName" in df.columns else ("team" if "team" in df.columns else None)
     
     action_types = sorted(df["type"].dropna().unique().tolist()) if "type" in df.columns else []
