@@ -21,6 +21,8 @@ from clip_processing import (
 )
 from interactive_visualizations import plot_tactical_sequence
 from ui_theme import step_header
+from r2_manager import get_r2_presigned_url
+
 
 
 def _parse_period(val):
@@ -537,9 +539,19 @@ def render_tab_buildup(MATCH_CONFIG_DIR: str, TEMP_DIR: str):
                         ts = match_clock_to_video_time(int(c_df.iloc[0]["minute"]), int(c_df.iloc[0]["second"]), p_val, ps, po) - before_bu
                         te = match_clock_to_video_time(int(c_df.iloc[-1]["minute"]), int(c_df.iloc[-1]["second"]), p_val_end, ps, po) + after_bu
 
-                        vs = h_cfg.get("video_path", "").strip().strip("\"'")
+                        video_url1 = h_cfg.get("video_path", "").strip().strip("\"'")
+                        video_url2 = h_cfg.get("video2_path", "").strip().strip("\"'")
+
+                        # --- 🌐 CLOUD-NATIVE DECODING (R2 Keys -> URLs) ---
+                        if video_url1 and not video_url1.startswith(('http', '/')) and not os.path.exists(video_url1):
+                            video_url1 = get_r2_presigned_url(video_url1)
+                        if video_url2 and not video_url2.startswith(('http', '/')) and not os.path.exists(video_url2):
+                            video_url2 = get_r2_presigned_url(video_url2)
+
+                        vs = video_url1
                         if h_cfg.get("ui_split_video") and p_val >= 2:
-                            vs = h_cfg.get("video2_path", "").strip().strip("\"'")
+                            vs = video_url2
+
 
                         all_specs.append({
                             "src": vs, "start": max(0, ts), "end": te,
@@ -628,12 +640,23 @@ def render_tab_buildup(MATCH_CONFIG_DIR: str, TEMP_DIR: str):
                         t_start = _match_t(chain_df.iloc[0]) - before_bu
                         t_end = _match_t(chain_df.iloc[-1]) + after_bu
 
-                        v_src = h_config.get("video_path", "").strip().strip("\"'")
-                        if h_config.get("ui_split_video") and chain_df.iloc[0]["resolved_period"] >= 2:
-                            v_src = h_config.get("video2_path", "").strip().strip("\"'")
+                        video_url1 = h_config.get("video_path", "").strip().strip("\"'")
+                        video_url2 = h_config.get("video2_path", "").strip().strip("\"'")
 
-                        if not v_src or not os.path.exists(v_src):
-                            raise FileNotFoundError(f"Fichier vidéo introuvable : {v_src}")
+                        # --- 🌐 CLOUD-NATIVE DECODING (R2 Keys -> URLs) ---
+                        if video_url1 and not video_url1.startswith(('http', '/')) and not os.path.exists(video_url1):
+                            video_url1 = get_r2_presigned_url(video_url1)
+                        if video_url2 and not video_url2.startswith(('http', '/')) and not os.path.exists(video_url2):
+                            video_url2 = get_r2_presigned_url(video_url2)
+
+                        v_src = video_url1
+                        if h_config.get("ui_split_video") and chain_df.iloc[0]["resolved_period"] >= 2:
+                            v_src = video_url2
+
+                        if not v_src:
+                            raise FileNotFoundError("Source vidéo manquante.")
+                        if not v_src.startswith('http') and not os.path.exists(v_src):
+                            raise FileNotFoundError(f"Fichier vidéo introuvable localement : {v_src}")
 
                         out_name = f"BU_Preview_{chain_data['team'].replace(' ', '_')}_{chain_data['start_minute']}_{chain_data['start_second']}.mp4"
                         out_p = os.path.join(TEMP_DIR, out_name)

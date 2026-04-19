@@ -54,7 +54,7 @@ class OptaProcessor:
         # String comparison
         if str(v) == str(value):
             return True
-    def process_file_stream(self, file_stream, file_name: str, log_callback=None) -> List[Dict]:
+    def process_file_stream(self, file_stream, file_name: str, log_callback=None, forced_match_name: str = None) -> List[Dict]:
         """ZERO-DISK : Lit directement le flux binaire de Streamlit via openpyxl ou pandas"""
         def log(msg):
             if log_callback: log_callback(msg)
@@ -239,7 +239,11 @@ class OptaProcessor:
             except:
                 pass
         
-        match_name = f"{raw_match_name}{date_hint} - {season}" if season != '?' else f"{raw_match_name}{date_hint}"
+        if forced_match_name:
+            match_name = forced_match_name
+        else:
+            match_name = f"{raw_match_name}{date_hint} - {season}" if season != '?' else f"{raw_match_name}{date_hint}"
+
 
         # Player ID to Name Map
         log("Recherche des noms de joueurs...")
@@ -558,10 +562,10 @@ class OptaProcessor:
         log("✅ Ingestion PostgreSQL terminée avec succès.")
         return True
 
-    def process_file(self, file_path: str, log_callback=None) -> List[Dict]:
+    def process_file(self, file_path: str, log_callback=None, forced_match_name: str = None) -> List[Dict]:
         """Compatibilité descendante pour les appels par chemin de fichier."""
         with open(file_path, 'rb') as f:
-            return self.process_file_stream(f, os.path.basename(file_path), log_callback)
+            return self.process_file_stream(f, os.path.basename(file_path), log_callback, forced_match_name=forced_match_name)
 
     def assign_receivers(self, all_events):
         for i, event in enumerate(all_events):

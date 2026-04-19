@@ -19,6 +19,8 @@ from clip_processing import (
 from interactive_visualizations import plot_interactive_pitch
 from dashboard_analytics import compute_pass_connections, compute_duel_connections, compute_player_leaderboard
 from ui_theme import step_header
+from r2_manager import get_r2_presigned_url
+
 
 
 def render_tab_preview(_df, FLAT_ZONES: dict):
@@ -259,14 +261,24 @@ def render_tab_preview(_df, FLAT_ZONES: dict):
                         p_start = {1: to_seconds(half1_ts or "0:00"), 2: to_seconds(half2_ts or "0:00")}
                         p_offset = {1: (0, 0), 2: (45, 0)}
 
+                        video_url1 = st.session_state.video_path
+                        video_url2 = st.session_state.video2_path
+
+                        # --- 🌐 CLOUD-NATIVE DECODING (R2 Keys -> URLs) ---
+                        if video_url1 and not video_url1.startswith(('http', '/')) and not os.path.exists(video_url1):
+                            video_url1 = get_r2_presigned_url(video_url1)
+                        if video_url2 and not video_url2.startswith(('http', '/')) and not os.path.exists(video_url2):
+                            video_url2 = get_r2_presigned_url(video_url2)
+
                         preview_config = {
                             "before_buffer": st.session_state.ui_preview_before,
                             "after_buffer": st.session_state.ui_preview_after,
                             "min_clip_gap": 0.5,
-                            "video_file": st.session_state.video_path,
-                            "video2_file": st.session_state.video2_path,
+                            "video_file": video_url1,
+                            "video2_file": video_url2,
                             "split_video": st.session_state.get("ui_split_video", False),
                         }
+
 
                         batch_specs = get_merged_specs_from_df(event_rows, preview_config, p_start, p_offset)
 
@@ -349,14 +361,24 @@ def render_tab_preview(_df, FLAT_ZONES: dict):
                     p_start = {1: to_seconds(half1_ts or "0:00"), 2: to_seconds(half2_ts or "0:00")}
                     p_offset = {1: (0, 0), 2: (45, 0)}
 
+                    video_url1 = st.session_state.video_path
+                    video_url2 = st.session_state.video2_path
+
+                    # --- 🌐 CLOUD-NATIVE DECODING (R2 Keys -> URLs) ---
+                    if video_url1 and not video_url1.startswith(('http', '/')) and not os.path.exists(video_url1):
+                        video_url1 = get_r2_presigned_url(video_url1)
+                    if video_url2 and not video_url2.startswith(('http', '/')) and not os.path.exists(video_url2):
+                        video_url2 = get_r2_presigned_url(video_url2)
+
                     preview_config = {
                         "before_buffer": st.session_state.ui_preview_before,
                         "after_buffer": st.session_state.ui_preview_after,
                         "min_clip_gap": 0.5,
-                        "video_file": st.session_state.video_path,
-                        "video2_file": st.session_state.video2_path,
+                        "video_file": video_url1,
+                        "video2_file": video_url2,
                         "split_video": st.session_state.get("ui_split_video", False),
                     }
+
 
                     specs = get_merged_specs_from_df(event_row, preview_config, p_start, p_offset)
                     if specs:

@@ -15,6 +15,8 @@ import streamlit as st
 from clip_processing import to_seconds, get_merged_specs_from_df, get_ffmpeg_binary
 from smp_component import shot_map
 from ui_theme import step_header, ACCENT
+from r2_manager import get_r2_presigned_url
+
 
 
 def render_tab_shots(FLAT_ZONES: dict):
@@ -226,23 +228,41 @@ def render_tab_shots(FLAT_ZONES: dict):
                 half2_ts = st.session_state.get("ui_half2", "0:00")
                 p_start = {1: to_seconds(half1_ts or "0:00"), 2: to_seconds(half2_ts or "0:00")}
                 p_offset = {1: (0, 0), 2: (45, 0)}
+                video_url1 = st.session_state.video_path
+                video_url2 = st.session_state.video2_path
+
+                # --- 🌐 CLOUD-NATIVE DECODING (R2 Keys -> URLs) ---
+                if video_url1 and not video_url1.startswith(('http', '/')) and not os.path.exists(video_url1):
+                    video_url1 = get_r2_presigned_url(video_url1)
+                if video_url2 and not video_url2.startswith(('http', '/')) and not os.path.exists(video_url2):
+                    video_url2 = get_r2_presigned_url(video_url2)
+
                 preview_config = {
                     "before_buffer": st.session_state.ui_preview_before,
                     "after_buffer": st.session_state.ui_preview_after,
                     "min_clip_gap": 0.5,
-                    "video_file": st.session_state.video_path,
-                    "video2_file": st.session_state.video2_path,
+                    "video_file": video_url1,
+                    "video2_file": video_url2,
                     "split_video": st.session_state.get("ui_split_video", False),
                 }
+
                 specs = get_merged_specs_from_df(event_row, preview_config, p_start, p_offset)
                 if specs:
                     spec = specs[0]
                     match_id_clean = "".join(x for x in str(spec.get("match_id", "single")) if x.isalnum())
                     preview_file = f"temp_previews/shot_prev_{match_id_clean}_{st.session_state.ui_shot_sel_idx}_{st.session_state.ui_preview_before}_{st.session_state.ui_preview_after}.mp4"
+                    v_src = spec["src"]
                     if not os.path.exists(preview_file):
-                        subprocess.run(
-                            [get_ffmpeg_binary(), "-y", "-ss", str(max(0, spec["start"])),
-                             "-to", str(spec["end"]), "-i", spec["src"],
+                        # Validation de la source (Local ou Cloud)
+                        if not v_src:
+                            st.error("❌ Source vidéo manquante.")
+                        elif not v_src.startswith('http') and not os.path.exists(v_src):
+                            st.error(f"❌ Fichier vidéo introuvable : {v_src}")
+                        else:
+                            subprocess.run(
+                                [get_ffmpeg_binary(), "-y", "-ss", str(max(0, spec["start"])),
+                                 "-to", str(spec["end"]), "-i", v_src,
+
                              "-c:v", "libx264", "-preset", "ultrafast", "-crf", "28",
                              "-c:a", "aac", "-b:a", "128k", preview_file],
                             capture_output=True,

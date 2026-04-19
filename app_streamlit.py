@@ -418,14 +418,22 @@ def main():
         video2_path = st.session_state.get("video2_path", "")
         csv_path = st.session_state.get("csv_path", "")
         
-        final_csv_for_filter = st.session_state.csv_path or csv_path
-        if st.session_state.opta_processed and st.session_state.opta_df is not None:
-            _df = st.session_state.opta_df
-        elif final_csv_for_filter and os.path.exists(final_csv_for_filter) and final_csv_for_filter.endswith(".csv"):
-            try:
-                _df = pd.read_csv(final_csv_for_filter)
-            except Exception:
-                pass
+        # --- 🌐 ZERO-DISK DATA PLANE LOADING (SQL) ---
+        match_id = st.session_state.get("ui_match_config_name")
+        if match_id and not st.session_state.get("opta_processed"):
+            with st.spinner(f"📡 Récupération des données Cloud pour {match_id}..."):
+                df_sql = load_match_data_task((match_id, MATCH_CONFIG_DIR))
+                if df_sql is not None:
+                    st.session_state.opta_df = df_sql
+                    st.session_state.opta_processed = True
+                    # Mise à jour automatique des menus déroulants de la barre latérale
+                    extract_ui_filters_options(df_sql)
+                    st.toast(f"✅ {len(df_sql)} événements chargés depuis PostgreSQL.")
+                else:
+                    st.error(f"❌ Impossible de trouver les données pour '{match_id}' dans PostgreSQL.")
+
+        # Assignation locale pour les onglets
+        _df = st.session_state.opta_df
 
         # Conditional rendering of the active tab ONLY
         if active_tab == "⚙️ Config Match":
