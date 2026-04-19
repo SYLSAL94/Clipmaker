@@ -543,6 +543,9 @@ class OptaProcessor:
             log(f"🧹 Nettoyage des anciens événements pour : {match_name}")
             conn.execute(text("DELETE FROM opta_events WHERE \"matchName\" = :m"), {"m": match_name})
             
+            # Purge globale des NaN Pandas vers None natif Python pour compatibilité JSONB/SQL
+            df = df.replace({float('nan'): None})
+
             # Sérialisation des dictionnaires complexes (qualifiers) en JSON pour SQL
             if 'qualifiers' in df.columns:
                 df['qualifiers'] = df['qualifiers'].apply(lambda x: json.dumps(x) if isinstance(x, dict) else x)
