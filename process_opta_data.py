@@ -538,6 +538,14 @@ class OptaProcessor:
         # 2. Conversion et Filtrage Strict (Architecture DevOps)
         df = pd.DataFrame(all_events)
 
+        # --- 🔢 NORMALISATION NUMÉRIQUE (Anti-Virgule Européenne) ---
+        advanced_metrics = ['xT', 'prog_pass', 'prog_carry', 'pass_or_carry_angle', 'x', 'y', 'endX', 'endY']
+        for col in advanced_metrics:
+            if col in df.columns:
+                # Convertit en string, remplace la virgule par un point, puis force en Float (les erreurs deviennent NaN)
+                df[col] = df[col].astype(str).str.replace(',', '.', regex=False)
+                df[col] = pd.to_numeric(df[col], errors='coerce')
+
         target_cols = ['id', 'matchName', 'teamName', 'playerName', 'minute', 'second', 'type', 'qualifiers']
 
         # Sécurité : Si une colonne manque, on la crée vide
