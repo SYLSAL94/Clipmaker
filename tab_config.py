@@ -24,8 +24,7 @@ from ui_match_utils import (
     filter_match_configs
 )
 from ui_helpers import (
-    browse_file, browse_folder, get_initial_dir,
-    open_file_location, safe_rerun, get_ffmpeg_path,
+    safe_rerun, get_ffmpeg_path,
 )
 from ui_theme import step_header
 from clip_processing import to_seconds
@@ -258,93 +257,12 @@ def render_tab_config(
     # =========================================================================
     # RENDER
     # =========================================================================
-    st.markdown(step_header(1, "Bases de Configurations"), unsafe_allow_html=True)
-
-    b1, b2 = st.columns([2, 1])
-    with b1:
-        def on_base_change():
-            st.session_state.opta_processed = False
-            st.session_state.opta_df = None
-            st.session_state.df_preview = None
-            st.session_state.ui_sel_match_config = ""
-            st.cache_data.clear()
-
-        base_names = list(st.session_state.ui_match_bases.keys())
-        idx = base_names.index(st.session_state.ui_active_base) if st.session_state.ui_active_base in base_names else 0
-        sel_base = st.selectbox(
-            "Base active",
-            options=base_names,
-            index=idx,
-            help="Choisissez le dossier qui contient vos configurations de match.",
-        )
-        if sel_base != st.session_state.ui_active_base:
-            st.session_state.ui_active_base = sel_base
-            on_base_change()
-            st.rerun()
-
-        cp1, cp2 = st.columns([0.9, 0.1])
-        cp1.caption(f"📍 Chemin actuel : `{MATCH_CONFIG_DIR}`")
-        if cp2.button("📂", key="open_active_base_dir", help="Ouvrir l'emplacement du dossier de base"):
-            open_file_location(MATCH_CONFIG_DIR)
-
-    with b2:
-        st.write("")
-        st.write("")
-        if st.button("🔄 Refresh Status", use_container_width=True, help="Force la mise à jour des icônes de statut (🎬⚙️⏱️)"):
-            st.cache_data.clear()
-            st.toast("✅ Toutes les icônes de statut ont été rafraîchies.", icon="🔄")
-            st.rerun()
-        if st.button("➕ Ajouter / Modifier une Base", use_container_width=True):
-            st.session_state.show_base_editor = not st.session_state.get("show_base_editor", False)
-
-    if st.session_state.get("show_base_editor"):
-        with st.expander("🛠️ Éditeur de Bases", expanded=True):
-            new_base_name = st.text_input("Nom de la base (Ex: Pro Liga 2024)", placeholder="Nom unique")
-            c_b1, c_b2 = st.columns([4, 1])
-            with c_b1:
-                new_base_path = st.text_input("Chemin du dossier match_configs", value=st.session_state.get("new_base_path", ""))
-                st.session_state.new_base_path = new_base_path
-            with c_b2:
-                st.write("")
-                st.write("")
-                if platform.system() == "Windows":
-                    if st.button("Browse", key="browse_new_base"):
-                        picked = browse_folder()
-                        if picked:
-                            st.session_state.new_base_path = picked
-                            st.rerun()
-                else:
-                    st.button("Browse", key="browse_new_base", disabled=True, help="Désactivé sur VPS (Linux)")
-
-            if st.button("✅ Enregistrer la Base", type="primary"):
-                if new_base_name and st.session_state.get("new_base_path"):
-                    path_to_save = st.session_state.new_base_path
-                    st.session_state.ui_match_bases[new_base_name] = path_to_save
-                    save_bases_fn()
-                    st.session_state.ui_active_base = new_base_name
-                    st.session_state.show_base_editor = False
-                    st.success(f"Base '{new_base_name}' ajoutée.")
-                    st.rerun()
-                else:
-                    st.error("Veuillez remplir le nom et le chemin.")
-
-            if len(st.session_state.ui_match_bases) > 1:
-                st.divider()
-                base_to_del = st.selectbox("Supprimer une base", options=[""] + [b for b in base_names if b != "Default"])
-                if base_to_del and st.button(f"🗑️ Supprimer {base_to_del}"):
-                    del st.session_state.ui_match_bases[base_to_del]
-                    save_bases_fn()
-                    st.session_state.ui_active_base = "Default"
-                    st.success(f"Base '{base_to_del}' supprimée.")
-                    st.rerun()
-
     st.divider()
     st.subheader(f"💾 Configurations dans '{current_base_name}' ({len(available_match_configs)})")
 
     mc_col1, mc_col2 = st.columns(2)
     with mc_col1:
         st.text_input("Nom de Match", placeholder="Ex: PSG_vs_OM", key="ui_match_config_name")
-        st.button("💾 Sauvegarder (Nouveau)", on_click=save_match_config, use_container_width=True, key="save_match_config_btn")
         st.button("🔄 Refresh (Vider)", on_click=reset_match_config, use_container_width=True, key="reset_match_config_btn")
 
     with mc_col2:
@@ -503,101 +421,6 @@ def render_tab_config(
                 st.error(f"Erreur : {st.session_state.last_assoc_error}")
                 del st.session_state.last_assoc_error
 
-    # Opta Processing
-    clean_csv_path = csv_path.strip().strip("\"'")
-    file_ext = clean_csv_path.lower()
-    is_supported = file_ext.endswith((".xlsx", ".xls", ".csv"))
-    cache_path_opta = get_opta_cache_path(clean_csv_path)
-    is_already_processed_file = "_PROCESSED_OPTA.csv" in clean_csv_path
-    cache_exists = os.path.exists(cache_path_opta) if cache_path_opta else False
-
-    if clean_csv_path and os.path.exists(clean_csv_path) and is_supported and not is_already_processed_file:
-        if not st.session_state.opta_processed:
-            if cache_exists:
-                try:
-                    temp_df = pd.read_csv(cache_path_opta)
-                    # Check for mandatory columns that trigger a re-process if missing
-                    mandatory_cols = ["one_two_score"]
-                    if any(c not in temp_df.columns for c in mandatory_cols):
-                        st.session_state.opta_processed = False
-                    else:
-                        st.session_state.opta_df = temp_df
-                        st.session_state.opta_processed = True
-                        st.session_state.is_aggregate_mode = False
-                        safe_rerun()
-                except Exception as e:
-                    st.error(f"Erreur chargement auto cache: {e}")
-
-            st.info("💡 Nouveau fichier ou besoin de recalculer ? Cliquez ci-dessous.")
-            if st.button("✨ Process Opta Data (Nouveau)", use_container_width=True, type="secondary"):
-                st.session_state.show_opta_logs = True
-                st.session_state.opta_process_logs = []
-                try:
-                    delete_opta_cache(clean_csv_path)
-                    final_cache_path = get_opta_cache_path(clean_csv_path)
-                    from process_opta_data import OptaProcessor
-                    processor = OptaProcessor()
-                    log_container = st.empty()
-
-                    def update_logs(msg):
-                        st.session_state.opta_process_logs.append(msg)
-                        log_container.markdown(
-                            f'<div class="log-box">{"<br>".join(st.session_state.opta_process_logs[-15:])}</div>',
-                            unsafe_allow_html=True,
-                        )
-
-                    with st.spinner("🚀 Traitement Opta en cours..."):
-                        processed_events = processor.process_file(clean_csv_path, log_callback=update_logs)
-                        df = pd.DataFrame(processed_events)
-                        df.to_csv(final_cache_path, index=False)
-                        st.session_state.opta_df = df
-                        st.session_state.opta_processed = True
-                        st.session_state.is_aggregate_mode = False
-                        st.session_state.df_preview = None
-                        update_logs("<span style='color:#00ff88;'>🏁 TRAITEMENT TERMINÉ AVEC SUCCÈS !</span>")
-                        st.toast("✅ Données Opta traitées.", icon="🚀")
-                except Exception as e:
-                    err_msg = f"<span style='color:#ff4b4b;'>❌ ERREUR : {str(e)}</span>"
-                    st.session_state.opta_process_logs = st.session_state.get("opta_process_logs", []) + [err_msg]
-                    st.error(f"Le process a échoué : {e}")
-
-            if st.session_state.get("show_opta_logs") and st.session_state.get("opta_process_logs"):
-                st.markdown(
-                    f'<div class="log-box">{"<br>".join(st.session_state.opta_process_logs)}</div>',
-                    unsafe_allow_html=True,
-                )
-                if st.button("🗑️ Fermer les logs", key="close_opta_logs_btn"):
-                    st.session_state.show_opta_logs = False
-                    st.session_state.opta_process_logs = []
-                    st.rerun()
-        else:
-            st.success("✅ Données Opta prêtes (chargées en mémoire).")
-            col_a, col_b = st.columns(2)
-            with col_a:
-                if st.button("🔄 Re-process (Forcer)", use_container_width=True):
-                    st.session_state.opta_processed = False
-                    safe_rerun()
-            with col_b:
-                if st.button("🗑️ Supprimer Cache", use_container_width=True):
-                    delete_opta_cache(clean_csv_path)
-                    st.session_state.opta_processed = False
-                    st.warning("Tous les caches associés ont été supprimés.")
-                    safe_rerun()
-    elif is_already_processed_file and os.path.exists(clean_csv_path):
-        if not st.session_state.opta_processed:
-            try:
-                st.session_state.opta_df = pd.read_csv(clean_csv_path)
-                st.session_state.opta_processed = True
-                st.session_state.is_aggregate_mode = False
-                safe_rerun()
-            except Exception as e:
-                st.error(f"Erreur lecture fichier pré-traité: {e}")
-        else:
-            st.success("✅ Données Opta prêtes (Fichier traité).")
-            if st.button("🔄 Recharger Fichier", use_container_width=True):
-                st.session_state.opta_processed = False
-                safe_rerun()
-
     # =========================================================================
     # KICK-OFF TIMESTAMPS
     # =========================================================================
@@ -621,7 +444,7 @@ def render_tab_config(
 
     tc1, tc2 = st.columns(2)
     with tc1:
-        half1 = st.text_input("1st Half kick-off", placeholder="e.g. 4:16", key="ui_half1", on_change=update_match_config)
+        half1 = st.text_input("1st Half kick-off", placeholder="e.g. 4:16", key="ui_half1")
         if half1 and test_video1:
             col_h1_btn1, col_h1_btn2, col_h1_btn3 = st.columns([1, 1, 1])
             with col_h1_btn1:
