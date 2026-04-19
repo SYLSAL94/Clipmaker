@@ -208,13 +208,19 @@ def render_tab_config(
                         # On injecte les valeurs de ui_config dans le session_state
                         if ui_config:
                             for k, v in ui_config.items():
-                                # On évite de polluer avec des clés internes
-                                if k not in ["r2_video_key", "r2_data_key"]:
+                                if k == "split_video":
+                                    st.session_state["ui_split_video"] = v
+                                elif k == "r2_video_key_h2":
+                                    st.session_state["video2_path"] = v
+                                elif k == "use_crop":
+                                    st.session_state["ui_use_crop"] = v
+                                elif k == "crop_params":
+                                    st.session_state["ui_crop_params"] = v
+                                elif k == "periods" and isinstance(v, dict):
+                                    for p_key, p_val in v.items():
+                                        st.session_state[f"ui_{p_key}"] = p_val
+                                elif k not in ["r2_video_key", "r2_data_key"]:
                                     st.session_state[k] = v
-                                    # Correction spécifique pour les périodes
-                                    if k == "periods" and isinstance(v, dict):
-                                        for p_key, p_val in v.items():
-                                            st.session_state[f"ui_{p_key}"] = p_val
 
                         st.session_state["ui_match_config_name"] = name
                         st.session_state.opta_processed = False
